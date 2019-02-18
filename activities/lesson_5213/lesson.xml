@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="159" moduleid="5213" modulename="lesson" contextid="16103">
+  <lesson id="159">
+    <course>137</course>
+    <name>Part 3: Strategies for Teaching Critical Thinking and the Language of Critical Thinking</name>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1435277003</timemodified>
+    <pages>
+      <page id="742">
+        <prevpageid>0</prevpageid>
+        <nextpageid>743</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091460</timecreated>
+        <timemodified>1437843813</timemodified>
+        <title>Overview</title>
+        <contents>&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Adding a Layer of Critical Thinking&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Lesson Modifications&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Questions Teachers Ask&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Language Needed To Express Critical Thinking&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT4_0120.mp3"&gt;ELL_MOD1_UNIT4_0120.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;This section explores a variety of ways that we can foster development of critical thinking skills at all levels with adult ELLs. We look at lesson modifications that add a layer of critical thinking. We look at questioning strategies instructors can use that promote critical thinking. We also explore the language adult ELLs need to engage in those critical conversations. What are the words we need to use in English to synthesize ideas from a multiple sources? We start this section with a beginning-level-reading lesson.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1513">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="743">
+        <prevpageid>742</prevpageid>
+        <nextpageid>744</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091574</timecreated>
+        <timemodified>1444781361</timemodified>
+        <title>Adding a Layer of Critical Thinking</title>
+        <contents>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Choua.png" width="250" height="393" alt="" style="float: right; margin: 5px 15px;" /&gt;&lt;span style="font-size: medium;"&gt;Imagine that you came across the following reading text and accompanying questions in your book or curriculum.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Choua's New Job&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Choua Vang has a new job. Now Choua works at Family Mart. She works part time from 7:00 in the morning to noon. Now she can be with her two younger sisters and brother in the afternoon and then go to school to work on her English in the evening.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Choua usually helps her sister with homework in the afternoon. Sometimes they go to the playground near their house. They often help their mother. They wash clothes and help clean the house. Choua enjoys her new schedule.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Where does Choua work?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;What are her hours?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;How many brothers and sisters does she have?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;How does she help her mother?&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT4_0130.mp3"&gt;ELL_MOD1_UNIT4_0130.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;This kind of reading text and task is fairly common in ELA materials, isn’t it? How does it promote critical thinking? Were the teacher to have students look at the picture and title and make some predictions, learners could then read and compare what they learn to their own assumptions. Or if they did a pre-reading exercise about their job and personal schedule, they could compare Choua’s experiences to their own, which promotes some level of critical thinking. Although the questions are all wh-questions, they are generally display questions, that’s to say, those with only one right answer. They don’t require any interpretation on the part of the reader. Now let’s see how we can add a layer of critical thinking by using a simple graphic organizer, a line-up task, and questions that require some abstraction.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1514">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091574</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1515">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091574</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="744">
+        <prevpageid>743</prevpageid>
+        <nextpageid>745</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1439146340</timecreated>
+        <timemodified>0</timemodified>
+        <title>Adding a Layer of Critical Thinking 2</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;You have read the story about Choua's new job and schedule, &lt;/span&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;create a template like this one and fill in the boxes with the information.&lt;/span&gt;&lt;/p&gt;
+&lt;table style="width: 50%;" align="center" border="0" cellpadding="5" cellspacing="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Morning&lt;/td&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;
+&lt;ul&gt;
+&lt;li&gt;_______________________&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;span style="font-size: medium;"&gt;↓&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Afternoon&lt;/td&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;
+&lt;ul&gt;
+&lt;li&gt;_______________________&lt;/li&gt;
+&lt;li&gt;_______________________&lt;/li&gt;
+&lt;li&gt;_______________________&lt;/li&gt;
+&lt;li&gt;_______________________&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;span style="font-size: medium;"&gt;↓&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Evening&lt;/td&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;
+&lt;ul&gt;
+&lt;li&gt;_______________________&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1530">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1439146340</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1531">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1439146340</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="745">
+        <prevpageid>744</prevpageid>
+        <nextpageid>752</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435094974</timecreated>
+        <timemodified>1437843858</timemodified>
+        <title>What critical thinking skills were added?</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Which of these skills did the task of reading and filling in the linear string add to the lesson?&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Organizing information&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Categorizing information&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Sequencing&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Recognizing a chronology&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1516">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435094974</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1517">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435094974</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="752">
+        <prevpageid>745</prevpageid>
+        <nextpageid>746</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435095744</timecreated>
+        <timemodified>1437843876</timemodified>
+        <title>Adding the Linear String Graphic Organizer</title>
+        <contents>&lt;table style="width: 50%;" align="right" border="0" cellpadding="5" cellspacing="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;
+&lt;ul&gt;
+&lt;li&gt;____________________________&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;↓&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;
+&lt;ul&gt;
+&lt;li&gt;_____________________________&lt;/li&gt;
+&lt;li&gt;_&lt;span style="text-decoration: underline;"&gt;&lt;em&gt;Helps her sister with homework&lt;/em&gt;&lt;/span&gt;___&lt;/li&gt;
+&lt;li&gt;_____________________________&lt;/li&gt;
+&lt;li&gt;___&lt;span style="text-decoration: underline;"&gt;&lt;em&gt;Cleans the house&lt;/em&gt;&lt;/span&gt;_____________&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;span style="font-size: medium;"&gt;↓&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;
+&lt;ul&gt;
+&lt;li&gt;_____________________________&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;This simple modification gives learners practice with . . .&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Organizing information&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Categorizing information&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Sequencing&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Recognizing a chronology&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT4_0140.mp3"&gt;ELL_MOD1_UNIT4_0140.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;If you chose all four skills, you were right! With this first modification, reading and filling in a linear string graphic organizer, learners practice organizing and categorizing information, and sequencing events. The linear string provides a visual representation of the chronology of Choua’s day. Notice that information in the last box is actually in the first paragraph. The linear string makes that more apparent to the learner. Compare this reading task to the original task of reading and answering comprehension questions. See how this simple modification gives beginners practice with critical thinking. At this level, we don’t have to name these skills; we are simply teaching in a way that gives learners practice with them. We have moved from Level 1 Depth of Knowledge to Level 2 and beyond already, haven’t we?&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1518">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435095744</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1519">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435095744</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="747">
+        <prevpageid>746</prevpageid>
+        <nextpageid>748</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435936914</timecreated>
+        <timemodified>1437843900</timemodified>
+        <title>Modification 2—Lineup Task</title>
+        <contents>&lt;table border="0" cellpadding="5" cellspacing="5" style="width: 40%;" align="right"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td style="text-align: center; background-color: #19568b;"&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;Go to school&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center; background-color: #19568b;"&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;Wash clothes&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td style="text-align: center; background-color: #19568b;"&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;Work at Family Mart&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center; background-color: #19568b;"&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;Be with sister and brother&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td style="text-align: center; background-color: #19568b;"&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;Clean house&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center; background-color: #19568b;"&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;Go to the playground&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td style="text-align: center; background-color: #19568b;"&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;Help her mother&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Steps:&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Distribute cards like these with Choua's activities&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Learners with cards come to front of class&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Organize themselves according to:&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li style="list-style-type: none;"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Morning&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Afternoon&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Evening&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Is there a particular order to the afternoon activities? Let's see what questions we can ask to get learners really thinking about the text.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1522">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435936914</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1523">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435936914</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="748">
+        <prevpageid>747</prevpageid>
+        <nextpageid>749</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435936952</timecreated>
+        <timemodified>1437843910</timemodified>
+        <title>Modification 3—Asking the right questions</title>
+        <contents>&lt;table border="0" cellpadding="5" cellspacing="5" style="width: 40%;" align="right"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td style="text-align: center; background-color: #19568b;"&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;Go to school&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center; background-color: #19568b;"&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;Wash clothes&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td style="text-align: center; background-color: #19568b;"&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;Work at Family Mart&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center; background-color: #19568b;"&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;Be with sister and brother&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td style="text-align: center; background-color: #19568b;"&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;Clean house&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center; background-color: #19568b;"&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;Go to the playground&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td style="text-align: center; background-color: #19568b;"&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;Help her mother&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Once students organize themselves, ask the whole class:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;When does Choua take her brother and sister to the playground?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Do they do homework before going to the playground? Why?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;When do you think they wash clothes? Is it every day? Every other day? Once a week?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;How is Choua's life different? How do we know?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Why do you think she likes her new schedule?&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1524">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435936952</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1525">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435936952</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="749">
+        <prevpageid>748</prevpageid>
+        <nextpageid>750</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435937033</timecreated>
+        <timemodified>1437843919</timemodified>
+        <title>What critical thinking skills were added?</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;What do the lineup and new questions promote?&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Analyzing the relationship between ideas&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Categorizing and sequencing information&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Finding evidence to support a claim&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Recognizing a chronology&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Decision making&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1526">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435937033</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1527">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435937033</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="750">
+        <prevpageid>749</prevpageid>
+        <nextpageid>751</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435937103</timecreated>
+        <timemodified>1444781397</timemodified>
+        <title>The Questions We Ask</title>
+        <contents>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/instructor%20with%20learners.png" width="250" height="392" alt="" style="float: right; margin: 5px 15px;" /&gt;&lt;span style="font-size: medium;"&gt;The line of questioning added in place of a series of comprehension questions helps learners to:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Analyze the relationship between ideas&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Categorize and sequence information&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Find evidence to support a claim&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Recognize a chronology&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT4_0160.mp3"&gt;ELL_MOD1_UNIT4_0160.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;If you chose all five skills, you were right! Ordering themselves and then responding to the questions really heightens the level of critical thinking with this reading. Learners have to analyze the relationship between ideas as they categorize and sequence the activities in Choua’s day. Was there one chronology for Choua’s afternoon activities? Do we know if she does those activities every day? No, Choua and her siblings had to make a decision whether to stand in a particular order or not. Through the questions, the group can debate whether it’s wise to do homework before or after going to the playground. They can discuss their own beliefs about roles in the family and chores to be done and how frequently (we don’t usually wash clothes every day, for example). A text may not spell out these relationships between ideas, but we draw on logic and our own experiences to interpret even a simple text like this. These teaching strategies draw learners’ attention to these features. The simple word “now” signals the change in Choua’s life and helps to explain how important it is that she can now be with her siblings. That and the fact that she can manage work and family and still study English may be the evidence of why she likes her new schedule.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1528">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435937103</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1529">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435937103</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="751">
+        <prevpageid>750</prevpageid>
+        <nextpageid>753</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444609104</timecreated>
+        <timemodified>1445028337</timemodified>
+        <title>Read and Reflect (required for instructors)</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;a href="https://teal.ed.gov/sites/default/files/Fact-Sheets/12_TEAL_Deeper_Learning_Qs_complete_5_1_0.pdf" title="TEAL Fact Sheet" target="_blank"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;TEAL Fact Sheet: &lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="https://teal.ed.gov/sites/default/files/Fact-Sheets/12_TEAL_Deeper_Learning_Qs_complete_5_1_0.pdf" title="TEAL Fact Sheet" target="_blank"&gt;&lt;strong&gt;Deeper Thinking Through Questioning&lt;/strong&gt;&lt;/a&gt; (&lt;/span&gt;&lt;span style="font-size: medium;"&gt;U.S. Department of Education)&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Now read &lt;em&gt;Deeper Thinking Through Questioning&lt;/em&gt; and answer these questions:&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;1. What kinds of questions promote the most critical thinking?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;2. Picture a particular group of learners you teach now. Which of the approaches described in the article seem most promising for that group and why?&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1532">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444609104</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1533">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444609104</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="753">
+        <prevpageid>751</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444609329</timecreated>
+        <timemodified>1447728700</timemodified>
+        <title>Video: Tasks that promote critical thinking</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;This video demonstrates how the choice of tasks we give learners, whether in a grammar, vocabulary, listening, speaking or writing lesson, can add a layer of critical thinking at any level of instruction.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: medium;"&gt;&lt;object width="560" height="315"&gt;&lt;param name="movie" value="//www.youtube.com/embed/6NSXospk9Js?hl=en_US&amp;amp;version=3&amp;amp;rel=0" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed height="315" type="application/x-shockwave-flash" width="560" src="https://www.youtube.com/v/6NSXospk9Js?hl=en_US&amp;amp;version=3&amp;amp;rel=0" allowfullscreen="true" allowscriptaccess="always" title="Adobe Flash Player" /&gt;&lt;/object&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Task&lt;/strong&gt;: Print the &lt;strong&gt;&lt;a title="Video Observation Form" href="@@PLUGINFILE@@/M1U4_S39_Video_Obs_508.docx" target="_blank"&gt;Video Observation Form&lt;/a&gt;&lt;/strong&gt; and note the task type and the thinking skills practiced with each. The video also demonstrates valuable "learning" skills that relate to critical thinking, for example, categorizing information to help with memory retention.&lt;/span&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Task for Instructors&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Categories presented in the video:&lt;/span&gt;&lt;/p&gt;
+&lt;ol style="text-align: left;"&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Categorizing tasks&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Activities using grids&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Graphic organizers&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Choose three ideas from the video, one from each category presented, that you could readily apply to a lesson you commonly teach. &lt;strong&gt;What critical thinking skills would this add to your lesson? What Depth of Knowledge level would you reach and why? Present these ideas to colleagues if you are working with others on this unit.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;1. Idea 1&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;2. Idea 2&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;3. Idea 3&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54678"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54677"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54680"&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54682"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54681"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;. &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1534">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444609329</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1535">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444609329</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="746">
+        <prevpageid>752</prevpageid>
+        <nextpageid>747</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435936104</timecreated>
+        <timemodified>1437843972</timemodified>
+        <title>Adding the Linear String Graphic Organizer</title>
+        <contents>&lt;table style="width: 50%;" align="right" border="0" cellpadding="5" cellspacing="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="text-decoration: underline;"&gt;&lt;em&gt;__Works at Family Mart__&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;span style="text-decoration: underline;"&gt;&lt;em&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;↓&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="text-decoration: underline;"&gt;&lt;em&gt;_Home with sister and brother_____&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="text-decoration: underline;"&gt;&lt;em&gt;_Helps her sister with homework___&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="text-decoration: underline;"&gt;&lt;em&gt;___Go to a playground___________&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="text-decoration: underline;"&gt;&lt;em&gt;__Helps mother_________________&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="text-decoration: underline;"&gt;&lt;em&gt;__Wash clothes_________________&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="text-decoration: underline;"&gt;&lt;em&gt;___Cleans the house_____________&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;span style="text-decoration: underline;"&gt;&lt;em&gt;&lt;span style="font-size: medium;"&gt;↓&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="text-decoration: underline;"&gt;&lt;em&gt;__Goes to school________________&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Also provides practice with . . .&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Reading for specific information&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Finding evidence to support a claim&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Information transfer—text to visual representation&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Note-taking (linear string serving as a precursor to note-taking)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT4_0150.mp3"&gt;ELL_MOD1_UNIT4_0150.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;This approach includes additional benefits, such as reading for specific information, information transfer (text to visual representations), and note-taking, which are explored in depth in Unit 3 of this module. These are all important academic and work skills. This task also makes evidence to support a claim more obvious. The text says Choua likes her new schedule. Why? The word “now” is a good clue as it tells us something changed in Choua’s life. Now let’s turn to the next modification where students are given a card with just one activity in Choua’s day and asked to line up according to morning, afternoon or evening activities, a sort of human graphic organizer.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1520">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435936104</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1521">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435936104</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

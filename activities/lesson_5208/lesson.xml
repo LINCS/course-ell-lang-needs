@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="156" moduleid="5208" modulename="lesson" contextid="16098">
+  <lesson id="156">
+    <course>137</course>
+    <name>Unit 4 Overview</name>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1435277003</timemodified>
+    <pages>
+      <page id="721">
+        <prevpageid>0</prevpageid>
+        <nextpageid>722</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091460</timecreated>
+        <timemodified>1446851310</timemodified>
+        <title>Overview</title>
+        <contents>&lt;h2 style="text-align: left;"&gt;Unit 4: Incorporating Instruction in Critical Thinking at All Levels of Adult English Language Acquisition*&lt;/h2&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;This unit focuses on critical thinking skills as well as the language of critical thinking adult English language learners, in any type of class at any level, need to:&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Express ideas and build on others' ideas in academic and professional conversations appropriately&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Access and understand more complex written and oral texts at work and school&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Make use of higher-order skills to make decisions, solve problems, and fully engage with others&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Content in this unit complements the content in Units 2 and 3, as well as in the other modules in the LINCS ESL Pro Project.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium; color: #a0271d;"&gt;*The &lt;em&gt;Workforce Innovation and Opportunities Act&lt;/em&gt; uses the term &lt;em&gt;English Language Acquisition&lt;/em&gt; (ELA) to describe English language instruction for nonnative English speakers rather than the ESL or ESOL terminology.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Listen to audio:&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT4_0010.mp3"&gt;ELL_MOD1_UNIT4_0010.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Welcome to Unit 4 of Meeting the Language Needs of Today’s Adult English Language Learner. In this unit, we turn to critical thinking. What are critical thinking skills and why are they so important? Also, how do learners express those critical thinking skills in their speaking and writing? Critical thinking is closely linked to understanding complex texts and tasks as learners analyze and interpret information.&lt;/p&gt;
+&lt;p&gt;This unit complements Units 2 and 3 and represents one of the core components of meeting the language needs of today’s adult ELLs. It should take between 2 and a half and 3 hours to complete. Continue to the unit objectives now.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;em&gt;Using the buttons at the bottom will present the materials in order. &lt;/em&gt;&lt;em&gt;You can also navigate to the pages in this section by using the &lt;/em&gt;&lt;strong&gt;Lesson menu&lt;/strong&gt;&lt;em&gt; on the left.&lt;/em&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1473">
+            <jumpto>722</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Instructors</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1480">
+            <jumpto>723</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Administrators</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="722">
+        <prevpageid>721</prevpageid>
+        <nextpageid>723</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091574</timecreated>
+        <timemodified>1437842851</timemodified>
+        <title>Unit Objectives for Instructors</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;By the end of this unit, you should be able to:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Articulate the reasons for integrating practice with critical thinking skills from the very beginning with adult ELLs&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Create learning objectives that address critical thinking skills within any type of lesson&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Identify and practice ways (e.g., task type, questioning techniques, choice of content) to infuse these skills in your own classes&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1474">
+            <jumpto>721</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091574</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1475">
+            <jumpto>724</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091574</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="723">
+        <prevpageid>722</prevpageid>
+        <nextpageid>724</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091820</timecreated>
+        <timemodified>1437842862</timemodified>
+        <title>Unit Objectives for Administrators</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;By the end of this unit, you should be able to:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Articulate the reasons for integrating practice with critical thinking skills from the very beginning with adult ELLs&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Address a number of ways to infuse critical thinking into curricula in your program&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Identify supports you will need to give teachers in your programs in the area of critical thinking skills integration at all levels of instruction&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1476">
+            <jumpto>721</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091820</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1477">
+            <jumpto>724</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091820</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="724">
+        <prevpageid>723</prevpageid>
+        <nextpageid>725</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435094974</timecreated>
+        <timemodified>1437842888</timemodified>
+        <title>This Unit Has Four Parts</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Part 1&lt;/strong&gt;: What is critical thinking and why is it so important? (for instructors and administrators)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Part 2&lt;/strong&gt;: Models of critical thinking (for instructors and administrators)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Part 3&lt;/strong&gt;: Strategies and resources for teaching critical thinking and the language of critical thinking (for instructors)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Part 4&lt;/strong&gt;: Support for for administrators&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1478">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435094974</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1479">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435094974</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="725">
+        <prevpageid>724</prevpageid>
+        <nextpageid>726</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435858333</timecreated>
+        <timemodified>1445028025</timemodified>
+        <title>Activities in This Unit</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;This unit includes a variety of activities:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Pre- and post-surveys&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Lesson analysis&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Video observation&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Read and reflect&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;This chart indicates which activities are suitable for instructors, administrators, or both.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b style="font-weight: normal;"&gt;&lt;b style="font-weight: normal;"&gt; &lt;/b&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;table border="1" cellpadding="5" cellspacing="5" align="center" style="border-color: #000000; border-width: 1px; ; width: 80%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th scope="col" style="background-color: #19568b;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;strong&gt;For instructors&lt;/strong&gt;&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="background-color: #19568b;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;strong&gt;For administrators&lt;/strong&gt;&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Pre-unit activity/survey&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Pre-unit activity/survey&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Your definition of critical thinking&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Your definition of critical thinking&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Optional: Read and reflect: &lt;em&gt;Increased Rigor in Adult English Language Instruction: Meeting the Demands of Today’s World&lt;/em&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Optional: Read and reflect: &lt;em&gt;Increased Rigor in Adult English Language Instruction: Meeting the Demands of Today’s World&lt;/em&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Depth of knowledge reflection&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Critical thinking lesson enhancement&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;The questions we ask: Read and reflect activity&lt;strong&gt; (required)&lt;/strong&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Optional: Critical thinking lesson enhancement&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Video: Tasks that promote critical thinking&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Video: Tasks that promote critical thinking&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Video: Higher-order thinking with beginners&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Application in your setting; Develop an action plan&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Develop an action plan&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Post-unit activity/survey&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Post-unit activity/survey&lt;strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1481">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435858333</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1482">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435858333</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="726">
+        <prevpageid>725</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444607268</timecreated>
+        <timemodified>1446853519</timemodified>
+        <title>Your Definition of Critical Thinking (required)</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;What comes to mind when you see the words "critical thinking"?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Use this space to jot down ideas if you like, but also print this &lt;strong&gt;&lt;a href="@@PLUGINFILE@@/M1U4_S11%20Concept_Map_508.docx" title="Concept Map"&gt;concept map&lt;/a&gt; &lt;/strong&gt;and create an image of what critical thinking means to you.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54678"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54677"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54680"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54682"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54681"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1483">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444607268</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1484">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444607268</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

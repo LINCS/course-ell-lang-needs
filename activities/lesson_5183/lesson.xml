@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="148" moduleid="5183" modulename="lesson" contextid="16073">
+  <lesson id="148">
+    <course>137</course>
+    <name>Part 3: Strategies for Teaching Academic Language</name>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1438113190</timemodified>
+    <pages>
+      <page id="627">
+        <prevpageid>0</prevpageid>
+        <nextpageid>628</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091460</timecreated>
+        <timemodified>1437835999</timemodified>
+        <title>Overview</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;In this section, we explore a variety of activity types that promote practice with academic language:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Collecting data&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Using sentence and paragraph frames&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Using graphic organizers&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Using the academic word list (AWL)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1292">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="628">
+        <prevpageid>627</prevpageid>
+        <nextpageid>629</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091574</timecreated>
+        <timemodified>1438112692</timemodified>
+        <title>Collecting and Analyzing Data</title>
+        <contents>&lt;table border="0" cellpadding="5" align="right"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src="@@PLUGINFILE@@/pie%20chart.png" width="200" height="200" alt="Generic Pie Chart" style="display: block; margin-left: auto; margin-right: auto;" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;img src="@@PLUGINFILE@@/line%20graph.png" width="300" height="251" alt="Generic Line Graph" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;An important aspect of school and work is analyzing information and real-world data. Numerous ways can be applied to bring that skill into the language classroom, even at beginning levels.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Sample 1 uses the "one-question-interview" technique, wherein each learner is assigned only one question that he or she needs to ask everyone else in the class. Let's see how a task like that can be used to collect and analyze data and then practice academic language.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Think about how you could use or adapt these activities in your classes or program. Keep track of your ideas.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Listen to audio:&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT2_0140.mp3"&gt;ELL_MOD1_UNIT2_0140.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;One important aspect of school and work is analyzing information and real-world data. Numerous ways can be applied to bring that skill into the language classroom, even at beginning levels.&lt;/p&gt;
+&lt;p&gt;What are the benefits of doing this? As pointed out in Unit 1 of this module, adult ELLs will be engaged by topics that are more challenging compared with topics sometimes found in life-skills curricula. We can apply the following strategies with general topics, such as favorite types of music, books, or hobbies, or with content in a career pathways program, such as people’s experiences with a particular work task. Working with data and numbers has the added benefit of working with numeracy skills, which would help a learner such as Carlos express number sense in English. Creating graphs and charts allows learners to connect print to other representations common in academic and work texts. Sample 1 uses the “one-question-interview” technique, wherein each learner is assigned only one question that he or she needs to ask everyone else in the class. The theme is literacy practices (the same theme used in Unit 1 in the lesson enhancement). Let’s see how a task such as that can be used to collect and analyze data and then practice academic language.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1293">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091574</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1294">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091574</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="629">
+        <prevpageid>628</prevpageid>
+        <nextpageid>630</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091820</timecreated>
+        <timemodified>1449880991</timemodified>
+        <title>Sample 1: What Are Your Reading and Writing Practices?</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/hashmarks.png" width="364" height="91" alt="tally marks" style="float: right; margin: 5px 15px;" /&gt;Interview everyone in the class about their reading and writing practices. &lt;em&gt;Tally&lt;/em&gt; your answers:&lt;/span&gt;&lt;/p&gt;
+&lt;table border="0" cellpadding="5" cellspacing="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td colspan="4"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;How often do you use a computer?&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;every day&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;every week&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;every month&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;never&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="4"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;How often do you read a newspaper?&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;every day&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;every week&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;every month&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;never&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="4"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;How often do you write letters to friends or family?&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;every day&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;every week&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;every month&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;never&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Give each student one slip with a question. &lt;a href="@@PLUGINFILE@@/M1U2_S37_OneQuestion_508.pdf" title="One Question Interview Strips"&gt;Here is a full list for you to review&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1295">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091820</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1296">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091820</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="630">
+        <prevpageid>629</prevpageid>
+        <nextpageid>631</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1436898826</timecreated>
+        <timemodified>1438112829</timemodified>
+        <title>Using the Class Data</title>
+        <contents>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Student%20taking%20notes.png" width="250" height="395" alt="Student taking notes" style="margin: 5px 15px; float: right;" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Now imagine that learners have gathered and tallied data about reading and writing habits from 15 people in the class.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;What could they do with these data?&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;/strong&gt;Take a few minutes to think about that. If you are working with colleagues, share some ideas.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1303">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1436898826</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1304">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1436898826</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="631">
+        <prevpageid>630</prevpageid>
+        <nextpageid>632</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435094974</timecreated>
+        <timemodified>1438112965</timemodified>
+        <title>Talking About the Class Data Using Academic Language</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Students break into groups to discuss what they have found.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Provide sentence frames to help them with their discussions:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Useful language frames to talk about the data&lt;/strong&gt;:&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Most people ...&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;Some people ...&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Example&lt;/strong&gt;: Some people in our group use a computer very day.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Two thirds of the class...&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;Half the class ...&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Example&lt;/strong&gt;: Half of our class never writes letters to friends or family. They use SKYPE or e-mail.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;More people ______ than ____________.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1297">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435094974</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1298">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435094974</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="632">
+        <prevpageid>631</prevpageid>
+        <nextpageid>633</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435095744</timecreated>
+        <timemodified>1437836080</timemodified>
+        <title>Create a Graph With Your Data</title>
+        <contents>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/graph%20sample.png" width="450" height="281" alt="Sample bar graph showing how data can be depicted" style="margin: 5px 15px; float: right;" /&gt;&lt;span style="font-size: medium;"&gt;In groups, have students choose one data set to graph like the example:&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1299">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435095744</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1300">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435095744</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="633">
+        <prevpageid>632</prevpageid>
+        <nextpageid>634</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435598568</timecreated>
+        <timemodified>1444709042</timemodified>
+        <title>Using Paragraph Frames to Write About the Data</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Now learners can use their data and ideas from their discussion to write using &lt;strong&gt;a paragraph frame&lt;/strong&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;table border="2" align="center" style="border-color: #000000; border-width: 2px; ; width: 80%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Describing Routines&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 16.0029983520508px;"&gt;&lt;span style="font-size: medium;"&gt;Our class reads and writes _______ . _______ use a _______ every day. Many people _______ every week. Most of the class does not _______ every day. More people _______ than _______ every week. Some people never _______ _______ .&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1301">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435598568</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1302">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435598568</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="634">
+        <prevpageid>633</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444437923</timecreated>
+        <timemodified>1446853273</timemodified>
+        <title>Academic language activity</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;If you would like to learn more about helping ELLs with complex texts and structures, read Fillmore and Fillmore (2011), &lt;a target="_blank" title="What does text complexity mean for English learners and language minority students?" href="http://ell.stanford.edu/publication/what-does-text-complexity-mean-english-learners-and-language-minority-students"&gt;&lt;em&gt;What Does Text Complexity Mean for English Language Learners and Minority Students?&lt;/em&gt;&lt;/a&gt; Even though for K–12 educators, it has many relevant ideas, especially for those working in adult secondary education.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Be sure to visit &lt;a title="Understanding Language" href="http://ell.stanford.edu/"&gt;&lt;em&gt;&lt;strong&gt;Understanding Language&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; at Stanford University for research, resources, and sample lessons for teaching academic language.&lt;/span&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;What Academic Language Would the One-Question-Interview Lesson Introduce?&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Think back to the three dimensions: message, sentence, and word or phrase.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;1. What practice would learners have with academic language at the message level with this activity?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;2. What practice would learners have with academic language at the sentence level?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;3. What practice would learners have with academic language at the word level?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44651"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44650"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44532"&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44526"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44525"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1305">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444437923</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1306">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444437923</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

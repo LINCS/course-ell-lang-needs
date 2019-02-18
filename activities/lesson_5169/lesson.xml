@@ -1,0 +1,1064 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="143" moduleid="5169" modulename="lesson" contextid="16059">
+  <lesson id="143">
+    <course>137</course>
+    <name>Part 2: Bringing Rigor into your Classroom</name>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1435276939</timemodified>
+    <pages>
+      <page id="576">
+        <prevpageid>0</prevpageid>
+        <nextpageid>577</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091460</timecreated>
+        <timemodified>1470695799</timemodified>
+        <title>Enhancing Existing Materials and Lessons</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;View the &lt;a href="@@PLUGINFILE@@/Sample%20Lesson%20Enhancements.docx" title="Sample Lesson enhancements"&gt;&lt;strong&gt;Sample Lesson Enhancements&lt;/strong&gt;&lt;/a&gt; and consider these questions:&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;&lt;span style="color: #000000; font-size: medium;"&gt;How do these enhancements serve to increase the rigor of instruction?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="color: #000000; font-size: medium;"&gt;How readily could I use or adapt these ideas in my own lessons?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="color: #000000; font-size: medium;"&gt;How would these enhancements begin to scaffold the types of skills and strategies that students like Aadan and Inez need work in with regard to academic language, reading strategies and critical thinking?&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;strong&gt;Discuss your answers if you are working with other teachers.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000;"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod1_0090.mp3"&gt;ELL_Mod1_0090.mp3&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;By now it should be clear that all learners have language needs that go well beyond what might be found in a typical life skills curriculum. Even at intermediate to advanced levels, unless a program has named a class “transitions” or “bridge” programming, the content and topics are often the same as in beginning-level texts, just at an increased linguistic level. In fact, many leveled series have the same themes for all units across all levels. Imagine that you are doing a unit on Language Learning Practices in a low-intermediate adult ELA class. It is part of an integrated-skills curriculum that includes practice with competencies (for example, reading a paycheck), language functions (for example, making complaints and apologies), reading, writing, listening, and speaking skills, as well as grammar. Within that unit, there is a short reading that serves to present and practice simple present tense to talk about routines, along with adverbs and adverbial phrases of frequency. The reading is about Alina’s reading and writing habits and the purpose for this topic is to show English language learners different ways they may use reading and writing in their own lives.&lt;/p&gt;
+&lt;p&gt;As you review the &lt;strong&gt;sample lesson&lt;/strong&gt;, take careful note of the enhancements:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;How do these enhancements serve to increase the rigor of instruction?&lt;/li&gt;
+&lt;li&gt;How readily could you use or adapt these ideas in your own lessons?&lt;/li&gt;
+&lt;li&gt;How would these enhancements begin to scaffold the types of skills and strategies that students like Aadan and Inez need work in with regard to academic language, reading strategies, and critical thinking?&lt;/li&gt;
+&lt;/ol&gt;&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1191">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="577">
+        <prevpageid>576</prevpageid>
+        <nextpageid>578</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091574</timecreated>
+        <timemodified>1439133346</timemodified>
+        <title>Research to Support these Practices</title>
+        <contents>&lt;table style="border-color: #19568B; border-width: 1px; width: 30%; border-style: solid;" align="right" border="1" cellpadding="5" cellspacing="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th scope="col" style="background-color: #19568b;"&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #ffffff;"&gt;Areas where gaps were found between adult education instruction (including ESL) and realities of postsecondary education&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;Independence and autonomous learning&lt;/p&gt;
+&lt;p&gt;Academic reading/writing&lt;/p&gt;
+&lt;p&gt;Academic listening&lt;/p&gt;
+&lt;p&gt;Critical thinking&lt;/p&gt;
+&lt;p&gt;Technology&lt;/p&gt;
+&lt;p&gt;Instructional techniques&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;strong&gt;What do post-secondary educators say learners need for success?&lt;/strong&gt; Researchers in Minnesota conducted a survey of adult basic/ESL educators and Minnesota State Colleges and University faculty. The purpose of the survey was to identify needs and current teaching practices for both groups. They wanted to find out how well we are preparing adult basic education and ESL learners for further training or education.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000;"&gt;Listen to audio:&lt;/span&gt;&lt;br /&gt;&lt;span style="color: #000000;"&gt;&lt;strong&gt;What did they learn?&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod1_0100.mp3"&gt;ELL_Mod1_0100.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;There were a number of areas with significant gaps between what we teach in classes for adult ELLs and what faculty say students need for success.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Independence and autonomous learning&lt;/strong&gt;: The supports and scaffolds we provide in many adult ELA classes are not provided in postsecondary classes. For example, we provide opportunities for multiple revisions of work and we don’t place “grades” on work. Adult ELA teachers assign little homework or outside reading due to personal constraints of learners.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Academic reading/writing&lt;/strong&gt;: Adult ELA educators may not give enough practice with reading non-fiction, complex texts. We don’t have learners conduct research or produce extended writing as much as we could.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Academic listening&lt;/strong&gt;: We put little emphasis on note-taking while listening to lectures or short talks.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Critical thinking&lt;/strong&gt;: Many materials and curricula lack higher-ordering thinking tasks and questions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Technology&lt;/strong&gt;: Making use of technology to learn is expected in postsecondary settings. Some adult educators may lack the skills and confidence to teach digital literacy to students, and then use technology as a learning tool.&lt;/p&gt;
+&lt;p&gt;Instructional techniques: An overall finding was that the emphasis on life skills and personal experiences common in many adult ELA curricula does not represent the realities of what learners face at work, in further education, or in their communities.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1192">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091574</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1193">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091574</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="578">
+        <prevpageid>577</prevpageid>
+        <nextpageid>579</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091820</timecreated>
+        <timemodified>1446847991</timemodified>
+        <title>Reading/higher-order thinking</title>
+        <contents>&lt;table style="width: 100%;" align="center" border="0" cellpadding="20" cellspacing="20"&gt;&lt;colgroup&gt;&lt;col width="33%" /&gt;&lt;col width="67%" /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;h2 style="font-family: Verdana, Arial, Helvetica, sans-serif; color: #000000;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;strong&gt;Synthesizing information for multiple texts when reading&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td rowspan="4"&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;img style="margin-top: 10px; margin-bottom: 10px; display: block;" src="@@PLUGINFILE@@/stacked%20magazines.png" alt="stacked folders full of paper" height="121" width="250" /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;/td&gt;
+&lt;td align="left" valign="middle"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left" valign="middle"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;82.6% of ABE/ESL instructors &lt;strong&gt;sometimes&lt;/strong&gt; or &lt;strong&gt;rarely addressed&lt;/strong&gt; synthesizing information from multiple sources.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left" valign="middle"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;52.6% of college faculty report it is &lt;strong&gt;very&lt;/strong&gt; or &lt;strong&gt;extremely important&lt;/strong&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left" valign="middle"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod1_0110.mp3"&gt;ELL_Mod1_0110.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Here are some results that support the work we are doing in this unit. Notice that over 80 percent of the adult education instructors report that the ability to synthesize information from multiple texts when reading is only &lt;strong&gt;sometimes&lt;/strong&gt; or &lt;strong&gt;rarely addressed&lt;/strong&gt;, while over half of college faculty deem the ability to employ this skill &lt;strong&gt;very&lt;/strong&gt; or &lt;strong&gt;extremely important&lt;/strong&gt;.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1194">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091820</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1195">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091820</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="579">
+        <prevpageid>578</prevpageid>
+        <nextpageid>580</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435094974</timecreated>
+        <timemodified>1447699852</timemodified>
+        <title>Listening/higher-order thinking</title>
+        <contents>&lt;table style="width: 100%;" align="center" border="0" cellpadding="20" cellspacing="20"&gt;&lt;colgroup&gt;&lt;col width="33%" /&gt;&lt;col width="67%" /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;h2 style="font-family: Verdana, Arial, Helvetica, sans-serif; color: #000000;"&gt;&lt;span style="color: #000000;"&gt;&lt;strong&gt;Ability to synthesize information from lectures with other sources&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td rowspan="4"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img style="margin-top: 10px; margin-bottom: 10px;" src="@@PLUGINFILE@@/student.png" alt="student taking notes on paper" height="175" width="233" /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td align="left" valign="middle"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left" valign="middle"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;82.6% of ABE/ESL instructors &lt;strong&gt;sometimes&lt;/strong&gt; or &lt;strong&gt;rarely addressed&lt;/strong&gt; synthesizing information from lectures with other sources.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;span&gt;44.7% of college faculty report it is &lt;/span&gt;&lt;strong&gt;very&lt;/strong&gt;&lt;span&gt; or &lt;/span&gt;&lt;strong&gt;extremely important&lt;/strong&gt;&lt;span&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left" valign="middle"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left" valign="middle"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod1_0120.mp3"&gt;ELL_Mod1_0120.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Johnson and Parrish found the same thing with listening and higher-order thinking. Again, over 80% of adult education instructors report that the ability to synthesize information from lectures with other sources is &lt;strong&gt;sometimes&lt;/strong&gt; or &lt;strong&gt;rarely addressed&lt;/strong&gt;; however, nearly half of college faculty deem the ability to employ this skill to be &lt;strong&gt;very&lt;/strong&gt; or &lt;strong&gt;extremely important&lt;/strong&gt;.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1196">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435094974</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1197">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435094974</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="580">
+        <prevpageid>579</prevpageid>
+        <nextpageid>581</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435095744</timecreated>
+        <timemodified>1447700012</timemodified>
+        <title>Writing needs</title>
+        <contents>&lt;table style="width: 100%;" align="center" border="0" cellpadding="20" cellspacing="20"&gt;&lt;colgroup&gt;&lt;col width="33%" /&gt;&lt;col width="67%" /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td rowspan="4"&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/paper%20assignment.png" alt="paper assignment" height="175" width="349" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td align="left" valign="middle"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left" valign="middle"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Only 4%&lt;/strong&gt; of ABE/ESL instructors report assigning academic research papers.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;33%&lt;/strong&gt;&lt;span&gt; of college faculty report assigning academic research papers.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left" valign="middle"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left" valign="middle"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod1_0130.mp3"&gt;ELL_Mod1_0130.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;In the area of writing, Johnson and Parrish found that very few adult educators assign extended writing tasks. &lt;strong&gt;Only four percent&lt;/strong&gt; of instructors report assigning academic research papers; &lt;strong&gt;however, 33 percent&lt;/strong&gt; of college faculty in this study report assigning them. Remember that these are faculty in developmental education, trades, and pre-nursing in community and technical colleges. Imagine how much more writing might be expected in other content areas, such as English Literature.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1198">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435095744</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1199">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435095744</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="581">
+        <prevpageid>580</prevpageid>
+        <nextpageid>582</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>0</display>
+        <timecreated>1435096122</timecreated>
+        <timemodified>1447700042</timemodified>
+        <title>Note taking during lectures</title>
+        <contents>&lt;table style="width: 100%;" align="center" border="0" cellpadding="20" cellspacing="20"&gt;&lt;colgroup&gt;&lt;col width="33%" /&gt;&lt;col width="67%" /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td rowspan="4"&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="@@PLUGINFILE@@/taking_notes.png" width="250" height="163" alt="Taking notes on paper" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td align="left" valign="middle"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left" valign="middle"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;82.6% of ABE/ESL instructors &lt;strong&gt;sometimes&lt;/strong&gt; or &lt;strong&gt;rarely addressed&lt;/strong&gt; note taking during lectures. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;span&gt;44.7% of college faculty indicate it is&lt;/span&gt;&lt;b&gt; very &lt;/b&gt;&lt;span&gt;or&lt;/span&gt;&lt;b&gt; extremely important&lt;/b&gt;&lt;span&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left" valign="middle"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left" valign="middle"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod1_0140.mp3"&gt;ELL_Mod1_0140.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;The results for note-taking are similar to those for synthesizing information while reading or listening. Again, over 80 percent of instructors report that they only &lt;strong&gt;sometimes&lt;/strong&gt; or &lt;strong&gt;rarely address note-taking&lt;/strong&gt;, while nearly half of college faculty consider this skill &lt;strong&gt;very&lt;/strong&gt; or &lt;strong&gt;extremely important&lt;/strong&gt;. You may be asking yourself right now how practice with this skill could look in adult ELA classes. After all, we pride ourselves in NOT lecturing to students. If you choose to complete Unit 3, you can see how using grids, graphic organizers, or semi-scripted notes while listening to high-interest podcasts can give adult English language learners practice with this important skill.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1200">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435096122</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1205">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435096122</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="582">
+        <prevpageid>581</prevpageid>
+        <nextpageid>583</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435097251</timecreated>
+        <timemodified>1445010670</timemodified>
+        <title>Your Task</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Go to the &lt;strong&gt;&lt;a href="@@PLUGINFILE@@/M1U1_S43_Survey%20Results_508.pdf" title="Instructional Alignment Survey Results"&gt;Instructional Practices Alignment Survey Results&lt;/a&gt; &lt;/strong&gt;and think about the questions below. &lt;strong&gt;Discuss your answers if you are working with other teachers.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;1.  What gaps between ABE/ESL instruction and community college expectations did you find most surprising and why? Why do you think less attention has been paid to those skills in adult ESL?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;2.  Where do you recognize yourself in the results? In other words, what are some of the same areas that you might be overlooking in your own instruction or program?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;3.  What are your strengths (at the program or course level)? What are you doing in your program or as a classroom teacher that would prepare learners well for the demands of postsecondary education?&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1201">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435097251</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1206">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435097251</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="583">
+        <prevpageid>582</prevpageid>
+        <nextpageid>584</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435097691</timecreated>
+        <timemodified>1457555467</timemodified>
+        <title>What do Employers Want?</title>
+        <contents>&lt;table style="border: 0px solid #000000; width: 40%; border-color: #000000; border-width: 2px;" right="" border="2" cellpadding="5" cellspacing="5" align="right"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th scope="col" style="background-color: #19568b;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;strong&gt;Applied Skills Essential for Work&lt;/strong&gt;&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;Critical Thinking/Problem Solving&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;Oral Communications&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;Written Communications&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;Teamwork/Collaboration&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;Information Technology Application&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;Leadership&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;Creativity/Innovation&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;Lifelong Learning/Self Direction&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;Professionalism/Work&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;Ethic Ethics/Social Responsibility&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;For the full report, click here: &lt;a href="http://www.p21.org/storage/documents/FINAL_REPORT_PDF09-29-06.pdf" title="Are They Ready for Work? Report" target="_blank"&gt;&lt;strong&gt;Are they Really Ready to Work?&lt;/strong&gt; &lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: medium; line-height: 20px;"&gt;While employers recognize the need for basic knowledge in reading comprehension, English writing skills (grammar, spelling, etc.), math, science, or other content, the applied skills in this chart are what stand out as essential in the research (Casner-Lotto and Barrington, 2006).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod1_0150.mp3"&gt;ELL_Mod1_0150.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;While employers recognize the need for basic knowledge in reading comprehension, English writing skills (grammar, spelling, etc.), math, science, or other content, the applied skills in this chart are what stand out as essential in the research. How are those kinds of skills integrated into adult ELA programs? Are these skills only needed for work, or could all adult ELLs benefit from development in these areas?&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1202">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435097691</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1207">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435097691</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="584">
+        <prevpageid>583</prevpageid>
+        <nextpageid>585</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435098388</timecreated>
+        <timemodified>1470701871</timemodified>
+        <title>Task for Teachers</title>
+        <contents>&lt;table style="border: 0px solid #000000; width: 40%; border-width: 2px;" align="right" border="2" cellpadding="5" cellspacing="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th scope="col" style="background-color: #19568b;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;strong&gt;Applied Skills Essential for Work&lt;/strong&gt;&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;Critical Thinking/Problem Solving&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;Oral Communications&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;Written Communications&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;Teamwork/Collaboration&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;Information Technology Application&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;Leadership&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;Creativity/Innovation&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;Lifelong Learning/Self Direction&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;Professionalism/Work&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;Ethic Ethics/Social Responsibility&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p style="color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px; text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Return to the &lt;a href="@@PLUGINFILE@@/Sample%20Lesson%20Enhancements.docx" title="Sample Lesson Enhancements"&gt;&lt;strong&gt;Sample Lesson Enhancement&lt;/strong&gt;&lt;/a&gt;. Identify and justify with examples (a good academic and critical thinking process) the ways that the enhanced lesson addresses 3 or 4 of the applied skills in the chart.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px; text-align: left;"&gt;&lt;span style="color: #19568b; font-size: medium;"&gt;&lt;strong&gt;Discuss your answers if you are working with other teachers.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1203">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435098388</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1204">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435098388</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="585">
+        <prevpageid>584</prevpageid>
+        <nextpageid>586</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1437708532</timecreated>
+        <timemodified>1439137860</timemodified>
+        <title>Richer Content</title>
+        <contents>&lt;table style="margin-left: 10px; margin-right: 10px;" align="center" border="1" cellpadding="5" cellspacing="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th scope="col" style="background-color: #19568b;" colspan="2"&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #ffffff; font-size: medium;"&gt;&lt;strong&gt;Typical ESL Topics&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th scope="col" style="text-align: left; background-color: #19568b;"&gt;&lt;span style="color: #ffffff; font-size: medium;"&gt;&lt;strong&gt;Enrich with Content&lt;/strong&gt;&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="middle"&gt;
+&lt;p&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Places in the community&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle"&gt;
+&lt;p&gt;&lt;span style="color: #000000; font-size: medium;"&gt;→&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle"&gt;
+&lt;p&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Geography; environmental issues&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="middle"&gt;
+&lt;p&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Life experiences&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle"&gt;
+&lt;p&gt;&lt;span style="color: #000000; font-size: medium;"&gt;→&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle"&gt;
+&lt;p&gt;&lt;span style="color: #000000; font-size: medium;"&gt;History; current events&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="middle"&gt;
+&lt;p&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Foods and healthy eating&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle"&gt;
+&lt;p&gt;&lt;span style="color: #000000; font-size: medium;"&gt;→&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle"&gt;
+&lt;p&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Health and wellness; causes of common diseases; mental health issues&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="middle"&gt;
+&lt;p&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Holidays&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle"&gt;
+&lt;p&gt;&lt;span style="color: #000000; font-size: medium;"&gt;→&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle"&gt;
+&lt;p&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Cultural traditions (sociology and anthropology)&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="middle"&gt;
+&lt;p&gt;&lt;span style="color: #000000; font-size: medium;"&gt;School&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle"&gt;
+&lt;p&gt;&lt;span style="color: #000000; font-size: medium;"&gt;→&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="middle"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Educational systems and practices&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;Learners like Aadan, Inez and Carlos have resided in the United States for a long time. Many times adult ESL programs focus on topics that could be considered quite basic. Regardless of their level, learners most likely have interests much like your own. Imagine you were transported to another country and enrolled in a language class. Would you rather learn about holidays or differences regarding deep cultural values and beliefs? When learning about transportation, would you appreciate learning about the benefits of public transportation to the community rather than only learning how to read a bus schedule? Notice that in the enhanced lesson, the topic of reading and writing skills turned to issues of first language maintenance in the home (speaking the first language with your kids). Furthermore, rich content mirrors content students may encounter in academic settings. This table suggests content you could use to supplement typical ESL topics you might find in your existing curriculum.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1213">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1437708532</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1214">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1437708532</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="586">
+        <prevpageid>585</prevpageid>
+        <nextpageid>588</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435177340</timecreated>
+        <timemodified>1446850937</timemodified>
+        <title>Earnings and unemployment rates by educational attainment</title>
+        <contents>&lt;h2&gt;&lt;span style="color: #000000;"&gt;Education Matters!&lt;/span&gt;&lt;/h2&gt;
+&lt;table align="center" border="0" cellpadding="5" cellspacing="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th scope="col" style="border-color: #000000; border-style: solid; border-width: 1px; text-align: center;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;strong&gt;Education attained&lt;/strong&gt;&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="border-color: #000000; border-style: solid; border-width: 1px; text-align: center;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;strong&gt;Unemployment rate in 2014&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;strong&gt;(Percent)&lt;/strong&gt;&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="border-color: #000000; border-style: solid; border-width: 1px; text-align: center;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;strong&gt;Median weekly earnings in 2014&lt;/strong&gt;&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Doctoral degree&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px; text-align: right;"&gt;&lt;span style="font-size: medium;"&gt;2.1&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px; text-align: right;"&gt;&lt;span style="font-size: medium;"&gt;$1,591&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background-color: #99ccff; border-color: #000000; border-style: solid; border-width: 1px;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Professional degree&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style="background-color: #99ccff; border-color: #000000; border-style: solid; border-width: 1px; text-align: right;"&gt;&lt;span style="font-size: medium;"&gt;1.9&lt;/span&gt;&lt;/td&gt;
+&lt;td style="background-color: #99ccff; border-color: #000000; border-style: solid; border-width: 1px; text-align: right;"&gt;&lt;span style="font-size: medium;"&gt;1,639&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Master's degree&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px; text-align: right;"&gt;&lt;span style="font-size: medium;"&gt;2.8&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px; text-align: right;"&gt;&lt;span style="font-size: medium;"&gt;1,326&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background-color: #99ccff; border-color: #000000; border-style: solid; border-width: 1px;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Bachelor's degree&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style="background-color: #99ccff; border-color: #000000; border-style: solid; border-width: 1px; text-align: right;"&gt;&lt;span style="font-size: medium;"&gt;3.5&lt;/span&gt;&lt;/td&gt;
+&lt;td style="background-color: #99ccff; border-color: #000000; border-style: solid; border-width: 1px; text-align: right;"&gt;&lt;span style="font-size: medium;"&gt;1,101&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Associate's degree&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px; text-align: right;"&gt;&lt;span style="font-size: medium;"&gt;4.5&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px; text-align: right;"&gt;&lt;span style="font-size: medium;"&gt;792&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background-color: #99ccff; border-color: #000000; border-style: solid; border-width: 1px;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Some college, no degree&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style="background-color: #99ccff; border-color: #000000; border-style: solid; border-width: 1px; text-align: right;"&gt;&lt;span style="font-size: medium;"&gt;6.0&lt;/span&gt;&lt;/td&gt;
+&lt;td style="background-color: #99ccff; border-color: #000000; border-style: solid; border-width: 1px; text-align: right;"&gt;&lt;span style="font-size: medium;"&gt;741&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;High school diploma&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px; text-align: right;"&gt;&lt;span style="font-size: medium;"&gt;6.0&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px; text-align: right;"&gt;&lt;span style="font-size: medium;"&gt;668&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background-color: #99ccff; border-color: #000000; border-style: solid; border-width: 1px;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Less than a high school diploma&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style="background-color: #99ccff; border-color: #000000; border-style: solid; border-width: 1px; text-align: right;"&gt;&lt;span style="font-size: medium;"&gt;9.0&lt;/span&gt;&lt;/td&gt;
+&lt;td style="background-color: #99ccff; border-color: #000000; border-style: solid; border-width: 1px; text-align: right;"&gt;&lt;span style="font-size: medium;"&gt;448&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;All workers&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px; text-align: right;"&gt;&lt;span style="font-size: medium;"&gt;5.0&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px; text-align: right;"&gt;&lt;span style="font-size: medium;"&gt;839&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px;" colspan="3"&gt;&lt;span style="color: #a0271d;"&gt;Note: Data are for persons age 25 and over. Earnings are for full-time wage and salary workers.&lt;/span&gt;&lt;br /&gt;&lt;span style="color: #a0271d;"&gt;Source: &lt;a href="http://www.bls.gov/emp/ep_table_001.htm" title="Bureau of Labor Statistics source" target="_blank"&gt;Current Population Survey, U.S. Department of Labor, U.S. Bureau of Labor Statistics&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod1_0160.mp3"&gt;ELL_Mod1_0160.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Education Matters!&lt;/strong&gt; Many adult ELLs may be a long way from being prepared for postsecondary education or training. However, notice the higher unemployment rates and lower earnings of those with less than a high school diploma. It is important not to make any assumptions about your learners’ long-term academic or career goals. Sometimes adult ELL educators may be unaware of learners’ educational goals, aspirations, or potential. Limiting expectations of adult English language learners can cheat them of long-term opportunities for themselves, or maybe it will be for their children whom they, as parents, will feel better equipped to support.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1208">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435177340</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1209">
+            <jumpto>588</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435177340</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Instructors</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1210">
+            <jumpto>587</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435177340</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Administrators</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="588">
+        <prevpageid>586</prevpageid>
+        <nextpageid>587</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1437706754</timecreated>
+        <timemodified>1457555582</timemodified>
+        <title>Reading Task for Instructors</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Promoting Learner Transitions to Postsecondary Education and Work: Developing Academic Readiness Skills from the Beginning&lt;/span&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Connections between research and practice. In this brief, Parrish &amp;amp; Johnson (2010) address the current and projected need for skilled workers and the skills immigrants and refugees need to be able to take these positions. The authors provide the rationale and research underlying the need to incorporate these skills into ESL classes, regardless of the level or purpose of the courses (e.g., beginning, life skills, career pathways). The authors address the following skills as being essential to incorporate into the classroom: reading and listening, note taking and organizing information, and critical thinking. The brief provides instruction on how to structure and sequence activities to fit in with any classroom content. Included in the brief are sample activities that are leveled by beginning, intermediate, and advanced ESL learners.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="color: #000000; line-height: 1.231;"&gt;Read and Reflect: As you read &lt;a href="https://lincs.ed.gov/professional-development/resource-collections/profile-418" title="Parrish and Johnson" target="_blank"&gt;Parrish &amp;amp; Johnson (2010)&lt;/a&gt;, answer these questions on your own. &lt;/span&gt;&lt;strong line-height:="" 1="" 231=""&gt;Discuss your answers if you are working with other teachers.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;1. How do ideas presented in this research brief relate to your learners or your setting?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;2. To what degree are you or is your program incorporating instruction in the areas outlined?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;3. What teaching suggestions among the sample activities provided could you see readily applying to a lesson you commonly teach? Look at a recent lesson plan and see what adjustment you could make the next time you teach that lesson.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44651"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44650"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44526"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44525"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1211">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1437706754</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1212">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1437706754</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="587">
+        <prevpageid>588</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1439139331</timecreated>
+        <timemodified>1446853084</timemodified>
+        <title>Reading Task for Administrators</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Promoting Learner Transitions to Postsecondary Education and Work: Developing Academic Readiness Skills from the Beginning&lt;/span&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Connections between research and practice. In this brief, Parrish &amp;amp; Johnson (2010) address the current and projected need for skilled workers and the skills immigrants and refugees need to be able to take these positions. The authors provide the rationale and research underlying the need to incorporate these skills into ESL classes, regardless of the level or purpose of the courses (e.g., beginning, life skills, career pathways). The authors address the following skills as being essential to incorporate into the classroom: reading and listening, note taking and organizing information, and critical thinking. The brief provides instruction on how to structure and sequence activities to fit in with any classroom content. Included in the brief are sample activities that are leveled by beginning, intermediate, and advanced ESL learners.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="color: #000000; line-height: 1.231;"&gt;Read and Reflect: As you read &lt;/span&gt;&lt;a href="https://lincs.ed.gov/professional-development/resource-collections/profile-418" title="Parrish and Johnson" target="_blank" style="line-height: 1.231;"&gt;Parrish &amp;amp; Johnson (2010)&lt;/a&gt;&lt;span style="color: #000000; line-height: 1.231;"&gt;, answer these questions on your own. &lt;/span&gt;&lt;strong style="color: #000000; line-height: 1.231;"&gt;Discuss your answers if you are working with other teachers.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;1. How do ideas presented in this research brief relate to your program?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;2. To what degree is your program incorporating instruction in the areas outlined? &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;3. What are some steps you might take to share this information with teachers in your program or state?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44651"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44650"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44532"&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44526"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44525"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1215">
+            <jumpto>586</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1439139331</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Previous</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1216">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1439139331</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

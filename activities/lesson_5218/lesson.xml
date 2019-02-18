@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="161" moduleid="5218" modulename="lesson" contextid="16108">
+  <lesson id="161">
+    <course>137</course>
+    <name>Part 4: Support for Administrators</name>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1435277003</timemodified>
+    <pages>
+      <page id="775">
+        <prevpageid>0</prevpageid>
+        <nextpageid>776</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091460</timecreated>
+        <timemodified>1437844928</timemodified>
+        <title>Let’s Review the Principles</title>
+        <contents>&lt;ul&gt;
+&lt;li&gt;&lt;img src="@@PLUGINFILE@@/learner%20in%20class.png" width="250" height="388" alt="Learner in class" style="float: right; margin: 5px 15px;" /&gt;&lt;span style="font-size: medium;"&gt;Critical thinking can and should be practiced at all levels of instruction.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Critical thinking can and should be added as a layer to any curriculum.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT4_0310.mp3"&gt;ELL_MOD1_UNIT4_0310.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Before you complete a final application activity, let’s review some key ideas from Unit 4. Critical thinking can and should be practiced at all levels of instruction. This can be done by adding a layer of critical thinking to existing activities, lessons, and curricula. Teachers can create lessons with multiple possible answers or that require a level of analysis. They can use graphic organizers to show the relationship between ideas. They should be asking questions that go beyond recall. They can use the Depth of Knowledge wheel as they are planning instruction. What can you do to support these efforts?&lt;/p&gt;
+&lt;p&gt;In the next section, we’ll explore how to access the Employability Skills Framework and the Minnesota Transitions Integration Framework to inform lesson and curriculum development. We’ll consider study circles and peer mentoring as vehicles for helping teachers promote higher levels of critical thinking in their lessons with adult ELLs.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1577">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="776">
+        <prevpageid>775</prevpageid>
+        <nextpageid>777</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091574</timecreated>
+        <timemodified>1437844907</timemodified>
+        <title>Visit the Employability Skills Framework</title>
+        <contents>&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Overview of employability skills&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Assessment checklists&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Lesson planning checklists&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Resources&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;a target="_blank" title="Employability Skills Framework" href="http://cte.ed.gov/employabilityskills/"&gt;The Employability Skills Framework&lt;/a&gt; is a one-stop resource for information and tools to inform the instruction and assessment of employability skills.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Visit the section on &lt;a target="_blank" title="Critical Thinking Section" href="http://cte.ed.gov/employabilityskills/index.php/framework/thinking"&gt;Critical Thinking&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT4_0320.mp3"&gt;ELL_MOD1_UNIT4_0320.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Individuals require many skills to be college and career ready, including academic knowledge, technical expertise, and a set of general, cross-cutting abilities called employability skills. The Employability Skills Framework is a one-stop resource for information and tools to inform the instruction and assessment of employability skills. The site contains an overview of employability skills, assessment and lesson planning checklists, as well as links to a wide variety or resources. It contains a section on critical thinking with a particular focus on decision making and creative problem solving. Take some time now to visit the site and look specifically at what is offered for working on critical thinking appropriate to your setting. Notice that the site includes information related to other topics in the module and in the LINCS ESL Pro Project, for example contextualized career pathways instruction.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1578">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091574</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1579">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091574</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="777">
+        <prevpageid>776</prevpageid>
+        <nextpageid>778</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>0</display>
+        <timecreated>1435091820</timecreated>
+        <timemodified>1444782667</timemodified>
+        <title>Engage in Critical Conversations</title>
+        <contents>&lt;ul style="line-height: 2.0;"&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Provide a &lt;a href="@@PLUGINFILE@@/M1U4_S60_%2067_Lesson%20508.docx" title="Lesson Analysis Template"&gt;&lt;strong&gt;lesson analysis template&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Provide opportunities for &lt;strong&gt;&lt;a href="@@PLUGINFILE@@/M1U4_S66%20PeerMentorings_508.docx" title="Peer Mentorings"&gt;peer observation&lt;/a&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Create reading circles using resources from this module&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Visit Minnesota's ACES project and &lt;a target="_blank" title="Transitions Integration Framework" href="http://lincs.ed.gov/professional-development/resource-collections/profile-763"&gt;Transitions Integration Framework&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Introduce teachers to the &lt;a target="_blank" title="Employability Skills Framework" href="http://cte.ed.gov/employabilityskills/"&gt;Employability Skills Framework&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT4_0330.mp3"&gt;ELL_MOD1_UNIT4_0330.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;The most important thing to remember is that for teacher change and development to happen, teachers need time work together in meaningful ways. Here are some ways that you can build reflection on critical thinking, as well as all the topics covered in this module, among instructors in your program. During meeting times, provide the lesson analysis template linked to here and have teams review and discuss lessons they teach. What enhancements could they make to their lessons? What are doing well and what are some missed opportunities for developing critical thinking?&lt;/p&gt;
+&lt;p&gt;Another option is a more structured peer-mentoring project. The process linked to here has been used very successfully in Minnesota. It takes commitment on your part to give release time and space for implementation of and reflection on practice.&lt;/p&gt;
+&lt;p&gt;Be sure to provide time and space for study circles. The resource section of this unit and module provides a multitude of readings and website that teachers can explore, study on report on in small groups.&lt;/p&gt;
+&lt;p&gt;One final idea is to have teachers visit Minnesota’s Academic, Career and Employability Skills (ACES) project and the Transitions Integration Framework and the Employability Skills Framework. Although developed for adult education, there are a multitude of ideas and applications for teachers of adult ELLs. There are also webinars and sample lesson plans for teachers.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1580">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091820</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1581">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091820</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="778">
+        <prevpageid>777</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444610121</timecreated>
+        <timemodified>1446853608</timemodified>
+        <title>Action Plan (required for administrators)</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Explore the options presented and create an action plan, then continue to the post-unit survey.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;1. What approach could best meet our needs and why?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;2. What steps do we need to take and what is our timeline?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;3. What are the desired outcomes?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54678"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54677"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54680"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54682"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54681"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1582">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444610121</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1583">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444610121</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

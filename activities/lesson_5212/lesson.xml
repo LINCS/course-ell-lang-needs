@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="158" moduleid="5212" modulename="lesson" contextid="16102">
+  <lesson id="158">
+    <course>137</course>
+    <name>Part 2: Models of Critical Thinking</name>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1435277003</timemodified>
+    <pages>
+      <page id="735">
+        <prevpageid>0</prevpageid>
+        <nextpageid>736</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091460</timecreated>
+        <timemodified>1437843298</timemodified>
+        <title>Overview</title>
+        <contents>&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Bloom's Taxonomy&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Depth of Knowledge&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Qualities of a Critical Thinker&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT4_0050.mp3"&gt;ELL_MOD1_UNIT4_0050.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Just as there are a number of definitions of critical thinking, there are also many different models. For our purposes, we will look at three models that can inform practice in adult English language instruction in profound ways. Let’s start by looking at Bloom’s taxonomy. This may be the most familiar model because it is so prevalent in teacher education programs.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1500">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="736">
+        <prevpageid>735</prevpageid>
+        <nextpageid>737</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091574</timecreated>
+        <timemodified>1444780732</timemodified>
+        <title>Bloom’s Taxonomy or Higher-order Thinking</title>
+        <contents>&lt;table border="0" align="right"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="background-color: #19568b;"&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Blooms%20Taxonomy.png" width="350" height="288" alt="Pyramid of Bloom's Taxonomy. Levels presented in ascending order: Know-Remember; Understand-Describe; Apply; Analyze; Evaluate; Create" style="margin: 5px 15px;" /&gt;&lt;/p&gt;
+&lt;div&gt;
+&lt;table cellspacing="0" cellpadding="0" hspace="0" vspace="0" align="left"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td valign="top" align="left"&gt;
+&lt;p&gt;&lt;span style="color: #ffffff;"&gt;CC-BY-SA license By Andrea Hernandez&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="text-decoration: underline;"&gt;&lt;span style="color: #ffffff;"&gt;&lt;a href="https://www.flickr.com/photos/21847073@N05/5857112597" title="Image Source" target="_blank"&gt;&lt;span style="color: #ffffff; text-decoration: underline;"&gt;https://www.flickr.com/photos/21847073@N05/5857112597&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;p style="text-align: right;"&gt;&lt;span style="color: #ffffff;"&gt;Anderson &amp;amp; Krathwohl, 2001&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Revised Bloom's Taxonomy:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Levels of thinking&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Stated as verbs&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Lowest order is to remember&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Highest order is to create&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Listen to Audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT4_0060.mp3"&gt;ELL_MOD1_UNIT4_0060.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;One very familiar model is Bloom’s Taxonomy of Higher-order Thinking, which originated in the 1950s and was revised by Anderson and Krathwohl in 2001. This model provides a sequence of learning objectives that move beyond simple recall, which is a good starting point. We will go beyond Bloom in this unit.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1501">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091574</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1502">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091574</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="737">
+        <prevpageid>736</prevpageid>
+        <nextpageid>738</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>0</display>
+        <timecreated>1435091820</timecreated>
+        <timemodified>1439135863</timemodified>
+        <title>Thinking Skills and Corresponding Actions</title>
+        <contents>&lt;p&gt;&lt;b style="font-weight: normal;"&gt;&lt;b style="font-weight: normal;"&gt; &lt;/b&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;table border="0" cellpadding="5" cellspacing="5" align="center" style="width: 70%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th scope="col" style="border: 1px solid #000000;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Thinking Skills&lt;/strong&gt;&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="border: 1px solid #000000;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Corresponding Actions&lt;/strong&gt;&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background-color: #19568b;"&gt;&lt;span style="color: #ffffff; font-size: medium;"&gt;Creating&lt;/span&gt;&lt;/td&gt;
+&lt;td style="background-color: #19568b;"&gt;&lt;span style="color: #ffffff; font-size: medium;"&gt;designing, constructing, producing&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background-color: #8ebb41;"&gt;&lt;span style="font-size: medium;"&gt;Evaluating&lt;/span&gt;&lt;/td&gt;
+&lt;td style="background-color: #8ebb41;"&gt;&lt;span style="font-size: medium;"&gt;hypothesizing, critiquing, testing, judging&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background-color: #bad760;"&gt;&lt;span style="font-size: medium;"&gt;Analyzing&lt;/span&gt;&lt;/td&gt;
+&lt;td style="background-color: #bad760;"&gt;&lt;span style="font-size: medium;"&gt;comparing, organizing, finding, structuring, integrating&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background-color: #ffd941;"&gt;&lt;span style="font-size: medium;"&gt;Applying&lt;/span&gt;&lt;/td&gt;
+&lt;td style="background-color: #ffd941;"&gt;&lt;span style="font-size: medium;"&gt;implementing, executing, using&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background-color: #fff2b5;"&gt;&lt;span style="font-size: medium;"&gt;Understanding&lt;/span&gt;&lt;/td&gt;
+&lt;td style="background-color: #fff2b5;"&gt;&lt;span style="font-size: medium;"&gt;interpreting, summarizing, inferring, paraphrasing, classifying&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Remembering&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;recognizing, listing, describing, identifying, naming&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Listen to Audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT4_0070.mp3"&gt;ELL_MOD1_UNIT4_0070.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;This table illustrates the actions that learners can take as they apply levels of high-order thinking in Bloom’s Taxonomy of Higher-Order Thinking. The model presents danger as it may appear that because “Remembering” and “Understanding” are at the bottom, they aren’t important. All of these skills are important and all should be woven into lessons. We just want to make sure that we move beyond “Remembering” in lessons with adult ELLs.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1503">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091820</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1504">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091820</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="738">
+        <prevpageid>737</prevpageid>
+        <nextpageid>739</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435094974</timecreated>
+        <timemodified>1444780821</timemodified>
+        <title>Weaving the Skills Together</title>
+        <contents>&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/circle%20diagram.png" width="350" height="302" alt="A chart consisting of 5 parts connected to each other in a circular flow. The parts are Evaluating, Analyzing, Applying, Understanding, Creating." style="float: right; margin: 5px 15px;" /&gt;Move beyond remembering&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Move beyond surface learning of facts&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Teach learning for understanding (Gardner, 1983)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Higher-order skills as evidence of understanding (Ritchhart, Church, &amp;amp; Morrison, 2011)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT4_0080.mp3"&gt;ELL_MOD1_UNIT4_0080.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;So think of these skills as multiple ways to guide learners to more profound levels of understanding. Applying, analyzing, evaluating, and creating are ways for learners to demonstrate understanding.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1505">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435094974</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1506">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435094974</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="739">
+        <prevpageid>738</prevpageid>
+        <nextpageid>740</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435095744</timecreated>
+        <timemodified>1445026281</timemodified>
+        <title>Depth of Knowledge</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;The depth of knowledge levels describe the tasks we ask learners to do:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Level 1: Recall and Reproduction&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Level 2: Skills and Concepts&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Level 3: Strategic Thinking&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Level 4: Extended Thinking&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;View and print the &lt;strong&gt;&lt;a href="@@PLUGINFILE@@/M1U4_S24_Depth_Knowledge_508.pdf" title="Depth of Knowledge chart"&gt;Depth of Knowledge chart&lt;/a&gt;&lt;/strong&gt; &lt;span style="line-height: 1.231;"&gt;(&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="font-family: Verdana, Arial, Helvetica, sans-serif; line-height: normal;"&gt;This chart is based on the work of Norman L. Webb and used with permission for inclusion in the LINCS online course)&lt;/span&gt;&lt;span style="line-height: 1.231;"&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT4_0090.mp3"&gt;ELL_MOD1_UNIT4_0090.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Now let’s look at Webb’s Depth of Knowledge. Represented as a wheel, this model looks at the types of tasks we ask learners to do. Level 1 is Recall and Reproduction. Tasks at this level require recall of facts or rote application of simple ideas or procedures. The tasks do not require any effort beyond remembering the right response. Copying and defining are typical Level 1 tasks.&lt;/p&gt;
+&lt;p&gt;Level 2 is Skills and Concepts. At this level, a student must make some decisions about how to approach a task. These tasks have more than one mental step, so comparing, organizing, summarizing, or predicting are all Level 2 tasks.&lt;/p&gt;
+&lt;p&gt;Level 3 is Strategic Thinking. At this level, adult ELLs must use planning and evidence, and thinking becomes more abstract. An example of a Level 3 task would be when there are multiple valid responses and learners have to justify their choices. In an adult ELA class, this could be solving problems at work, analyzing characteristics of a career pathway, or designing a survey to test a theory. We’ll see how to create level 3 tasks for beginning-level adult ELLs.&lt;/p&gt;
+&lt;p&gt;Level 4 is Extended Thinking. These are the tasks that require the most complex thinking and effort. Here adult ELLs need to synthesize information from multiple sources, transfer knowledge from one context to another, design a survey and then interpret their results, or analyze multiple texts to find common themes.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1507">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435095744</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1508">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435095744</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="740">
+        <prevpageid>739</prevpageid>
+        <nextpageid>741</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444607865</timecreated>
+        <timemodified>1471567576</timemodified>
+        <title>Depth of knowledge reflection</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Print the &lt;strong&gt;&lt;a href="@@PLUGINFILE@@/M1U4_S24_Depth_Knowledge_508.pdf" title="Depth of Knowledge chart" target="_blank"&gt;Depth of Knowledge Chart&lt;/a&gt; &lt;/strong&gt;to reference as you answer these questions. Work through this with a colleague if you are completing the unit with others.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;What are you doing in your classes? Answer these questions about how you are currently addressing Depths of Knowledge in your lessons. After you complete the unit, see what you could add to each level that might improve levels of thinking and engagement for adult ELLs in your classes.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;1. What activities do you often use that are at Level 1: Recall and Reproduction?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;2. What activities do you often use that are at Level 2: Skills and Concepts?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;3. What activities do you often use that are at Level 3: Strategic Thinking?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;4. What activities do you often use that are at Level 4: Extended Thinking?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Share your responses to this activity in your&lt;/strong&gt;&lt;strong&gt; Community of Practice, or with your colleagues on the &lt;a href="https://community.lincs.ed.gov/comment/16539#comment-16539" title="ESL Pro Module 1 Unit 4 Discussion Forum"&gt;LINCS discussion forum&lt;/a&gt;.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/inez2.png" width="226" height="346" style="float: right; margin: 5px 15px;" alt="" /&gt;Optional Task&lt;/strong&gt;: Matching These Principles to Learner Needs&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Meet Inez From Ecuador&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;In Unit 1 of this module, we conducted a thorough analysis of Inez's needs (&lt;a href="@@PLUGINFILE@@/M1U4_S26_Inez_%20Ecuador_508.pdf" title="Analysis of Inez's needs" target="_blank"&gt;&lt;strong&gt;analysis of Inez's needs&lt;/strong&gt;&lt;/a&gt;).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;TASK&lt;/strong&gt;: Review the &lt;em&gt;analysis of Inez's needs&lt;/em&gt; and imagine that she is in your class or program. Identify those needs that you believe relate specifically to higher-order or critical thinking skills. Then as you work through the unit, imagine how the activities and ideas presented could help a student like Inez.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT4_0100.mp3"&gt;ELL_MOD1_UNIT4_0100.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;In unit 1 we met Inez and reflected on her personal and professional needs.&lt;/p&gt;
+&lt;p&gt;Inez has 3 school-aged children. She works in housekeeping at a hotel and is enrolled in a low-intermediate-level English class at a volunteer-run program in her community. The program she attends has a largely life-skills curriculum. Inez feels frustrated because people don’t understand her. She has a hard time explaining problems because she can’t express herself well in English. She has trouble communicating with her boss. Her dream is to earn a high school equivalency diploma and then to become a nurse.&lt;/p&gt;
+&lt;p&gt;Review the analysis of Inez’s needs and imagine that she is in your class or program. Identify those needs that you believe relate specifically to higher-order or critical thinking skills. Then as you work through the unit, imagine how the activities and ideas presented could help a student like Inez.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1509">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444607865</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1510">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444607865</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="741">
+        <prevpageid>740</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444608671</timecreated>
+        <timemodified>1446853571</timemodified>
+        <title>Qualities of Critical Thinkers</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Critical thinkers:&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Ask pertinent questions.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Have a sense of curiosity.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Are interested in finding new solutions.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Examine beliefs, assumptions, and opinions and weigh them against facts.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Listen carefully to others.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Look for evidence to support assumptions and beliefs.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Adjust opinions when new facts are found.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Examine problems closely.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;(Ferrett, 2011)&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Listen to audio:&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT4_0110.mp3"&gt;ELL_MOD1_UNIT4_0110.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;Finally, before we move to strategies for the classroom, review the qualities of a critical thinker listed here. We can model these characteristics in our own thinking and instruction. As learners become more proficient in English, we can name these characteristics and encourage them during instruction. Sometimes it is easier to imagine how these critical thinking models can be applied with intermediate-to-advanced-level adult ELLs than with beginners. After all, it takes a certain level of language proficiency to make visible through words in English the thoughts processes being used. Beginning-level learners can certainly apply critical thinking skills, but can they name them in English, or do they have enough language to express what they are thinking about in English? This is where use of the first language can be very helpful for learners as they are working out problems and solutions, for example. There are ways we can start to model and use the skills, even with beginners. Modeling critical thinking has as much to do with the choices we make in our instruction as teachers as anything else.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54678"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54677"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;span style="line-height: 1.231;"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54682"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54681"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;. &lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1511">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444608671</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1512">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444608671</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

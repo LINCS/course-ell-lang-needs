@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="61" moduleid="5172" modulename="quiz" contextid="16062">
+  <quiz id="61">
+    <name>Unit 1: Post-Unit Survey (required for administrators)</name>
+    <intro>&lt;p style="text-align: center;"&gt;&lt;span style="color: #000000;"&gt;&lt;object width="100%" height="183"&gt;&lt;embed width="450" height="315" src="https://www.youtube.com/v/t6wHxre1DQc
+?hl=en_US&amp;amp;version=3&amp;amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" /&gt;&lt;/object&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000;"&gt;The Post-Survey is your last step before printing your certificate.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000;"&gt;Now take the post-survey to see how your views have changed. What would you add or change to those after completing Unit 1?&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timelimit>0</timelimit>
+    <overduehandling>autoabandon</overduehandling>
+    <graceperiod>0</graceperiod>
+    <preferredbehaviour>deferredfeedback</preferredbehaviour>
+    <attempts_number>2</attempts_number>
+    <attemptonlast>0</attemptonlast>
+    <grademethod>1</grademethod>
+    <decimalpoints>2</decimalpoints>
+    <questiondecimalpoints>-1</questiondecimalpoints>
+    <reviewattempt>69904</reviewattempt>
+    <reviewcorrectness>0</reviewcorrectness>
+    <reviewmarks>4368</reviewmarks>
+    <reviewspecificfeedback>0</reviewspecificfeedback>
+    <reviewgeneralfeedback>0</reviewgeneralfeedback>
+    <reviewrightanswer>0</reviewrightanswer>
+    <reviewoverallfeedback>4368</reviewoverallfeedback>
+    <questionsperpage>0</questionsperpage>
+    <navmethod>free</navmethod>
+    <shufflequestions>0</shufflequestions>
+    <shuffleanswers>0</shuffleanswers>
+    <questions>1095,1096,1097,1098,1099,1100,0</questions>
+    <sumgrades>6.00000</sumgrades>
+    <grade>6.00000</grade>
+    <timecreated>0</timecreated>
+    <timemodified>1445175643</timemodified>
+    <password></password>
+    <subnet></subnet>
+    <browsersecurity>-</browsersecurity>
+    <delay1>0</delay1>
+    <delay2>0</delay2>
+    <showuserpicture>2</showuserpicture>
+    <showblocks>0</showblocks>
+    <question_instances>
+      <question_instance id="430">
+        <question>1095</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+      <question_instance id="431">
+        <question>1096</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+      <question_instance id="432">
+        <question>1097</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+      <question_instance id="433">
+        <question>1098</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+      <question_instance id="434">
+        <question>1099</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+      <question_instance id="435">
+        <question>1100</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+    </question_instances>
+    <feedbacks>
+      <feedback id="97">
+        <feedbacktext>&lt;p&gt;&lt;span&gt;C&lt;/span&gt;&lt;span&gt;lick &lt;b&gt;ELLLangNeeds &lt;/b&gt;in the &lt;span class="il"&gt;Navigation&lt;/span&gt; pane to the left of the screen or in the breadcrumbs near the top of the screen to select your next activity.&lt;/span&gt;&lt;/p&gt;</feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>0.00000</mingrade>
+        <maxgrade>7.00000</maxgrade>
+      </feedback>
+    </feedbacks>
+    <overrides>
+    </overrides>
+    <grades>
+    </grades>
+    <attempts>
+    </attempts>
+  </quiz>
+</activity>

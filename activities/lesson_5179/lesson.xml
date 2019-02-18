@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="145" moduleid="5179" modulename="lesson" contextid="16069">
+  <lesson id="145">
+    <course>137</course>
+    <name>Unit 2 Overview</name>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1435277003</timemodified>
+    <pages>
+      <page id="599">
+        <prevpageid>0</prevpageid>
+        <nextpageid>600</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091460</timecreated>
+        <timemodified>1446851120</timemodified>
+        <title>Introduction</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/instructor%20with%20learners.png" width="250" height="392" alt="instructor with learners" style="margin: 5px 15px; float: right;" /&gt;This unit focuses on the academic and professional language that adult English language learners (ELLs) need for&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;engaging in academic and professional conversations appropriately&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;accessing and understanding more complex written and oral texts at work and school&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;recognizing the conventions of formal academic or professional English&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;in any type of class at any level. The content in this unit complements the content in Units 3 and 4, as well as in other modules in the LINCS ELL PRO PROJECT.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;*The Workforce Innovation and Opportunities Act uses the term English language acquisition (ELA) to describe English language instruction for nonnative English speakers rather than the traditional English as a second language (ESL) or English for speakers of other languages terminology.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT2_0010.mp3"&gt;ELL_MOD1_UNIT2_0010.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Welcome to Unit 2 of Meeting the Language Needs of Today’s Adult English Language Learner. In this unit, we explore the academic and professional language that adult ELLs need to be successful at work, in school, and for deeper engagement in their communities. As you will see, academic language does not simply mean the language of school. It is the language we use to communicate with coworkers, officials, or educators. It represents the complex language that appears in academic and work texts. As you will see, it is essential to start building the academic language skills of adult ELLs from the beginning levels. This unit complements Units 3 and 4 and represents one of the core components of meeting the language needs of today’s adult ELL. It should take between 2.5 and 3 hours to complete. Continue to the unit objectives now.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;If you would like to access any of the pages in this section you may use the &lt;em&gt;Lesson menu&lt;/em&gt; block on the left. Using the buttons at the bottom will present the materials in order.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1238">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Instructors</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1247">
+            <jumpto>601</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Administrators</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="600">
+        <prevpageid>599</prevpageid>
+        <nextpageid>601</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091574</timecreated>
+        <timemodified>1445177174</timemodified>
+        <title>Objectives for Instructors</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;By the end of this unit, you should be able to do the following:&lt;/span&gt;&lt;/p&gt;
+&lt;table border="0" cellpadding="5" cellspacing="5" align="right" style="background-color: #fff2b5; ; width: 20%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;em&gt;Academic language contains complex features of English required to complete higher education, access meaningful employment, and earn professional advancement and rewards (Scarcella, 2003).&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Articulate the importance of teaching academic and professional language to adult ELLs.&lt;/span&gt;&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Identify specific features of academic language used across disciplines in school and professional settings.&lt;/span&gt;&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Explore strategies and resources for identifying and teaching academic language.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1239">
+            <jumpto>599</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091574</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1240">
+            <jumpto>602</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091574</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="601">
+        <prevpageid>600</prevpageid>
+        <nextpageid>602</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091820</timecreated>
+        <timemodified>1438106041</timemodified>
+        <title>Objectives for Administrators</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;By the end of this unit, you should be able to do the following:&lt;/span&gt;&lt;/p&gt;
+&lt;table border="0" cellpadding="5" cellspacing="5" align="right" style="background-color: #fff2b5; ; width: 20%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;em&gt;Academic language contains complex features of English required to complete higher education, access meaningful employment, and earn professional advancement and rewards (Scarcella, 2003).&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Articulate the importance of teaching academic and professional language to adult ELLs.&lt;/span&gt;&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Identify specific features of academic language used across disciplines in school and professional settings.&lt;/span&gt;&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Develop a plan for supporting teachers' integration of academic language into curricula at all levels of instruction.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1241">
+            <jumpto>599</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091820</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1242">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091820</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="602">
+        <prevpageid>601</prevpageid>
+        <nextpageid>603</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435094974</timecreated>
+        <timemodified>1446848202</timemodified>
+        <title>Overview</title>
+        <contents>&lt;h2 style="text-align: left;"&gt;&lt;span style="color: #000000;"&gt;This Unit has Four Parts&lt;/span&gt;&lt;/h2&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/Parts.png" width="378" height="272" alt="Decorative graphic with the titles of each of the four parts of this unit." style="float: right; margin: 5px 15px;" /&gt;Part 1&lt;/strong&gt;: What academic and professional language is and why it is so important (for instructors and administrators)&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Part 2&lt;/strong&gt;: The features of academic and professional language (for instructors and administrators)&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Part 3&lt;/strong&gt;: Strategies and resources for teaching academic and professional language (for instructors)&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Part 4&lt;/strong&gt;: Support for teachers' development in teaching academic and professional language (for administrators)&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1243">
+            <jumpto>599</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435094974</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1244">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435094974</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="603">
+        <prevpageid>602</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435095744</timecreated>
+        <timemodified>1446853234</timemodified>
+        <title>Activities in this Unit</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Various activities are in this unit:&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Pre- and post-unit surveys&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Text and lesson analysis&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Video observation&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Task development&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Read and reflect&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;This chart indicates which activities are suitable for instructors.&lt;/span&gt;&lt;/p&gt;
+&lt;table cellpadding="5" cellspacing="5" align="center"&gt;&lt;colgroup&gt;&lt;col width="278px" /&gt;&lt;col width="278px" /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr style="height: 32px;"&gt;&lt;th scope="col" style="background-color: #19568b;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: medium; font-family: Arial; color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;For Instructors &lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th scope="col" style="background-color: #19568b;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: medium; font-family: Arial; color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;For Administrators&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr style="height: 31px;"&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: medium; font-family: Arial; color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;Pre-unit survey&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: medium; font-family: Arial; color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;Pre-unit survey&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 58px;"&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;span style="font-family: Arial; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;Optional: Read and reflect: &lt;/span&gt;&lt;span style="font-family: Arial; font-weight: normal; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;Increased Rigor in Adult English Language Instruction: Meeting the Demands of Today’s World&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;span style="font-family: Arial; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;Optional: Read and reflect: &lt;/span&gt;&lt;span style="font-family: Arial; font-weight: normal; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;Increased Rigor in Adult English Language Instruction: Meeting the Demands of Today’s World&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 31px;"&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: medium; font-family: Arial; color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;Academic language analysis: Short text&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt; &lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 42px;"&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: medium; font-family: Arial; color: #000000; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;Video observation: Advanced reading lesson&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: medium; font-family: Arial; color: #000000; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;Video observation: Advanced reading lesson&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 42px;"&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: medium; font-family: Arial; color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;Academic language and literacy site activity analysis&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt; &lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 42px;"&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: medium; font-family: Arial; color: #000000; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;Using sublist 1 of the academic word list (AWL) in your teaching &lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;span style="font-family: Arial; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;Read and reflect: &lt;/span&gt;&lt;span style="font-family: Arial; font-weight: normal; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;Eight Shifts Focused on Academic English Learners; &lt;/span&gt;&lt;span style="font-family: Arial; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;create an action plan&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 58px;"&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: medium; font-family: Arial; color: #000000; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;Academic language analysis and lesson enhancement&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span face="Arial" style="font-family: Arial; font-size: medium;"&gt;&lt;span style="line-height: 16px; white-space: pre-wrap;"&gt;&lt;strong&gt;Create Action Items&lt;/strong&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 42px;"&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: medium; font-family: Arial; color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;Post-unit survey&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: medium; font-family: Arial; color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;Post-unit survey&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="color: #000000;"&gt;Note for &lt;/span&gt;Administrators: Even if you are not completing tasks for teachers in Parts 1 and 2, consider working through Parts 1 and 2 for background on what academic language entails for learners and instructors.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44651"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44650"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44532"&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44526"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44525"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1245">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435095744</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1246">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435095744</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

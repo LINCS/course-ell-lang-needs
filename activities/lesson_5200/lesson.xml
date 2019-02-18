@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="155" moduleid="5200" modulename="lesson" contextid="16090">
+  <lesson id="155">
+    <course>137</course>
+    <name>Part 4: Ideas for Administrators</name>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1438176516</timemodified>
+    <pages>
+      <page id="718">
+        <prevpageid>0</prevpageid>
+        <nextpageid>719</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1438176670</timecreated>
+        <timemodified>1445025812</timemodified>
+        <title>Matching the Strategies to Learner Needs</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/inez2.png" width="250" height="384" alt="" style="margin: 5px 15px; float: right;" /&gt;&lt;span style="font-size: medium;"&gt;Meet Inez From Ecuador&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;In Unit 1 of this module, we conducted a thorough analysis of Inez's needs (&lt;strong&gt;&lt;a href="@@PLUGINFILE@@/M1U3_S69_Inez_Ecuador_508.pdf" title="Analysis of Inez's needs"&gt;analysis of Inez's needs&lt;/a&gt;&lt;/strong&gt;).&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;TASK&lt;/strong&gt;: Review the analysis of Inez's needs and identify those related specifically to the development of the kinds of reading and listening strategies outlined in this unit.&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;What kind of nonfiction texts and authentic listening materials are you including in your curricula now that would help a learner such as Inez?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;What could your program do to serve such learners?&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;Listen to audio:&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT3_0210.mp3"&gt;ELL_MOD1_UNIT3_0210.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Inez has three school-aged children. She works in housekeeping at a hotel and is enrolled in a low-intermediate-level English class at a volunteer-run program in her community. The program she attends has a largely life-skills curriculum. Inez feels frustrated because people do not understand her. She has a hard time explaining problems because she cannot express herself well in English. She has trouble communicating with her boss. Her dream is to earn a high school equivalency diploma and then to become a nurse.&lt;/p&gt;
+&lt;p&gt;Review the analysis of Inez’s needs and identify those related specifically to the development of the kinds of reading and listening strategies outlined in this unit. What kind of nonfiction texts and authentic listening materials are you including in your curricula now that would help a learner such as Inez? What could your program do to serve such learners?&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1468">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438176670</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="719">
+        <prevpageid>718</prevpageid>
+        <nextpageid>720</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1438176778</timecreated>
+        <timemodified>1445177506</timemodified>
+        <title>Connections Between Research and Practice</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Parrish and Johnson (2010) addressed the following:&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;The need for skilled workers&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;The language strategies needed&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Examples of applying that to the classroom&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="http://lincs.ed.gov/professional-development/resource-collections/profile-418" title="Promoting Learner Transitions to Postsecondary Education and Work" target="_blank"&gt;&lt;strong&gt;Access reading here&lt;/strong&gt;&lt;/a&gt; and continue to the reflection questions.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Listen to audio:&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT3_0220.mp3"&gt;ELL_MOD1_UNIT3_0220.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;Parrish and Johnson (2010) address the current and projected need for skilled workers and the skills immigrants and refugees need to be able to take these positions. The authors address the following skills as being essential in the classroom: Reading and Listenting; Note-taking; Organizing Information and Critical Thinking. The brief provides instuction on how to structure and sequence activities to fit in to any classroom content. Included in the brief are sample activities that are leveled for beginning, intermediate and advanced ELLs.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1469">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438176778</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1470">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438176778</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="720">
+        <prevpageid>719</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444606233</timecreated>
+        <timemodified>1446853508</timemodified>
+        <title>Final Reflection (required for administrators)</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Now reflect on your current understanding of the benefits of using nonfiction texts at all levels, as well as the need to create tasks to develop reading and listening strategies. Share this with others if you are working through the unit with colleagues.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;What are three reasons why we need to include more nonfiction, informational texts, and authentic listening passages with adult ELLs?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;What are the primary listening and reading needs of your learners (if prepared in Unit 1, look at the vignette you prepared)? How can you address some of those based on what you learned in this unit?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Share your responses to this activity in the&lt;/strong&gt;&lt;b&gt; &lt;/b&gt;&lt;strong&gt;&lt;a href="https://ovae-moodle-dev.myquotient.net/brokenfile.php#/80/user/draft/186252299/Draft_M1_LINCS_Discussion_Prompts.docx" title="ESL Pro Module 1 LINCS Discussion Forum"&gt;discussion forum&lt;/a&gt;&lt;/strong&gt;&lt;b&gt; &lt;/b&gt;&lt;strong&gt;created for this module in the LINCS Adult English Language Learners Community.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54678"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54677"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54680"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54682"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54681"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;. &lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1471">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444606233</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1472">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444606233</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

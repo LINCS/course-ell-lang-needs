@@ -1,0 +1,1818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="149" moduleid="5184" modulename="lesson" contextid="16074">
+  <lesson id="149">
+    <course>137</course>
+    <name>Unit 2 Part 3: continued</name>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1438110301</timemodified>
+    <pages>
+      <page id="635">
+        <prevpageid>0</prevpageid>
+        <nextpageid>636</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091460</timecreated>
+        <timemodified>1439134855</timemodified>
+        <title>Look at All the Academic Language!</title>
+        <contents>&lt;p&gt;&lt;b style="font-weight: normal;"&gt;&lt;b style="font-weight: normal;"&gt; &lt;/b&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;table style="border: 1px none; border-collapse: collapse;" align="center" border="1"&gt;&lt;colgroup&gt;&lt;col width="133px" /&gt;&lt;col width="403px" /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr style="height: 31px;"&gt;&lt;th scope="col" style="background-color: #19568b; opacity: 1; filter: alpha(opacity=100); vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 14.6666666666667px; font-family: Arial; color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;Activity&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th scope="col" style="background-color: #19568b; opacity: 1; filter: alpha(opacity=100); vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 14.6666666666667px; font-family: Arial; color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;Academic Language and Related Skills Introduced &lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr style="height: 81px;"&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;One-question-interview&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt;
+&lt;ul style="margin-top: 0pt; margin-bottom: 0pt;"&gt;
+&lt;li dir="ltr" style="list-style-type: disc; font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Collect data&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr" style="list-style-type: disc; font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Practice numeracy skills&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr" style="list-style-type: disc; font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Use and interpret tally marks&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr" style="list-style-type: disc; font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Interview and report to others&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 80px;"&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Small-group analysis and discussion&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt;
+&lt;ul style="margin-top: 0pt; margin-bottom: 0pt;"&gt;
+&lt;li dir="ltr" style="list-style-type: disc; font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Collect, organize, represent, and interpret data&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr" style="list-style-type: disc; font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Use academic register with sentence frames (two thirds of the class)&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr" style="list-style-type: disc; font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Summarize and synthesize information&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 45px;"&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Create a graph&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt;
+&lt;ul style="margin-top: 0pt; margin-bottom: 0pt;"&gt;
+&lt;li dir="ltr" style="list-style-type: disc; font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Represent data visually&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr" style="list-style-type: disc; font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Interpret graphs&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 80px;"&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Paragraph frame&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt;
+&lt;ul style="margin-top: 0pt; margin-bottom: 0pt;"&gt;
+&lt;li dir="ltr" style="list-style-type: disc; font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Transfer information (graphs or grids to paragraph)&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr" style="list-style-type: disc; font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Recognize text organization&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr" style="list-style-type: disc; font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Use appropriate structures (tense and adverbials) to describe routines.&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT2_0150.mp3"&gt;ELL_MOD1_UNIT2_0150.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Just look at all the rich academic language that this lesson generated. The one-question-interview technique involved collecting data, tallying, interviewing, and reporting results. Using sentence frames in discussion, learners analyzed and interpreted the data. As they move into creating the graphs, they need to summarize their findings in the data with a visual representation. This would be a time to work on numeracy skills as well.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1307">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="636">
+        <prevpageid>635</prevpageid>
+        <nextpageid>637</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091574</timecreated>
+        <timemodified>1439134932</timemodified>
+        <title>Alternative Theme—Same Process</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;img src="@@PLUGINFILE@@/student%20working%20with%20others.png" width="250" height="379" alt="Student working with others in a class" style="float: right; margin: 5px 15px;" /&gt;&lt;span style="font-size: medium;"&gt;Start with a mingle-grid activity such as this one and use all the same steps (data collection, discussion, graphing, paragraph frame) for practicing academic language.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;How do we practice English outside of class?&lt;/strong&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;table style="border: none; border-collapse: collapse;"&gt;&lt;colgroup&gt;&lt;col width="118px" /&gt;&lt;col width="60px" /&gt;&lt;col width="57px" /&gt;&lt;col width="66px" /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr style="height: 67px;"&gt;&lt;th scope="col" style="background-color: #19568b; opacity: 1; filter: alpha(opacity=100); vertical-align: middle; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 12px; font-family: Arial; color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;Language Practices&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th scope="col" style="background-color: #19568b; opacity: 1; filter: alpha(opacity=100); vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 12px; font-family: Arial; color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;0–3 Times Per Week&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th scope="col" style="background-color: #19568b; opacity: 1; filter: alpha(opacity=100); vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 12px; font-family: Arial; color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;4–5 Times Per Week&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th scope="col" style="background-color: #19568b; opacity: 1; filter: alpha(opacity=100); vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 12px; font-family: Arial; color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;6–10 Times Per Week&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr style="height: 24px;"&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 12px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Read in English&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt; &lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt; &lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 38px;"&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 12px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Listen to the radio in English&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt; &lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt; &lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 38px;"&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 12px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Watch television in English&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt; &lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt; &lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 53px;"&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 12px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Speak to neighbors in English&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt; &lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt; &lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 38px;"&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 12px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Study for my English class&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt; &lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt; &lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 38px;"&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 12px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Speak English with coworkers&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt; &lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt; &lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1308">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091574</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1309">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091574</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="637">
+        <prevpageid>636</prevpageid>
+        <nextpageid>638</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091820</timecreated>
+        <timemodified>1437836529</timemodified>
+        <title>Sample 2: Using a Flowchart to Collect Data</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;img src="@@PLUGINFILE@@/flowchart.png" width="400" height="276" alt="Flowchart with first category branching off into two sub-categories and each of those categories branching off into two more subcategories" style="float: right; margin: 5px 15px;" /&gt;&lt;span style="font-size: medium;"&gt;This data collection technique uses a flowchart to organize the information collected.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Learners mingle to collect information about others, asking, for example, the following questions:&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;What jobs do the women and men in your family have?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;What are the home activities of men and women in your family?&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;As before, students work in small groups to discuss their findings. Useful sentence frames could be as follows:&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;em&gt;Many more men than women&lt;/em&gt; _________.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;em&gt;A common job for women in our class is&lt;/em&gt; _____________.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1310">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091820</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1311">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091820</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="638">
+        <prevpageid>637</prevpageid>
+        <nextpageid>639</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435094974</timecreated>
+        <timemodified>1438110342</timemodified>
+        <title>Using the Class Data With a Paragraph Frame</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Now learners can use their data and ideas from their discussion to write using &lt;strong&gt;a paragraph frame&lt;/strong&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Paragraph Frame for Scaffolding and Comparing&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;_______ and _______ are similar in many ways. They both _______ . They also _______ _______ . Each _______ _______ . We can say _______ .&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;_______ and _______ differ in some ways, too. First, women _______, whereas _______ _______. In addition, _______ _______ _______ . In contrast, _______ . These differences help us to see _______ .&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Simplified from Zwiers (2004).&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1312">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435094974</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1313">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435094974</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="639">
+        <prevpageid>638</prevpageid>
+        <nextpageid>640</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1438110530</timecreated>
+        <timemodified>1445014245</timemodified>
+        <title>Sample 3: Using Graphic Organizers to Show Text Organization</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Now return to the &lt;strong&gt;&lt;a href="@@PLUGINFILE@@/M1U2_S27_48_Theory_508.pdf" title="Birth Order Reading"&gt;birth-order theory reading&lt;/a&gt;&lt;/strong&gt;. How would the following graphic organizer help learners recognize the organization of the text (message or discourse level)?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;SAMPLE Graphic Organizer that represents what ELLs would receive in class:&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;strong&gt;The Personality and Birth Order Theory&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;What are some traits of your birth order? Read your assigned section of the article and fill in at least four traits given in the article and two sample professions under your birth order.&lt;/span&gt;&lt;/p&gt;
+&lt;table style="border: 2px solid #000000; width: 80%; margin-left: auto; margin-right: auto;" border="2" cellspacing="5" align="center"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="center" valign="middle"&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;span style="color: #000000;"&gt;First-Born&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;span style="color: #000000;"&gt;Traits&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td align="center" valign="middle"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;span style="color: #000000;"&gt;Middle-Child&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;span style="color: #000000;"&gt;Traits&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td align="center" valign="middle"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;span style="color: #000000;"&gt;Last-Born&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;span style="color: #000000;"&gt;Traits&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td align="center" valign="middle"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;span style="color: #000000;"&gt;Only-Child&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;span style="color: #000000;"&gt;Traits&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center" valign="middle"&gt;&lt;span&gt;______________&lt;/span&gt;&lt;/td&gt;
+&lt;td align="center" valign="middle"&gt;&lt;span&gt;______________&lt;/span&gt;&lt;/td&gt;
+&lt;td align="center" valign="middle"&gt;______________&lt;/td&gt;
+&lt;td align="center" valign="middle"&gt;&lt;span&gt;______________&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center" valign="middle"&gt;&lt;span&gt;______________&lt;/span&gt;&lt;/td&gt;
+&lt;td align="center" valign="middle"&gt;&lt;span&gt;______________&lt;/span&gt;&lt;/td&gt;
+&lt;td align="center" valign="middle"&gt;&lt;span&gt;______________&lt;/span&gt;&lt;/td&gt;
+&lt;td align="center" valign="middle"&gt;&lt;span&gt;______________&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center" valign="middle"&gt;&lt;span&gt;______________&lt;/span&gt;&lt;/td&gt;
+&lt;td align="center" valign="middle"&gt;&lt;span&gt;______________&lt;/span&gt;&lt;/td&gt;
+&lt;td align="center" valign="middle"&gt;&lt;span&gt;______________&lt;/span&gt;&lt;/td&gt;
+&lt;td align="center" valign="middle"&gt;&lt;span&gt;______________&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center" valign="middle"&gt;&lt;span&gt;______________&lt;/span&gt;&lt;/td&gt;
+&lt;td align="center" valign="middle"&gt;&lt;span&gt;______________&lt;/span&gt;&lt;/td&gt;
+&lt;td align="center" valign="middle"&gt;&lt;span&gt;______________&lt;/span&gt;&lt;/td&gt;
+&lt;td align="center" valign="middle"&gt;&lt;span&gt;______________&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center" valign="middle"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;span style="color: #000000;"&gt;Typical Professions&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td align="center" valign="middle"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;span style="color: #000000;"&gt;Typical Professions&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td align="center" valign="middle"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;span style="color: #000000;"&gt;Typical Professions&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td align="center" valign="middle"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;span style="color: #000000;"&gt;Typical Professions&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center" valign="middle"&gt;&lt;span&gt;______________&lt;/span&gt;&lt;/td&gt;
+&lt;td align="center" valign="middle"&gt;&lt;span&gt;______________&lt;/span&gt;&lt;/td&gt;
+&lt;td align="center" valign="middle"&gt;&lt;span&gt;______________&lt;/span&gt;&lt;/td&gt;
+&lt;td align="center" valign="middle"&gt;&lt;span&gt;______________&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="center" valign="middle"&gt;&lt;span&gt;______________&lt;/span&gt;&lt;/td&gt;
+&lt;td align="center" valign="middle"&gt;&lt;span&gt;______________&lt;/span&gt;&lt;/td&gt;
+&lt;td align="center" valign="middle"&gt;&lt;span&gt;______________&lt;/span&gt;&lt;/td&gt;
+&lt;td align="center" valign="middle"&gt;&lt;span&gt;______________&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1314">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438110530</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1315">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438110530</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="640">
+        <prevpageid>639</prevpageid>
+        <nextpageid>641</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1438110656</timecreated>
+        <timemodified>1447728303</timemodified>
+        <title>Recognizing the Organization of an Informal Text</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;In a video from the New American Horizons Foundation (2012–2013), George Schooley uses a nonfiction text on birth-order theory with an &lt;strong&gt;intermediate- to advanced-level&lt;/strong&gt; class. He demonstrates the following:&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;&lt;span style="color: #000000; font-size: medium;"&gt;The use of graphic organizers as a pre-reading activity to organize ideas (pro-con) and for a jigsaw reading task&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="color: #000000; font-size: medium;"&gt;The connection between prior knowledge and reading&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="color: #000000; font-size: medium;"&gt;The connection between reading and critical thinking&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="color: #000000; font-size: medium;"&gt;A vocabulary sorting activity&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;object width="100%" height="183"&gt;&lt;param name="movie" value="//www.youtube.com/embed/48iTIywCP7A?hl=en_US&amp;amp;version=3&amp;amp;rel=0" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed width="90%" height="450" src="https://www.youtube.com/v/48iTIywCP7A?hl=en_US&amp;amp;version=3&amp;amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" title="Adobe Flash Player" /&gt;&lt;/object&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: x-small;"&gt;©2011 &lt;a href="http://www.newamericanhorizons.org/"&gt;New American Horizons Foundation&lt;/a&gt; “Developing Reading Skills for Intermediate/Advanced Learners” is licensed under a &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/us/"&gt;Creative Commons Attribution-Share Alike 3.0 United States License&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;strong&gt;TASK&lt;/strong&gt;: Open and print &lt;strong&gt;&lt;a href="@@PLUGINFILE@@/M1U2_S49__SampleLes_508.pdf" title="George's Lesson Plan"&gt;George's lesson plan&lt;/a&gt;&lt;/strong&gt;. As you view the lesson, note how the graphic organizers support the development of academic language at the message or discourse level. What are the learner outcomes? Also note the ways the vocabulary sort promotes understanding of academic vocabulary. Share your ideas with your colleagues.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1316">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438110656</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1317">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438110656</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="641">
+        <prevpageid>640</prevpageid>
+        <nextpageid>642</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1438110719</timecreated>
+        <timemodified>1439143907</timemodified>
+        <title>Overview: Developing an Academic Register</title>
+        <contents>&lt;p&gt;&lt;b style="font-weight: normal;"&gt;&lt;b style="font-weight: normal;"&gt; &lt;/b&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;table style="border: none; border-collapse: collapse;"&gt;&lt;colgroup&gt;&lt;col width="245px" /&gt;&lt;col width="276px" /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr style="height: 25px;"&gt;&lt;th scope="col" style="background-color: #19568b;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;"&gt;&lt;span style="font-size: medium; font-family: Calibri; color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;Informal Spoken Language&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th scope="col" style="background-color: #19568b;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; text-align: center;"&gt;&lt;span style="font-size: medium; font-family: Calibri; color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;Academic Spoken Language&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr style="height: 42px;"&gt;
+&lt;td style="vertical-align: top; padding-top: 4px; padding-right: 10px; padding-bottom: 4px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: medium; font-family: Calibri; color: #000000; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;More Tier 1, everyday vocabulary appears; repetition of words.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 4px; padding-right: 10px; padding-bottom: 4px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: medium; font-family: Calibri; color: #000000; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;A variety of words is used; more sophisticated.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 60px;"&gt;
+&lt;td style="vertical-align: top; padding-top: 4px; padding-right: 10px; padding-bottom: 4px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: medium; font-family: Calibri; color: #000000; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;Simple conjunctions and sentences may start with “and” or “but.”&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 4px; padding-right: 10px; padding-bottom: 4px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: medium; font-family: Calibri; color: #000000; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;Sentences start with transition words, such as “however,” “moreover,” and “in addition.”&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 42px;"&gt;
+&lt;td style="vertical-align: top; padding-top: 4px; padding-right: 10px; padding-bottom: 4px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: medium; font-family: Calibri; color: #000000; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;Slang and colloquial language such as “whatever” and “like” may be used.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 4px; padding-right: 10px; padding-bottom: 4px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="font-family: Calibri; color: #000000; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;Replaces slang with accurate descriptions (&lt;/span&gt;&lt;span style="font-family: Calibri; color: #000000; font-weight: normal; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;As an example…&lt;/span&gt;&lt;span style="font-family: Calibri; color: #000000; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;).&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 42px;"&gt;
+&lt;td style="vertical-align: top; padding-top: 4px; padding-right: 10px; padding-bottom: 4px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: medium; font-family: Calibri; color: #000000; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;Speech reductions such as “wanna” and “gonna” are used.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 4px; padding-right: 10px; padding-bottom: 4px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: medium; font-family: Calibri; color: #000000; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;Speech tends to be more deliberate and words fully articulated. &lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 46px;"&gt;
+&lt;td style="vertical-align: top; padding-top: 4px; padding-right: 10px; padding-bottom: 4px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: medium; font-family: Calibri; color: #000000; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;Can vary greatly by ethnicity, region, gender, and age.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 4px; padding-right: 10px; padding-bottom: 4px; padding-left: 10px; border: solid #000000 1.3333333333333333px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: medium; font-family: Calibri; color: #000000; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;This common language register is used by people of a variety of backgrounds.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT2_0160.mp3"&gt;audio&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Now let’s turn to spoken academic language. At the beginning of this unit, we compared the text message between spouses and a conversation with a boss. An information register is completely appropriate in casual, social settings. However, to be heard and taken seriously in academic and professional settings, ELLs need to acquire an academic spoken register.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1318">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438110719</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1319">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438110719</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="642">
+        <prevpageid>641</prevpageid>
+        <nextpageid>643</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1438110849</timecreated>
+        <timemodified>0</timemodified>
+        <title>Developing an Academic Register</title>
+        <contents>&lt;table border="0" align="right" style="width: 25%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="background-color: #bad760;"&gt;
+&lt;p&gt;&lt;strong&gt;Elaborate and Clarify&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;How so?&lt;/span&gt;&lt;br /&gt;&lt;span style="color: #000000;"&gt;What do you mean by...?&lt;/span&gt;&lt;br /&gt;&lt;span style="color: #000000;"&gt;What makes you think that?&lt;/span&gt;&lt;br /&gt;&lt;span style="color: #000000;"&gt;Why is that important&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background-color: #5fa6ca;"&gt;
+&lt;p&gt;&lt;strong&gt;Build on a Partner's Idea&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I would add that...&lt;br /&gt;I want to add to your idea...&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Challenge a Partner's Idea&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Well, I think that...&lt;br /&gt;Another way to look at it is...&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Teach academic language frames.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Move from output to engagement.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Help students fortify their ideas with academic language.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;(Kinsella, 2012; Zwiers &amp;amp; Crawford, 2011)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Please see Unit 4 in this module for an extensive overview of the academic language that accompanies critical thinking.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT2_0170.mp3"&gt;ELL_MOD1_UNIT2_0170.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;As language teachers, we can support the development of an academic register by adult ELLs through explicit instruction of the language needed to, for example. elaborate or clarify, build on, or challenge a partner’s ideas. We also can provide scaffolds for preparing for academic and professional conversations. At the Academic Language and Literacy website, Jeff Zwiers recommends ways to move students beyond simply reporting ideas in an activity to building on their ideas, or, as he says, fortifying those ideas. Kate Kinsella (2012) offers ideas for preparing learners for academic discussions. This section of Unit 1 includes a brief introduction to building academic and professional conversations. Because these academic conversations are so closely aligned to expressing critical thinking, Unit 4 in this module will provide a much more extensive overview of this topic. Let’s look at a few tools and tasks appropriate for helping adults develop an academic and professional spoken register. Before continuing, let’s meet Inez from Ecuador.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1320">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438110849</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1321">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438110849</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="643">
+        <prevpageid>642</prevpageid>
+        <nextpageid>644</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1438111031</timecreated>
+        <timemodified>1458684948</timemodified>
+        <title>Meet Inez From Ecuador</title>
+        <contents>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/inez2.png" width="250" height="384" alt="Inez reading to child" style="margin: 5px 15px; float: right;" /&gt;&lt;span style="font-size: medium;"&gt;In Unit 1 of this module, we conducted a thorough analysis of Inez's needs (&lt;strong&gt;&lt;a href="@@PLUGINFILE@@/M1U1_S36_Inez_Ecuador_508c.pdf" title="Analysis of Inez's Needs"&gt;analysis of Inez's needs&lt;/a&gt;&lt;/strong&gt;) and identified the following personal and professional goals:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Personal goals&lt;/strong&gt;:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Build her confidence when speaking in English.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Support her children's academic achievement.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Share literacy experiences with her children.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Read documents sent home from her children's school.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Take part in community activities and events that affect the well-being of her family.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Professional goals&lt;/strong&gt;:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Immediate: Improve her ability to communicate with others at work (coworkers and supervisors).&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Move out of a low-wage job in housekeeping.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Long-term: Become a nurse.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;TASK&lt;/strong&gt;: Review the &lt;strong&gt;analysis of Inez's needs&lt;/strong&gt; and identify those related specifically to the development professional oral communication.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT2_0180.mp3"&gt;ELL_MOD1_UNIT2_0180.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Inez has three school-aged children. She works in housekeeping at a hotel and is enrolled in a low-intermediate-level English class at a volunteer-run program in her community. The program she attends has a largely life-skills curriculum. Inez feels frustrated because people do not understand her. She has a hard time explaining problems because she cannot express herself well in English. She has trouble communicating with her boss. Her dream is to earn a high school equivalency diploma and then to become a nurse.&lt;/p&gt;
+&lt;p&gt;Inez has several needs related to acquiring more academic language. For this task, look specifically at the personal and professional goals where she would benefit from practice with a more professional oral language.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1322">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438111031</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1323">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438111031</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="644">
+        <prevpageid>643</prevpageid>
+        <nextpageid>645</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1438111076</timecreated>
+        <timemodified>0</timemodified>
+        <title>Teach the Language Needed to Engage in Academic Conversations</title>
+        <contents>&lt;table border="0" align="right" style="width: 40%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;"&gt;
+&lt;p&gt;&lt;strong&gt;Elaborate and Clarify&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;How so?&lt;/span&gt;&lt;br /&gt;&lt;span style="color: #000000;"&gt;What do you mean by...?&lt;/span&gt;&lt;br /&gt;&lt;span style="color: #000000;"&gt;What makes you think that?&lt;/span&gt;&lt;br /&gt;&lt;span style="color: #000000;"&gt;Why is that important&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;" rowspan="2"&gt;
+&lt;p&gt;&lt;strong&gt;Synthesize Conversations&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We can say that...&lt;br /&gt;We all agree that...&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td rowspan="2" style="border: 1px solid #000000;"&gt;
+&lt;p&gt;&lt;strong&gt;Paraphrase Ideas&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;It sounds like...&lt;br /&gt;In other words...&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;" rowspan="2"&gt;
+&lt;p&gt;&lt;strong&gt;Build on a Partner's Idea&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I would add that...&lt;br /&gt;I want to add to your idea...&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Challenge a Partner's Idea&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Well, I think that...&lt;br /&gt;Another way to look at it is...&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;"&gt;
+&lt;p&gt;&lt;strong&gt;Support Ideas with Examples&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An example from my life is...&lt;br /&gt;For example...&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;In their book, &lt;em&gt;Academic Conversations&lt;/em&gt;, Zwiers and Crawford (2011) identify the core communication skills needed to engage in and sustain academic conversations, including the following:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Elaborate and clarify ideas.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Support ideas with examples.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Paraphrase ideas.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Build on and challenge a partner's opinion.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Synthesize conversations.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Adult ELLs need the phrases for these language functions made explicit (Finn Miller, 2014):&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Model the language needed.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Provide sentence frames.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Post the phrases on the board.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Provide academic conversation starters.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1324">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438111076</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1325">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438111076</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="645">
+        <prevpageid>644</prevpageid>
+        <nextpageid>646</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1438111204</timecreated>
+        <timemodified>1484241791</timemodified>
+        <title>Activities for Building and Fortifying Academic Language</title>
+        <contents>&lt;table border="0" align="right"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/academic%20conversation.png" width="560" height="570" alt="Graphics representing conversation models" style="margin: 5px auto; display: block;" /&gt;&lt;/p&gt;
+&lt;p&gt;From &lt;i&gt;Academic Conversations &lt;/i&gt;(Fig 4.3)&lt;i&gt; &lt;/i&gt;by Jeff Zwiers and Marie Crawford, copyright © 2011, reproduced with permission of Stenhouse Publishers. &lt;a href="http://www.stenhouse.com" title="stenhouse.com" target="_blank"&gt;www.stenhouse.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Jeff Zwiers, a Senior Researcher at Stanford University, offers a variety of activities and tools for developing academic conversations, one of which is the Academic Conversation Placement. Visit the &lt;a href="http://jeffzwiers.org/tools" target="_blank"&gt;Academic Language and Literacy website&lt;/a&gt; and review the following tools:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Constructive Conversation Skills Poster&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Argumentation Activities&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Opinion Formation Cards (See also A-B Opinion Gap)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;More and Better Talk From Jigsaw Expert Groups&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Think-Pair-Share tips&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;TASK&lt;/strong&gt;: Choose one idea from the &lt;a target="_blank" title="Academic Language and Literacy website" href="http://jeffzwiers.org/tools"&gt;Academic Language and Literacy website&lt;/a&gt; and answer the following questions:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;How would you use the tool or activity in a class you are currently teaching?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Given the level of students you are working with, what academic phrases would it be reasonable to teach?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;How would the activity take learners to a higher level of engagement?&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1326">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438111204</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1327">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438111204</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="646">
+        <prevpageid>645</prevpageid>
+        <nextpageid>647</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1438111249</timecreated>
+        <timemodified>1445020287</timemodified>
+        <title>Provide Scaffolds for Discussions</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Scaffolds.png" width="480" height="425" alt="Graphic representation of scaffolding. Think, Write, Discuss, Report" style="float: right; margin: 5px;" /&gt;Kinsella (2012) provided a template for discussion for K–12 classrooms and recommended the following steps: &lt;em&gt;Think, Write, Discuss, Record&lt;/em&gt;. That template has been simplified here as a linear string graphic organizer.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Adult ELLs can do the following:&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Use a simple graphic organizer to &lt;strong&gt;plan&lt;/strong&gt; for a discussion.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Discuss&lt;/strong&gt; their ideas using notes from the brainstorm.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Use the graphic organizer to &lt;strong&gt;record notes&lt;/strong&gt; while listening to peers.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Synthesize&lt;/strong&gt; what they've heard and &lt;strong&gt;report&lt;/strong&gt; to the class.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;This can be combined with academic conversation sentence frames.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1328">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438111249</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1329">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438111249</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="647">
+        <prevpageid>646</prevpageid>
+        <nextpageid>648</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1438111340</timecreated>
+        <timemodified>1445020309</timemodified>
+        <title>Developing a Professional Discourse</title>
+        <contents>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/formal%20and%20informal.png" width="350" height="472" alt="Handwritten chart in a course that gives examples for informal versus formal use of language in various circumstances." style="float: right; margin: 5px 15px;" /&gt;&lt;span style="font-size: medium;"&gt;A formal register for adult ELLs has the following benefits:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Allows students to engage positively and actively with individuals in both one-on-one and team settings.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Gives tools for seeking and offering clarification (clarifying questions, paraphrasing, restating) appropriately.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Builds learner confidence.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Helps adult ELLs participate in professional conversations, make contributions, and encourage the contributions of others&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;em&gt;Liz Andress at the Ronald M. Hubbs Center for Lifelong Learning creates posters with learners to highlight those differences&lt;/em&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: xx-small;"&gt;&lt;i&gt;Formal/Informal Language for Common Interactions in the Classroom and at Work&lt;/i&gt; by Elizabeth Andress, October 2014, presented as part of an Adult Intermediate ELL Unit on Communication. American Institutes for Research reprinted with permission from the author.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1330">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438111340</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1331">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438111340</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="648">
+        <prevpageid>647</prevpageid>
+        <nextpageid>649</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1438111450</timecreated>
+        <timemodified>0</timemodified>
+        <title>Developing the Academic Vocabulary of Adult ELLs</title>
+        <contents>&lt;table style="width: 25%;" align="center" border="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center; background-color: #19568b;"&gt;
+&lt;p&gt;&lt;span style="color: #ffffff; font-size: medium;"&gt;&lt;strong&gt;Tier 3&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #ffffff; font-size: medium;"&gt;Content specific; often in textbooks and work documents (e.g., stethoscope, numerator)&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table style="width: 45%;" align="center" border="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center; background-color: #19568b;"&gt;
+&lt;p&gt;&lt;span style="color: #ffffff; font-size: medium;"&gt;&lt;strong&gt;Tier 2&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #ffffff; font-size: medium;"&gt;General academic vocabulary used across disciplines and workplace settings (e.g., compare, analyze, evaluate)&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table style="width: 65%;" align="center" border="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center; background-color: #19568b;"&gt;
+&lt;p&gt;&lt;span style="color: #ffffff; font-size: medium;"&gt;&lt;strong&gt;Tier 1&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #ffffff; font-size: medium;"&gt;Words and phrases of everyday speech; often concrete and used in spoken language (e.g., family, book, animal)&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT2_0190.mp3"&gt;ELL_MOD1_UNIT2_0190.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Now let’s turn to the development of an academic and professional vocabulary. Three tiers of vocabulary can be used to teach adult ELLs: Tier 1 words are very common, concrete words used in everyday contexts, especially in speech, for example, family, book, funny, and good. Tier 2 words are general academic words used across disciplines and workplace settings, for example, concept, device, compare, and analyze. Then there are the very specialized, content-specific words adult ELLs may encounter in academic and work settings, such as stethoscope in a nursing assistant class or numerator in a mathematics class. These words often can be taught in context with visuals or realia, through models and demonstrations. We will concentrate on Tier 2 in this section because they help learners in a variety of contexts—personal, educational, and professional. First, we examine what it means to know a word well.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1332">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438111450</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1333">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438111450</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="649">
+        <prevpageid>648</prevpageid>
+        <nextpageid>650</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1438111490</timecreated>
+        <timemodified>0</timemodified>
+        <title>What Does It Mean to “Know” a Word?</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;accurate /ˈækyərət/ adjective&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Definition: Free from mistakes or errors&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;(From the Merriam Webster LearnerDictionary)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;em&gt;&lt;strong&gt;Is this all we need to know?&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Aside from the definition, the pronunciation, and the part of speech of the word accurate, we need to know the following:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Its spelling: a-c-c-u-r-a-t-e&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Its register: primarily used in relatively formal writing and speaking for academic or professional purposes&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Its frequency: Is it on AWL?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Its grammar: It modifies and precedes a noun: The supervisor expects an accurate report from the team by Tuesday.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Its collocations: It is regularly used to describe information, data, measurements, and reports.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Its connotations: Accurate has a positive connotation; inaccurate has a negative connotation.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Its derivations or word family members: accurate, inaccurate, accuracy, inaccuracy, accurately, inaccurately&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;(Dutro &amp;amp; Kinsella; 2010; Nation, 1990; Scarcella, 2003)&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1334">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438111490</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1335">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438111490</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="650">
+        <prevpageid>649</prevpageid>
+        <nextpageid>651</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1438111537</timecreated>
+        <timemodified>0</timemodified>
+        <title>Using the Academic Word List</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;TASK&lt;/strong&gt;: Download &lt;strong&gt;&lt;a target="_blank" title="Academic Word List" href="http://www.victoria.ac.nz/lals/resources/academicwordlist/"&gt;AWL sublist 1&lt;/a&gt;&lt;/strong&gt;. Which words could be included in lessons you currently teach?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;The &lt;a target="_blank" title="Academic Word List" href="http://www.victoria.ac.nz/lals/resources/academicwordlist/"&gt;Academic Word List&lt;/a&gt; (AWL) is a list of words that appear with high frequency in English-language academic texts. The list was compiled by Averil Coxhead at the Victoria University of Wellington, New Zealand, and contains 570 word families, divided into 10 sublists. Sublist 1 consists of the 60 most common words. Sublist 2 contains the next most frequently used words and so on. The words selected occur frequently across a range of academic subjects. This means that it is useful to students who wish to study in any file. In addition, these words include vocabulary of everyday usage, equally useful to those who do not have academic goals.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;This vocabulary is essential for adult ELLs seeking further education and training. It also is useful for those not yet entering into further formal studies. Many of these words are frequently heard on television, radio, and movies or in everyday conversation, and they may be found in newspapers, magazines, and novels. The following examples demonstrate that we are talking about words that cross subject areas and that are not specialized: create, theory, function, issue, environment, vary, available, and benefit.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Research (Nation, 2001) indicates that knowing the AWL significantly improves learners’ understanding of academic texts. For details on the development and evaluation of the AWL, see Coxhead (2000).&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1336">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438111537</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1337">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438111537</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="651">
+        <prevpageid>650</prevpageid>
+        <nextpageid>652</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1438111624</timecreated>
+        <timemodified>0</timemodified>
+        <title>The Academic Word List Highlighter</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;img src="@@PLUGINFILE@@/3%20tiers.png" width="350" height="273" alt="Triangle depicting the three tiers of academic vocabulary development" style="margin: 5px 15px; float: right;" /&gt;&lt;span style="font-size: medium;"&gt;The online &lt;a target="_blank" title="Academic word list highlighter" href="http://www.nottingham.ac.uk/alzsh3/acvocab/awlhighlighter.htm"&gt;AWL highlighter&lt;/a&gt; identifies core academic vocabulary in a text.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;An instructor (or a learner) can type or paste a text into a box, select a sublist level, and click submit. The text will be returned with AWL words, at the levels selected, highlighted in bold type. See what happens with the first paragraph of the personality and birth-order theory reading for sublists 1 and 2.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1338">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438111624</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1339">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438111624</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="652">
+        <prevpageid>651</prevpageid>
+        <nextpageid>653</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1438111731</timecreated>
+        <timemodified>0</timemodified>
+        <title>The Academic Word List Highlighter</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;img src="@@PLUGINFILE@@/3%20tiers%202.png" width="350" height="272" alt="Triangle depicting the three tiers of academic vocabulary development. In Tier 2 is the text: These are Tier 2 words: General academic vocabulary used across disciplines and workplace settings." style="float: right; margin: 5px 15px;" /&gt;&lt;span style="font-size: medium;"&gt;Birth-order &lt;strong&gt;theory&lt;/strong&gt; is a sociological and psychological &lt;strong&gt;concept&lt;/strong&gt; that describes the tendency for people born into a particular birth order in a family (oldest, youngest, middle, or only child) to have certain personality traits. It is believed that because parents treat children in each birth order differently, children develop &lt;strong&gt;distinctively&lt;/strong&gt; different personalities. It is found that children from within each group often share some common characteristics.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;em&gt;&lt;strong&gt;Try this with a text from your curriculum!&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1340">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438111731</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1341">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438111731</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="653">
+        <prevpageid>652</prevpageid>
+        <nextpageid>654</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1438111925</timecreated>
+        <timemodified>0</timemodified>
+        <title>Steps for Presenting New Vocabulary</title>
+        <contents>&lt;p&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;Dutro and Kinsella (2010) proposed the following steps for presenting new vocabulary to ELLs:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Write the word and &lt;strong&gt;pronounce&lt;/strong&gt; it a few times.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Break&lt;/strong&gt; long words into syllables and tap or clap out syllables, emphasizing the stressed syllable.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Lead students in quick &lt;strong&gt;pronunciation practice&lt;/strong&gt;.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Explain the word clearly using &lt;strong&gt;student-friendly language&lt;/strong&gt; (this is where learner dictionaries can be helpful).&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Provide a &lt;strong&gt;visual representation&lt;/strong&gt; or have learners create a picture, if feasible.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Give two &lt;strong&gt;easy to understand examples&lt;/strong&gt;.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Engage&lt;/strong&gt; learners in structured oral and written tasks.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT2_0200.mp3"&gt;ELL_MOD1_UNIT2_0200.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;What are the most effective ways to teach vocabulary? First, whatever vocabulary you teach should be derived from the reading or content you are working on. In other words, do not teach random sets of words. Dutro and Kinsella (2010) highlighted the importance of a multistep approach that includes saying the word, using learner-friendly explanations and examples, presenting the word visually, and engaging the learners in structured oral and written practice with the words. Now you will see a few examples of what that can look like with adult ELLs.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1342">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438111925</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1343">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438111925</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="654">
+        <prevpageid>653</prevpageid>
+        <nextpageid>655</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1438111962</timecreated>
+        <timemodified>1444771721</timemodified>
+        <title>A Vocabulary Workout With the Academic Word List</title>
+        <contents>&lt;table style="width: 85%; border: 2px solid #000000; background-color: #fff2b5;" align="right" border="2" cellpadding="5" cellspacing="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th style="text-align: center;" colspan="3"&gt;&lt;strong&gt;Vocabulary Workout&lt;/strong&gt;&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;New Word or Phrase&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Explanation&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Examples&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;distribute&lt;br /&gt;/dis-&lt;strong&gt;TRIB&lt;/strong&gt;-ute/&lt;br /&gt;(verb)&lt;/p&gt;
+&lt;p&gt;distribution&lt;br /&gt;/dis-tri-&lt;strong&gt;BU&lt;/strong&gt;-tion/&lt;br /&gt;(noun)&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;To share things with people in a planned way&lt;/p&gt;
+&lt;p&gt;Things that are shared in a planned way&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;Teachers often distribute books and papers to their students. Parents often distribute money to their children. The government distributes help to poor people.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="3"&gt;
+&lt;p&gt;&lt;strong&gt;Conversation Practice&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Q: If you were given $1,000 and asked to distribute it to friends and family, who would you give the money to?&lt;/p&gt;
+&lt;p&gt;A: If I were asked to ___(blank)___ $1,000 to friends and family, I would give the money to __(blank)__&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="3"&gt;&lt;strong&gt;Writing Practice&lt;/strong&gt;: Food banks___(blank)___ food to ___(blank)___ (noun).&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="3"&gt;
+&lt;p&gt;&lt;strong&gt;My Sentence&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="3"&gt;&lt;ol&gt;
+&lt;li&gt;If a boy has a dozen cookies and eats them all, does he distribute the cookies? Why or why not?&lt;/li&gt;
+&lt;li&gt;Is it a good idea to have clothing banks that distribute closes to poor people? Why or why not?&lt;/li&gt;
+&lt;li&gt;If you had a box of chocolates, would you distribute the candy to your friends?Why or why not?&lt;/li&gt;
+&lt;li&gt;Should parents distribute money to their children equally or based on financial need? Why or why not?&lt;/li&gt;
+&lt;li&gt;When you meet someone distributing flyers on the street, do you usually take a flyer? Why or why not?&lt;/li&gt;
+&lt;/ol&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Drawing on the work of Dutro and Kinsella (2010), Susan Finn Miller (2014) suggested vocabulary workouts that include questions to promote conversations using the vocabulary:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: xx-small;"&gt;Miller, Susan Finn. “Vocabulary Workout 18” from page 22 of &lt;i&gt;Vocabulary Workouts for Academic Word List&lt;/i&gt;, as posted on &lt;a href="http://atlasabe.org/resources/ebri/ebri-vocabulary"&gt;http://atlasabe.org/resources/ebri/ebri-vocabulary&lt;/a&gt; (used with permission)&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1344">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438111962</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1345">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438111962</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="655">
+        <prevpageid>654</prevpageid>
+        <nextpageid>656</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1438112009</timecreated>
+        <timemodified>1444771912</timemodified>
+        <title>Working on Word Connotations</title>
+        <contents>&lt;table border="0" align="right"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src="@@PLUGINFILE@@/learners.png" width="300" height="210" alt="" style="margin: 10px auto; display: block;" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/instructor.png" width="300" height="169" alt="" style="margin: 5px;" /&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: xx-small;"&gt;©2011 &lt;a href="http://www.newamericanhorizons.org/"&gt;New American Horizons Foundation&lt;/a&gt; “Developing Reading Skills for Intermediate/Advanced&lt;br /&gt;Learners” is licensed under a &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/us/"&gt;Creative Commons Attribution-Share Alike 3.0 United States License&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;In the lesson you viewed on personality and birth-order theory, George Schooley had the students sort the descriptive words for personality traits into groups according to whether the words belonged in one of the following categories:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Positive&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Either positive or negative&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Negative&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;In doing so, the learners accomplished the following goals:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Engaged&lt;/strong&gt; with the words by discussing them in groups.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Analyzed possible &lt;strong&gt;connotations&lt;/strong&gt;.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Repeated&lt;/strong&gt; the words multiple times verbally.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Reasoned&lt;/strong&gt; as they justify their choices.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1346">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438112009</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1347">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438112009</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="656">
+        <prevpageid>655</prevpageid>
+        <nextpageid>657</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1438112050</timecreated>
+        <timemodified>1444772126</timemodified>
+        <title>Working on Pronouncing Words Correctly</title>
+        <contents>&lt;table style="width: 60%;" align="right" border="2" cellpadding="5" cellspacing="5" summary="The table contains three columns divided into six sub-columns. Left to right the three columns are labeled “Two-syllable words,” “Three-syllable words,” and “four-syllable words.” Under each of these labels, the columns are divided into two. The top cell of the left column under “two-syllable words” contains two circles side-by-side. The right circle is bigger than the left circle, signifying emphasis on the second syllable. The top cell of the right column under “two-syllable words” also contains two circles side-by-side, with the left circle bigger than the right, signifying emphasis on the first syllable. Under each of these cells with circles are two long columns, each a single cell. The right column contains the world “selfish.” Two columns under each of the labels “three-syllable words” and “four-syllable words” contain similar content. The left top cell under the label “three-syllable words” contains three circles symbolizing three syllables, with the first circle larger than the rest. The right top cell under the same label contains three circles, with the middle being larger than the other two. Two long columns under each of these cells are empty. Under the label “four-syllable words,” the left top cell contains four circles in a row, with the third circle from the left larger than the rest. In the right top cell under that label, there are also four circles in a row, and the second from the left is the largest. There is along column under each of these, and the right column contains the words “well-organized” and “conservative” arranged vertically. "&gt;&lt;colgroup&gt;&lt;col width="16.6%%" /&gt;&lt;col width="16.6%%" /&gt;&lt;col width="16.6%%" /&gt;&lt;col width="16.6%%" /&gt;&lt;col width="16.6%%" /&gt;&lt;col width="16.6%%" /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th scope="col" style="border: 1px solid #000000;" colspan="2"&gt;Two-syllable words&lt;/th&gt;&lt;th scope="col" style="border: 1px solid #000000;" colspan="2"&gt;Three-syllable words&lt;/th&gt;&lt;th scope="col" style="border: 1px solid #000000;" colspan="2"&gt;Four-syllable words&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000; text-align: center;"&gt;&lt;strong&gt;o O&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000; text-align: center;"&gt;&lt;strong&gt;O o&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000; text-align: center;"&gt;&lt;strong&gt;O o o&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000; text-align: center;"&gt;&lt;strong&gt;o O o&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000; text-align: center;"&gt;&lt;strong&gt;o o O o&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000; text-align: center;"&gt;&lt;strong&gt;o O o o&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;em&gt;selfish&lt;/em&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;
+&lt;p&gt;&lt;em&gt;well-organized&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;conservative&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;When you teach new vocabulary, do you make sure your learners can pronounce the words correctly? Being understood by others is as important as knowing how and when to use words or phrases. Research indicates that learners who are unintelligible in their speech may face discrimination (Derwing &amp;amp; Munroe, 2005).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;In the same lesson, George has learners practice recognizing and producing the correct word stress patterns for the personality trait vocabulary. Learners start by matching words to the correct word-stress pattern. The large circle represents the stressed syllable.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1348">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438112050</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1349">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438112050</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="657">
+        <prevpageid>656</prevpageid>
+        <nextpageid>658</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1438112092</timecreated>
+        <timemodified>1444772331</timemodified>
+        <title>The Frayer Model for Working on Academic Vocabulary</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Screen%20Shot%202015-10-13%20at%204.36.14%20PM.png" width="444" height="293" alt="The table contains four quadrants divided by perpendicular vertical and horizontal lines that cross through the center of the table. The center of the table contains an oval that is blank except for a small red label at the top, “Word/Concept.” Each of the four quadrants outside this oval also contain small red labels in the outer corners that read, clockwise from top left, “Definition,” “Facts,” “Non-examples,” and “Examples.” " style="float: right; margin: 5px;" /&gt;The Frayer Model is a strategy that uses a graphic organizer for vocabulary building. Adult ELLs perform the following tasks:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Define the target vocabulary words or concepts.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Generate examples and non-examples.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;This information is placed on a chart to provide a visual representation for learners. The benefits are as follows:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Can be used with the entire class, small groups, or for individual work&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Draws on a student's prior knowledge to build connections among new concepts&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Compares attributes and examples&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Creates a visual reference&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Consult the following for further reading: Frayer Model (n.d.).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: xx-small;"&gt;Source: Frayer, D., Frederick, W. C., and Klausmeier, H. J. (1969). &lt;i&gt;A Schema for Testing the Level of Cognitive Mastery: Working Paper no. 16&lt;/i&gt;. Madison, WI: Wisconsin Research and Development Center for Cognitive Learning. &lt;a href="http://brainimaging.waisman.wisc.edu/~perlman/frayer-frederick-klausmeier.pdf"&gt;http://brainimaging.waisman.wisc.edu/~perlman/frayer-frederick-klausmeier.pdf&lt;/a&gt;. Used with permission from the Wisconsin Center for Education Research.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1350">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438112092</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1351">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438112092</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="658">
+        <prevpageid>657</prevpageid>
+        <nextpageid>659</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1438112175</timecreated>
+        <timemodified>1444772435</timemodified>
+        <title>Applying the Principles in Your Setting</title>
+        <contents>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/teacher%20at%20whiteboard.png" width="200" height="302" alt="" style="margin: 5px 15px; float: right;" /&gt;&lt;span style="font-size: medium;"&gt;Let's review the strategies for teaching in a way that addresses academic language at all levels:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Use real-world data.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Create graphs.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Use sentence and paragraph frames.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Use graphic organizers to show text structure.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Use the AWL and its tools.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Identify the academic vocabulary (especially Tier 2).&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Teach all aspects of a word.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1352">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438112175</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1353">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438112175</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="659">
+        <prevpageid>658</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1438112283</timecreated>
+        <timemodified>1471566918</timemodified>
+        <title>Applying the Principles in Your Setting</title>
+        <contents>&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/teacher%20at%20whiteboard.png" width="250" height="378" alt="" style="float: right; margin: 5px 15px;" /&gt;Complete the &lt;strong&gt;&lt;a href="@@PLUGINFILE@@/M1U2_S68_LangAnalysis_508.docx" title="Academic Language Analysis Task"&gt;Academic Language Analysis Task&lt;/a&gt;&lt;/strong&gt; for a lesson you teach.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Make two enhancements using one of the ideas from the unit.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Share the lesson enhancements with colleagues and in the &lt;strong&gt;&lt;a href="https://community.lincs.ed.gov/comment/16537#comment-16537" title="ESL Pro Module 1 Unit 2 LINCS Discussion Forum"&gt;discussion forum&lt;/a&gt;&lt;/strong&gt; created for this module in the LINCS Adult English Language Learners Community&lt;strong style="font-size: 13px; line-height: 1.231;"&gt;.&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Try the lesson out in your class!&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT2_0210.mp3"&gt;ELL_MOD1_UNIT2_0210.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Now it is your turn to apply what you have learned in this unit to a lesson you currently teach. Earlier in the unit, you analyzed a short text using the academic language analysis task. Now use the same task to review an entire lesson that you teach. Afterward, choose two enhancements you should make using one of the techniques or activity ideas presented in the unit. Then present it to your colleagues if you are working in groups. And, of course, try it out with your learners and track the results! Record your observations in your reflective notes.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44651"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44650"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44532"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44526"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44525"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1354">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438112283</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1355">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438112283</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

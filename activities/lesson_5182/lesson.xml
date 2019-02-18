@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="147" moduleid="5182" modulename="lesson" contextid="16072">
+  <lesson id="147">
+    <course>137</course>
+    <name>Part 2: The Features of Academic Language</name>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1435277003</timemodified>
+    <pages>
+      <page id="619">
+        <prevpageid>0</prevpageid>
+        <nextpageid>620</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091460</timecreated>
+        <timemodified>1439134620</timemodified>
+        <title>Dimensions and Features of Academic Language</title>
+        <contents>&lt;table border="1" cellpadding="5" cellspacing="5" style="border: 1px solid #19568b;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th scope="col" style="background-color: #19568b;"&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;Dimensions&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="background-color: #19568b;"&gt;&lt;span style="font-size: medium; color: #ffffff;"&gt;Features&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Message&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Text type and register&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Clarity and coherence&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Organization and structure (visuals, paragraphs_&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Transitions between ideas&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Sentences&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Sentence structure (compound/complex; embedded clauses) and length&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Complex verb tenses and passive voice&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Dense noun phrases&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Words and phrases&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Cross-disciplinary terms&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Figurative expressions and multiple meanings&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Content vocabulary&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Affixes and tools&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;p&gt;Adapted from Zwiers, O'Hara, and Pritchard (2014). To hear Jeff Zwiers describe this framework, view this short video as well:&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;object width="100%" height="183"&gt;&lt;param name="movie" value="//www.youtube.com/embed/PfN1vxXR6oU?hl=en_US&amp;amp;version=3&amp;amp;rel=0" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed width="100%" height="315" src="https://www.youtube.com/v/PfN1vxXR6oU?hl=en_US&amp;amp;version=3&amp;amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" title="Adobe Flash Player" /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT2_0100.mp3"&gt;ELL_MOD1_UNIT2_0100.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Much of the research and many of the models for exploring academic language have come from work in K–12 education because ELL children need academic language to keep up with their mainstream peers. As educators of adult ELLs, it is important to think of academic language as professional language as well. Zwiers, O’Hara, and Pritchard (2014) provided a helpful framework for analyzing this academic and professional language. Any time you see the word text, that can mean written or oral text, for example a lecture or a presentation. What type of text is it (e.g., a compare-contrast essay, a categorization of ideas, a description of a process)? What are the features of the message, or discourse? What are the sentence-level features in the text? How complex is the grammar? What words and phrases make a text more or less academic? Let’s apply this framework to a text on personality and the birth-order theory that you might use in an intermediate to advanced adult ELA class.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1277">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="620">
+        <prevpageid>619</prevpageid>
+        <nextpageid>621</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091574</timecreated>
+        <timemodified>1445013822</timemodified>
+        <title>Unpacking the Academic Language of a Text</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Now let's analyze the academic language in a reading text: &lt;a href="@@PLUGINFILE@@/M1U2_S27_48_Theory_508.pdf" title="Birth-order theory"&gt;&lt;strong&gt;Personality and the Birth-Order Theory&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Let's first consider the text type, audience, and purpose:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Type&lt;/strong&gt;: Nonfiction, informational text that could appear in a basic textbook or a magazine&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Audience&lt;/strong&gt;: Students of psychology; general public interested in learning about the theory&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Purpose&lt;/strong&gt;: To educate or inform non-experts&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Now we will use the dimensions of academic language adapted from Zwiers et al. (2014) to analyze this text.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1278">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091574</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1279">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091574</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="621">
+        <prevpageid>620</prevpageid>
+        <nextpageid>622</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091820</timecreated>
+        <timemodified>1445027252</timemodified>
+        <title>Examples of Academic Language: Message Level</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;How are the ideas in the text organized? How does the layout support the organization of the text?&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Introductory paragraph signals categories (&lt;em&gt;within each group&lt;/em&gt;)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Clear paragraph headings (visual clue)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;What grammar structures help to structure the ideas in the text?&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Sequence markers: &lt;em&gt;first-born children, middle children&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Use of simple present when describing tendency&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT2_0110.mp3"&gt;ELL_MOD1_UNIT2_0110.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;We can look at a reading text with these dimensions in mind. We start with the message level and see what can help an adult ::ELL understand the overall organization of a text. We can point these features out to learners, for example, tell them to notice bold headings and signal words such as first or second. Look at the sentence- and word-level language issues that may pose challenges for learners.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1280">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091820</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1281">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091820</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="622">
+        <prevpageid>621</prevpageid>
+        <nextpageid>623</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435095744</timecreated>
+        <timemodified>1439143740</timemodified>
+        <title>Examples of Academic Language: Sentence Level</title>
+        <contents>&lt;table border="0" cellpadding="5" cellspacing="5" align="right" style="background-color: #fff2b5; ; width: 20%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Example: &lt;strong&gt;A very dense noun phrase!&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Birth-order theory is (&lt;strong&gt;a sociological and psychological concept that describes the tendency for people born into a particular birth order in a family (oldest, youngest, middle, or only child) to have certain personality traits.)&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Different types of sentence structures&lt;/span&gt;&lt;/h2&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;For those interested in learning more about helping learners unpack these noun phrases, see &lt;a target="_blank" title="What’s in a Noun Phrase? Judging the Difficulty of a Reading Text by Understanding the Complexity of Noun Phrases" href="http://minnetesoljournal.org/spring-2014/whats-in-a-noun-phrase-judging-the-difficulty-of-a-reading-text-by-understanding-the-complexity-of-noun-phrases"&gt;Swierzbin (2014)&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Different types of sentence structures (compound/complex; embedded clauses)&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;It is believed that because parents treat children in each birth order differently, children develop distinctively different personalities.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Complex verb tenses and passive voice&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;They &lt;em&gt;may have had&lt;/em&gt; an older sister.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;It &lt;em&gt;is believed&lt;/em&gt; that...&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;It &lt;em&gt;is found&lt;/em&gt; that...&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Dense noun phrases&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;A noun phrase can be the subject or the object of a sentence (and either one of those can contain multiple phrases).&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;Listen to audio:&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT2_0120.mp3"&gt;ELL_MOD1_UNIT2_0120.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Noun phrases can be extremely complex, including embedded phrases and clauses. In the sentence at the right, everything in italics is the object of the sentence! If you are interested in ideas on how to break down long noun phrases in a systematic way, and one that learners can use with other readings, see What’s in a Noun Phrase? by Bonnie Swierzbin (2014).&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1282">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435095744</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1283">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435095744</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="623">
+        <prevpageid>622</prevpageid>
+        <nextpageid>624</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435598568</timecreated>
+        <timemodified>1470762542</timemodified>
+        <title>Examples of Academic Language: Word or Phrase Level</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Cross-disciplinary terms&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Create&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Theory&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Assume&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Figurative expressions and multiple meanings&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;The most &lt;em&gt;difficult&lt;/em&gt; children &lt;em&gt;to&lt;/em&gt; both &lt;em&gt;understand&lt;/em&gt; and raise&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;span style="font-size: medium;"&gt;Difficult to pin down&lt;/span&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Words with multiple meanings: &lt;em&gt;raise, fields&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Content vocabulary&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Psychological&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Sociological&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Affixes and roots&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Psycholog&lt;em&gt;ical&lt;/em&gt; (adjective)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Sociolog&lt;em&gt;ical &lt;/em&gt;(adjective)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Tradition&lt;em&gt;al&lt;/em&gt; (adjective)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;em&gt;In&lt;/em&gt;depend&lt;em&gt;ence&lt;/em&gt; (noun)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;em&gt;In&lt;/em&gt;dependent (adjective and opposite of dependent)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1284">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435598568</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1285">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435598568</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="624">
+        <prevpageid>623</prevpageid>
+        <nextpageid>625</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435599772</timecreated>
+        <timemodified>1445027793</timemodified>
+        <title>What Does This Mean for You? How Can This Process Help You in Your Own Teaching?</title>
+        <contents>&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/teacher_and_students.png" width="176" height="338" alt="Teacher working with students" style="margin: 5px 15px; float: right;" /&gt;Helps &lt;em&gt;identify areas of focus.&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Helps &lt;em&gt;determine potential difficulties&lt;/em&gt; for learners.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Helps &lt;em&gt;prioritize instruction&lt;/em&gt;.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Allows you to &lt;em&gt;notice the academic language&lt;/em&gt; found in the texts you use.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT2_0130.mp3"&gt;ELL_MOD1_UNIT2_0130.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;That is a lot to think about. Because this is not a course in linguistics, let’s focus on what you can do for starters to decide what makes a text difficult for a learner and then think about what you might choose to focus on in instruction. For example, in the lesson on personality and the birth-order theory, the teacher decided to focus on text structure and find main ideas and details to support the claim in the reading. The teacher also worked on connotations and the pronunciation of vocabulary related to the personality traits.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1286">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435599772</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1287">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435599772</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="625">
+        <prevpageid>624</prevpageid>
+        <nextpageid>626</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435599972</timecreated>
+        <timemodified>1444708681</timemodified>
+        <title>Some Additional Resources</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;If you would like to learn more about helping ELLs with complex texts and structures, read Fillmore and Fillmore (2011), &lt;a target="_blank" title="What does text complexity mean for English learners and language minority students?" href="http://ell.stanford.edu/publication/what-does-text-complexity-mean-english-learners-and-language-minority-students"&gt;&lt;em&gt;What Does Text Complexity Mean for English Language Learners and Minority Students?&lt;/em&gt;&lt;/a&gt; Even though for K–12 educators, it has many relevant ideas, especially for those working in adult secondary education.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Be sure to visit &lt;a title="Understanding Language" href="http://ell.stanford.edu/"&gt;&lt;em&gt;&lt;strong&gt;Understanding Language&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; at Stanford University for research, resources, and sample lessons for teaching academic language.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1288">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435599972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1289">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435599972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="626">
+        <prevpageid>625</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444437544</timecreated>
+        <timemodified>1450814947</timemodified>
+        <title>Academic Language Analysis (required for instructors)</title>
+        <contents>&lt;table border="1" cellpadding="5" align="right" style="border: 1px solid #000000; width: 60%;"&gt;&lt;colgroup&gt;&lt;col width="50%" /&gt;&lt;col width="50%" /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th colspan="2" style="border: 1px solid #000000; text-align: center;"&gt;&lt;span style="color: #19568b;"&gt;&lt;strong&gt;Academic Language Analysis Chart&lt;/strong&gt;&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2" style="border: 1px solid #000000; background-color: #19568b;"&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;Message Level&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;"&gt;Where would this text appear?&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;"&gt;Who is the audience?&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;"&gt;What is the purpose of this text?&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;"&gt;How are ideas in the text broadly organized?&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;"&gt;What transitions help structure ideas in the text?&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2" style="border: 1px solid #000000; background-color: #19568b;"&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;Sentence Level: Identify Examples of the following:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;"&gt;Compound/complex sentences, embedded clauses, and long sentences&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;"&gt;Complex verb tenses; passive voice&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;"&gt;Dense noun phrases or groups&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2" style="border: 1px solid #000000; background-color: #19568b;"&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;Word/Phrase Level: Identify Examples of the Following:&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;"&gt;Cross-disciplinary terms&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;"&gt;Figurative expressions and multiple meanings&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;"&gt;Content vocabulary&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;"&gt;Affixes and roots&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;TASK&lt;/strong&gt;: Choose a text from any of the following:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;A text from a general English curriculum&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;An authentic text from a work, school, or community course: (e.g., brochures, instructions, short article)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;A reading students may encounter in a career pathways class&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Analyze the text using this &lt;em&gt;&lt;strong&gt;&lt;a href="@@PLUGINFILE@@/M1U2_S34_AnalysisChart_508.docx" title="Academic Language Analysis Chart" target="_blank"&gt;Academic Language Analysis Chart&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;. Reimer &amp;amp; Ouellette Schramm (2014)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Download and fill in the chart and share your responses to this activity in your&lt;/strong&gt;&lt;strong&gt; Community of Practice.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;&lt;span id="docs-internal-guid-39bcb749-391b-ba61-6d0d-6f8f1227728a"&gt;Reimer, J. &amp;amp; Ouellette-Schramm, J. “Academic Language Analysis Chart,” created for the workshop:  Academic Language: Bringing the College into Your Classroom. ATLAS Adult ESL Institute, May 2014. (used with permission from the authors)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44651"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44650"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;span style="line-height: 1.231;"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44526"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44525"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1290">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444437544</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1291">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444437544</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

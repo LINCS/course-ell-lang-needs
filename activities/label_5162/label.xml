@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1153" moduleid="5162" modulename="label" contextid="16052">
+  <label id="1153">
+    <name>
+This self-paced professional development module ...</name>
+    <intro>&lt;p&gt;&lt;a href="@@PLUGINFILE@@/Module1OverviewImage.jpg" title="Download this image"&gt;&lt;img src="@@PLUGINFILE@@/Module1OverviewImage.jpg" width="330" height="328" alt="Graphic displays the four units that make up Module 1, Meeting the Language Needs of Today’s Adult English Language Learner. The four units are: Unit 1, Increasing the Rigor of Adult English Language Instruction; Unit 2, Incorporating Language for Success at All Levels of Adult English Language Acquisition; Unit 3, Incorporating Language Strategies for Success at All Levels of Adult English Language Acquisition; and Unit 4, Incorporating Instruction in Critical Thinking at All Levels of Adult English Language Acquisition. Each unit builds on information covered in the previous unit. However, participants can start with any unit in the module; they don’t have to start at Unit 1 or even complete all units." style="margin: 2px 6px; float: right;" onmouseover="this.src='@@PLUGINFILE@@/Module1OverviewImage.jpg';" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;This self-paced professional development module addresses the increasingly complex language and critical thinking skills adult English language learners (ELLs) need to succeed in today’s world. The overarching goal of this module is to give professionals who work with adult ELLs the tools to provide rigorous instruction that will help all learners transition to new opportunities. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;This module contains four units.  Estimated completion time for each unit is 2-3 hours.  A certificate can be earned for each unit upon completion of the unit activities. T&lt;/span&gt;&lt;span style="font-size: medium;"&gt;here are additional materials within the units that provide for deeper learning opportunities.  These optional deeper learning opportunities will take time beyond the estimated 2-3 hours for completion.   &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;em&gt;Review the Module 1 Introduction to begin.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1458744416</timemodified>
+  </label>
+</activity>

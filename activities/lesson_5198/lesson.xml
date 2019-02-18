@@ -1,0 +1,1067 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="154" moduleid="5198" modulename="lesson" contextid="16088">
+  <lesson id="154">
+    <course>137</course>
+    <name>Part 3: Note Taking; Using Accessing Texts Online (primarily for instructors)</name>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1435277003</timemodified>
+    <pages>
+      <page id="702">
+        <prevpageid>0</prevpageid>
+        <nextpageid>703</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091460</timecreated>
+        <timemodified>1437839342</timemodified>
+        <title>The Importance of Listening or Reading and Note Taking</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;img src="@@PLUGINFILE@@/learner%20taking%20notes.png" width="250" height="376" alt="learner taking notes" style="float: right; margin: 5px 15px;" /&gt;&lt;span style="font-size: medium;"&gt;Parrish and Johnson (2010) found that few teachers give adult ELLs practice with note-taking skills in their classes&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Why is note taking so important?&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Keeps learners focused on the task.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Increases comprehension and retention.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Helps organize ideas.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Provides prompts for later review.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Why can note taking pose challenges for adult ELLs? Think about that question before continuing.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1437">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="703">
+        <prevpageid>702</prevpageid>
+        <nextpageid>704</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091574</timecreated>
+        <timemodified>1437839355</timemodified>
+        <title>Why Can Note Taking Pose Challenges  for Adult English Language Learners? </title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;img src="@@PLUGINFILE@@/learner%20taking%20notes.png" width="250" height="376" alt="learner taking notes" style="float: right; margin: 5px 15px;" /&gt;&lt;span style="font-size: medium;"&gt;Adult ELLs may have the following characteristics:&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Lack prior formal schooling&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Lack sufficient writing skills&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Have difficulties with multitasking: Attending to listening or reading while also writing notes&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Lack knowledge of note-taking strategies&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;We can scaffold the note-taking process in many ways from the earliest ELA levels. Before turning to an overview of strategies, write a few ideas on any ways you have your students practice note taking, even in small ways.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1438">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091574</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1439">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091574</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="704">
+        <prevpageid>703</prevpageid>
+        <nextpageid>705</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091820</timecreated>
+        <timemodified>1439135621</timemodified>
+        <title>Common Activities That Scaffold Note Taking: K-W-L Charts</title>
+        <contents>&lt;table style="border-color: #000000; border-width: 2px; ; width: 45%;" align="right" border="2" cellpadding="5" cellspacing="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th style="border: 1px solid #000000; text-align: center;" colspan="3"&gt;K-W-L Charts&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;"&gt;What do I think I &lt;strong&gt;k&lt;/strong&gt;now?&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;What do I &lt;strong&gt;w&lt;/strong&gt;ant to learn?&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;What did I &lt;strong&gt;l&lt;/strong&gt;earn?&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="height: 150px; border: 1px solid #000000;"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="height: 150px; border: 1px solid #000000;"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="height: 150px; border: 1px solid #000000;"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;K-W-L Charts: What do I think I know, what do I want to learn, what did I learn?&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Activates prior knowledge and acknowledges what the learner already knows and brings to the task.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Promotes goal setting and personalizes the task.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Assesses learned knowledge.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;All this promotes active listening or reading beyond questions in a book and gives learners a focused note-taking task.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;NOTE&lt;/strong&gt;: Some teachers add a Q column: What questions do I still have?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1440">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091820</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1441">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091820</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="705">
+        <prevpageid>704</prevpageid>
+        <nextpageid>706</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435094974</timecreated>
+        <timemodified>1439135701</timemodified>
+        <title>Grid Activities</title>
+        <contents>&lt;table style="width: 50%;" align="right" border="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td colspan="5"&gt;
+&lt;p&gt;Listen to three people talk about differences between their culture and countries where they have lived. Write the missing information in the boxes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Group A&lt;/strong&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="col" style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;&lt;/th&gt;&lt;th scope="col" style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;&lt;strong&gt;Where did the person live?&lt;/strong&gt;&lt;/th&gt;&lt;th scope="col" style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;&lt;strong&gt;What is the practice or custom?&lt;/strong&gt;&lt;/th&gt;&lt;th scope="col" style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;&lt;strong&gt;How is it different in their own country?&lt;/strong&gt;&lt;/th&gt;&lt;th scope="col" style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;&lt;strong&gt;How do they feel about the practice?&lt;/strong&gt;&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;&lt;strong&gt;Julia&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;&lt;/td&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;&lt;/td&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;In the US, cars watch out for people walking in the street. Fireworks are very far from a crowd.&lt;/td&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;&lt;strong&gt;Betsy&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;&lt;/td&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;Children and parents spend more time together.&lt;/td&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;&lt;/td&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;She really likes that custom.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;&lt;strong&gt;Sina&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;The United States&lt;/td&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;&lt;/td&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;&lt;/td&gt;
+&lt;td style="border-color: #000000; border-style: solid; border-width: 1px;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;What is the purpose of using grid-fill tasks while listening or reading?&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Provides practice with document literacy (charts and tables at school and at work).&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Encourages listening and reading for specific information and then noting those key ideas.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Limits the amount of information learners can write (i.e., not full sentences).&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Is ideal for multilevel classes (learners write as much or as little as they can).&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;All this promotes active listening or reading beyond questions in a book and gives learners a focused &lt;strong&gt;note-taking task&lt;/strong&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1442">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435094974</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1443">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435094974</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="706">
+        <prevpageid>705</prevpageid>
+        <nextpageid>707</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435095744</timecreated>
+        <timemodified>1445025484</timemodified>
+        <title>Graphic Organizers</title>
+        <contents>&lt;table border="0" cellpadding="5" cellspacing="5" align="right"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src="@@PLUGINFILE@@/venn.png" width="250" height="133" alt="Sample Graphic Organizer: Venn Diagram" style="margin: 5px auto; display: block;" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;img src="@@PLUGINFILE@@/word%20map.png" width="250" height="238" alt="Sample Graphic Organizer: Word Map" style="margin: 5px;" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;What is the purpose of providing a graphic organizer that matches the text structure?&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Gives learners tools or templates for organizing information.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Promotes deeper reading, listening, and thinking.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Provides tools for building learner autonomy as they choose which graphic organizer works best for them.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;All this promotes active listening or reading beyond questions in a book and gives learners a focused note-taking task.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Note how graphic organizers were used in the videos:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;T-chart: compare and contrast; pros/cons&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Tree diagram: categorizing information&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="@@PLUGINFILE@@/M1U3_S55_ReadingGenres_508.pdf" title="Reading Genres"&gt;View a chart&lt;/a&gt; that matches text types and genres to graphic organizers.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1444">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435095744</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1445">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435095744</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="707">
+        <prevpageid>706</prevpageid>
+        <nextpageid>708</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435598568</timecreated>
+        <timemodified>1439135730</timemodified>
+        <title>Cornell Notes</title>
+        <contents>&lt;table border="0" cellpadding="5" cellspacing="5" align="right" style="width: 45%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th style="height: 15px; border: 1px solid #000000;" colspan="2"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Personality and birth-order theory&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;TITLE&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="height: 15px; border: 1px solid #000000;"&gt;&lt;em&gt;I. Origin of the theory&lt;/em&gt;&lt;/td&gt;
+&lt;td style="height: 15px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="height: 15px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="height: 15px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="height: 15px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="height: 15px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="height: 15px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="height: 15px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="height: 15px; border: 1px solid #000000;"&gt;&lt;em&gt;II. First born&lt;/em&gt;&lt;/td&gt;
+&lt;td style="height: 15px; border: 1px solid #000000; text-align: center;"&gt;&lt;strong&gt;&lt;em&gt;Characteristics&lt;/em&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="height: 15px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="height: 15px; border: 1px solid #000000; text-align: center;"&gt;&lt;em&gt;bossy&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="height: 15px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="height: 15px; border: 1px solid #000000; text-align: center;"&gt;&lt;em&gt;Famous people&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="height: 15px; border: 1px solid #000000;"&gt;&lt;em&gt;III. Middle child&lt;/em&gt;&lt;/td&gt;
+&lt;td style="height: 15px; border: 1px solid #000000; text-align: center;"&gt;&lt;em&gt;Characteristics&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="height: 15px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="height: 15px; border: 1px solid #000000; text-align: center;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="height: 15px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="height: 15px; border: 1px solid #000000; text-align: center;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="height: 15px; border: 1px solid #000000;"&gt;&lt;em&gt;IV. Only child&lt;/em&gt;&lt;/td&gt;
+&lt;td style="height: 15px; border: 1px solid #000000; text-align: center;"&gt;&lt;em&gt;Characteristics&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="height: 15px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="height: 15px; border: 1px solid #000000; text-align: center;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="height: 15px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="height: 15px; border: 1px solid #000000; text-align: center;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="height: 15px; border: 1px solid #000000;"&gt;&lt;em&gt;V. Last born&lt;/em&gt;&lt;/td&gt;
+&lt;td style="height: 15px; border: 1px solid #000000; text-align: center;"&gt;&lt;em&gt;Characteristics&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="height: 15px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="height: 15px; border: 1px solid #000000; text-align: center;"&gt;&lt;em&gt;like attention; carefree&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="height: 15px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="height: 15px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="height: 15px; border: 1px solid #000000;"&gt;&lt;strong&gt;&lt;em&gt;The Theory&lt;/em&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="height: 15px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="height: 15px; border: 1px solid #000000;"&gt;&lt;em&gt;Summary:&lt;/em&gt;&lt;/td&gt;
+&lt;td style="height: 15px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="height: 15px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="height: 15px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Cornell Notes (Pauk, 2001) are a guided note-taking system where learners divide their paper into three sections: one for key points, one for notes, and one for a summary. These notes can help learners in the following ways:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Recognize the main idea.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Identify supporting details.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Practice summarizing.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Review, reflect on, and study from notes.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Teachers can start by giving partially completed Cornell Notes as a scaffold for practicing the technique.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Here's a sample that students could use in George's lesson on the birth-order theory shown in an earlier video.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1446">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435598568</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1447">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435598568</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="708">
+        <prevpageid>707</prevpageid>
+        <nextpageid>709</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435767476</timecreated>
+        <timemodified>1437839427</timemodified>
+        <title>Reading and Listening to Texts Online</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;img src="@@PLUGINFILE@@/learner%20paying%20attention%20in%20class.png" width="250" height="398" alt="learner paying attention in class" style="float: right; margin: 5px 15px;" /&gt;&lt;span style="font-size: medium;"&gt;Adult ELLs can work on reading and listening skills while also making use of digital tools and resources. This section provides sample activities that apply the strategies from this unit as learners go online to find the texts. Remember these guidelines when choosing Web resources (or for learners to use as they evaluate resources online):&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Accuracy&lt;/strong&gt;. Does the webpage list the author and the institution that published the page and provide contact information?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Authority&lt;/strong&gt;. Does the page list the author credentials and have one of the following domains: .edu, .gov, .org, or .net?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Objectivity&lt;/strong&gt;. Does the page provide accurate information with limited advertising?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Currency&lt;/strong&gt;. Is the page current and updated regularly (as stated on the page)?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Coverage&lt;/strong&gt;. Can you view the information properly--not limited to fees, browser technology, or software requirement?&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;(Cornell University, 2014)&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1448">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435767476</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1449">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435767476</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="709">
+        <prevpageid>708</prevpageid>
+        <nextpageid>710</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435768357</timecreated>
+        <timemodified>1444779178</timemodified>
+        <title>Reading for Information Online:  Career Explorations</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;img src="@@PLUGINFILE@@/learner%20paying%20attention%20in%20class.png" alt="" style="float: right; margin: 5px 15px;" width="250" /&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;The National College Transitions Network (2009) developed &lt;strong&gt;&lt;a href="http://www.collegetransition.org/publications.icacurriculum.html" title="NCTN Curriculum" target="_blank"&gt;Integrating Career Awareness Into the ABE [Adult Basic Education] and Adult ESOL Classroom&lt;/a&gt; &lt;/strong&gt;(Used for the purposes of this online course with permission from the National College Transition Network at World Education, Inc.), a curriculum for exploring careers. Activities in the curriculum would be appropriate for advanced-level adult ELLs and include practice with many reading strategies:&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Reading for specific information&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Reading and interpreting charts and graphs&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Comparing information&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Many activities provide opportunities for learners to develop effective communication skills by exchanging the data they found for a particular profession. They can work on problem solving by determining which careers are most prevalent in their area and also consider the required training needs.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1450">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435768357</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1451">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435768357</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="710">
+        <prevpageid>709</prevpageid>
+        <nextpageid>711</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435768462</timecreated>
+        <timemodified>1445025566</timemodified>
+        <title>Reading for Information Online:  Career Explorations</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Students can visit the &lt;a target="_blank" title="U.S. Department of Labor Website" href="http://www.dol.gov/"&gt;&lt;strong&gt;U.S. Department of Labor website&lt;/strong&gt;&lt;/a&gt;,&lt;a target="_blank" title="Career One Stop Website" href="http://www.careeronestop.org/"&gt;&lt;strong&gt; careeronestop.org&lt;/strong&gt;&lt;/a&gt;, or a state website. The class should work through one or two professions as a whole class.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Look at the three tasks from the curriculum. What reading strategies do these activities promote? How could you modify them if they are not appropriate for the level you teach? The tasks look at several dimensions of career exploration. Which dimensions could you start with for less advanced learners?&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;a href="@@PLUGINFILE@@/M1U3_S59_CareerExplor_508.docx" title="Career Explorations"&gt;Reading grid&lt;/a&gt;&lt;/strong&gt;: Used while exploring career opportunities at the website&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="@@PLUGINFILE@@/M1U3_S59_CareerExplorA_508.docx" title="career explorations with partner"&gt;&lt;strong&gt;Questions to ask a partner&lt;/strong&gt;&lt;/a&gt;: Used while interviewing a partner about they found&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="@@PLUGINFILE@@/M1U3_S59_LaborMarket_508.pdf" title="Labor Market Info"&gt;&lt;strong&gt;Information exchange grid&lt;/strong&gt;&lt;/a&gt;: Used while recording what they learn from colleagues in class&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1452">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435768462</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1453">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435768462</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="711">
+        <prevpageid>710</prevpageid>
+        <nextpageid>712</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435768666</timecreated>
+        <timemodified>1444779439</timemodified>
+        <title>Listening for Information Online: ChooseMyPlate.gov</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;This online video has some interesting benefits for adult ELLs:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Depicts an immigrant working as the chef for the White House.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Proposes a menu that may resonate with learners from many backgrounds.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Includes concepts that can lead to interesting conversations and some critical thinking (mindful eating).&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;This lesson is based on the Choose My Plate video: 5 Food Group Stir Fry&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;&lt;a target="_blank" title="5 Food Group Stir Fry" href="https://www.youtube.com/watch?v=BKKF-HryVsg"&gt;5 Food Group Stir Fry&lt;/a&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: xx-small;"&gt;U.S. Department of Agriculture&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT3_0190.mp3"&gt;ELL_MOD1_UNIT3_0190.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Many ELA curricula include units on healthy living and nutrition. The problem is that we are evaluating what is “healthy” or “nutritious” though our own lens. The latest government guidelines focus on variety of foods and portion sizes. This online video has some interesting benefits for adult ELLs: It depicts an immigrant working as the chef for the White House. It proposes a menu that may resonate with learners from many backgrounds. It also includes concepts that can lead to interesting conversations and some critical thinking, for example, portion sizes and mindful eating. The activities that follow are suitable for use with other authentic online video clips or podcasts.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1454">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435768666</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1455">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435768666</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="712">
+        <prevpageid>711</prevpageid>
+        <nextpageid>713</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435768761</timecreated>
+        <timemodified>1445177463</timemodified>
+        <title>Lesson Activities: ChooseMyPlate.gov</title>
+        <contents>&lt;ul&gt;
+&lt;li&gt;&lt;img src="@@PLUGINFILE@@/fruits%20and%20vegetables.png" width="250" height="383" alt="stacked fruits and vegetables" style="float: right; margin: 5px 15px;" /&gt;&lt;span style="font-size: medium;"&gt;In small groups, &lt;strong&gt;&lt;a href="@@PLUGINFILE@@/M1U3_S61_ChooseMyPlate_508.pdf" title="Picture and linear string activity" target="_blank"&gt;match pictures&lt;/a&gt;&lt;/strong&gt; to the food name.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Call out a food name and ask learners to stand on a continuum according to eating the food:&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table border="0" align="center" style="width: 35%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Often&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Sometimes&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Never&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Make predictions: What can I cook with these foods?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Listen to the first three minutes and choose pictures of foods that are mentioned. Also identify any match to their predictions.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Listen again to whole video and complete &lt;strong&gt;a linear string&lt;/strong&gt; with steps for making stir fry.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Follow-up discussion questions:&lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;The cooks talk about portion size. What is it and how reasonable is it? Why is portion size important?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;What do they say about mindful eating? Why do they think mindful eating is important?&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1456">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435768761</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1457">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435768761</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="713">
+        <prevpageid>712</prevpageid>
+        <nextpageid>714</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435768858</timecreated>
+        <timemodified>1437839504</timemodified>
+        <title>Lesson Analysis Task</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Now answer the following questions about the ChooseMyPlate.gov lesson&lt;/strong&gt;:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;What listening strategies are practiced? What other skills are included (higher order thinking, note taking)?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;What task types are used (sorting, matching, graphic organizers) and how do these help give learners practice with the strategies you identified?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;What did you see in the lesson you reviewed that you could use or adapt in your own class (the content or the techniques and activities)?&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1458">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435768858</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1459">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435768858</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="714">
+        <prevpageid>713</prevpageid>
+        <nextpageid>715</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435768962</timecreated>
+        <timemodified>1449881282</timemodified>
+        <title>Application for Instructors: Using Simple Nonfiction Reading Texts and Listening Passages With Beginners and Beyond</title>
+        <contents>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/learner%20studying%20from%20a%20book%20in%20class.png" width="250" height="251" alt="learner studying from a book in class" style="float: right; margin: 5px 15px;" /&gt;&lt;span style="font-size: medium;"&gt;How can you apply the principles in this unit to a variety of levels and topics? Choose one lesson to review using the questions that follow.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="@@PLUGINFILE@@/M1U3_S63_FamilyDayLes_508.pdf" title="My Family Day Lesson"&gt;&lt;strong&gt;A Family's Day&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;(Beginning)&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Using a linear string organizer&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Transferring information to a grid&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Sequencing, organizing, and analyzing information&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="@@PLUGINFILE@@/M1U3_S63_CitiesWorld_508.pdf" title="Cities of the World Lesson"&gt;&lt;strong&gt;Cities of the World&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;(Beginning)&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Using grid fill-in while reading&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Jigsaw reading&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="@@PLUGINFILE@@/M1U3_S63%20JigsawLesson_508.pdf" title="Happiness Jigsaw Lesson"&gt;&lt;strong&gt;The Science of Happiness&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;(Advanced)&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Jigsaw reading&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Using graphic organizers&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Interviewing and data collection&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Synthesizing information&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Although these all focus on reading, the same principles and task types can be used with listening passages.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1460">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435768962</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1461">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435768962</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="715">
+        <prevpageid>714</prevpageid>
+        <nextpageid>716</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444604021</timecreated>
+        <timemodified>1447699562</timemodified>
+        <title>Lesson Analysis Task (required for instructors)</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;As you review the reading or listening lesson you chose, answer the following questions. If you are working with colleagues, do your own jigsaw task, each reviewing and sharing what you learned about a different lesson. &lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span style="font-size: medium;"&gt;What reading or listening strategies are practiced? What other skills are included (higher order thinking, note taking)?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span style="font-size: medium;"&gt;What task types are used (jigsaw, graphic organizers, grids) and how do these help give learners practice with the strategies you identified?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span style="font-size: medium;"&gt;What did you see in the lesson you reviewed that you could use or adapt in your own class (the content or the techniques and activities)?&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1462">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444604021</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1463">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444604021</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="716">
+        <prevpageid>715</prevpageid>
+        <nextpageid>717</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444604573</timecreated>
+        <timemodified>1444605569</timemodified>
+        <title>Applying the Principles in Your Setting</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;img src="@@PLUGINFILE@@/teacher%20at%20whiteboard.png" alt="teacher at whiteboard" style="float: right; margin: 5px 15px;" width="280" height="424" /&gt;&lt;span style="font-size: medium;"&gt;Now choose a short authentic reading or listening passage and create one or two activities that you could use with the learners you serve. For podcasts suitable for adult ELLs, see &lt;a target="_blank" title="Ello.org" href="http://elllo.org"&gt;http://elllo.org&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Consider the following:&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;A prereading or listening activity to activate learners' prior knowledge about the topic&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;A graphic organizer suitable for the text type&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;The jigsaw approach to promote interaction among learners&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;If you are working with colleagues, present what you create to others in your group.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Listen to audio:&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT3_0200.mp3"&gt;ELL_MOD1_UNIT3_0200.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Now it is your chance to apply what you have learned in the unit to a reading text or a listening passage of your choosing. If you would like to incorporate more listening practice, this is the time to visit http://elllo.org, where you will find more than 1,000 short podcasts on a variety of topics. You could choose two or three on a similar topic and create a jigsaw activity. If you want to focus on reading, look for a short article, work document, or community brochure that adult ELLs may encounter. The following are some things to consider. Try a prereading or listening activity to activate learners’ prior knowledge about the topic. Consider a graphic organizer suitable for the text type; perhaps you can try the jigsaw approach to promote interaction among learners. If you are working with colleagues, present what you create to others. And try it out in your class to see how learners respond.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1464">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444604573</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1465">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444604573</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="717">
+        <prevpageid>716</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444605863</timecreated>
+        <timemodified>1447699528</timemodified>
+        <title>Final Reflection (required for instructors)</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Now reflect on your current understanding of the benefits of using nonfiction texts at all levels, as well as the need to create tasks to develop reading and listening strategies. Share this with others if you are working through the unit with colleagues.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;What are three reasons why we need to include more nonfiction, informational texts, and authentic listening passages with adult ELLs?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;What are the primary listening and reading needs of your learners (if prepared in Unit 1, look at the vignette you prepared)? How can you address some of those based on what you learned in this unit?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44651"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44650"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44532"&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44526"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44525"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1466">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444605863</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1467">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444605863</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

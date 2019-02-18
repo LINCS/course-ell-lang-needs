@@ -1,0 +1,1145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="142" moduleid="5167" modulename="lesson" contextid="16057">
+  <lesson id="142">
+    <course>137</course>
+    <name>Part 1: The Rationale for Rigor</name>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1444181653</timemodified>
+    <pages>
+      <page id="559">
+        <prevpageid>0</prevpageid>
+        <nextpageid>560</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091460</timecreated>
+        <timemodified>1446850896</timemodified>
+        <title>Welcome to Unit 1</title>
+        <contents>&lt;table style="width: 90%;" border="0" align="center"&gt;&lt;colgroup&gt;&lt;col width="33%" /&gt;&lt;col width="67%" /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;
+&lt;h2&gt;&lt;em style="font-family: inherit; background-color: transparent;"&gt;Increasing the Rigor of Adult English Language Acquisition* Instruction&lt;/em&gt;&lt;/h2&gt;
+&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;object width="100%" height="183"&gt;&lt;param name="movie" value="//www.youtube.com/embed/XzbRYh5EXzQ?hl=en_US&amp;amp;version=3&amp;amp;rel=0" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed width="100%" height="315" src="https://www.youtube.com/v/XzbRYh5EXzQ?hl=en_US&amp;amp;version=3&amp;amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" /&gt;&lt;/object&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;em style="line-height: 16.0029983520508px;"&gt;Using the buttons at the bottom will present the materials in order. &lt;/em&gt;&lt;em&gt;You can also navigate to the pages in this section by using the &lt;/em&gt;&lt;strong&gt;Lesson menu&lt;/strong&gt;&lt;em&gt; on the left.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium; color: #a0271d;"&gt;*The Workforce Innovation and Opportunities Act uses the term English language acquisition (ELA) to describe English language instruction for nonnative English speakers rather than the traditional English as a second language (ESL) or English for speakers of other languages terminology.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1157">
+            <jumpto>560</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Instructors</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1171">
+            <jumpto>561</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Administrators</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="560">
+        <prevpageid>559</prevpageid>
+        <nextpageid>561</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>0</display>
+        <timecreated>1435091574</timecreated>
+        <timemodified>1446847865</timemodified>
+        <title>Objectives for Instructors</title>
+        <contents>&lt;h2 style="text-align: left;"&gt;&lt;span style="color: #000000;"&gt;By the end of this unit, you should be able to do the following:&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Articulate why we need to increase the rigor of adult ELA instruction.&lt;/span&gt;&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Define and give examples of academic language, listening and reading strategies, and critical thinking skills.&lt;/span&gt;&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Identify the complex language needs for various learner profiles.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1158">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091574</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1159">
+            <jumpto>562</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091574</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="561">
+        <prevpageid>560</prevpageid>
+        <nextpageid>562</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>0</display>
+        <timecreated>1436712594</timecreated>
+        <timemodified>1446847930</timemodified>
+        <title>Objectives for Administrators</title>
+        <contents>&lt;h2 style="text-align: left;"&gt;&lt;span style="color: #000000;"&gt;By the end of this unit, you should be able to do the following:&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Articulate why we need to increase the rigor of adult ELA instruction.&lt;/span&gt;&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;span style="line-height: 1.231;"&gt;Identify the complex language needs for various learner profiles.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;span style="line-height: 1.231;"&gt;Describe legislation and trends that support the need for increased rigor in instruction for all adult ELLs.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1169">
+            <jumpto>559</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1436712594</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1170">
+            <jumpto>562</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1436712594</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="562">
+        <prevpageid>561</prevpageid>
+        <nextpageid>568</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091820</timecreated>
+        <timemodified>1444783026</timemodified>
+        <title>Activities in this Unit</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Completing the activities will allow you to print your certificate at the end of the unit.&lt;/span&gt;&lt;/p&gt;
+&lt;table cellpadding="5" cellspacing="5" align="center"&gt;&lt;colgroup&gt;&lt;col width="278px" /&gt;&lt;col width="278px" /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr style="height: 32px;"&gt;&lt;th scope="col" style="background-color: #19568b;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 18.6666666666667px; font-family: Arial; color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;For Instructors &lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th scope="col" style="background-color: #19568b;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 18.6666666666667px; font-family: Arial; color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;For Administrators&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr style="height: 31px;"&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: medium; font-family: Arial; color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;Pre-unit survey&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: medium; font-family: Arial; color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;Pre-unit survey&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 58px;"&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: medium;"&gt;Reflecting on your experiences as a professional&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;&lt;span style="font-size: medium;"&gt;Reflecting on your experiences as a professional&lt;/span&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 31px;"&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Think about Aadan's needs&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt; Think about Aadan's needs&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 42px;"&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: medium;"&gt;&lt;em&gt;Instructional Practices Alignment Survey&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;&lt;span style="font-size: medium;"&gt;&lt;em&gt;Instructional Practices Alignment Survey&lt;/em&gt;&lt;/span&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 42px;"&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: medium;"&gt;Sample Lesson Enhancement&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt; Application for administrators&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 42px;"&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Components of rigorous language&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;&lt;span style="font-size: medium;"&gt;Issue brief&lt;/span&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 58px;"&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Analyzing Inez's needs&lt;strong&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Post-unit survey&lt;/span&gt;&lt;/strong&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 42px;"&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: medium; font-family: Arial; color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;&lt;strong&gt;Analyzing Carlos's needs&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 42px;"&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: medium; font-family: Arial; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;Application for instructors&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 42px;"&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: medium; font-family: Arial; color: #000000; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;Issue brief&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 42px;"&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: medium; font-family: Arial; color: #000000; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;Post-unit survey&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; border: solid #000000 1.3333333333333333px; padding: 0px;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000;"&gt;Note for &lt;/span&gt;&lt;span&gt;Administrators: Even if you are not completing tasks for teachers in Parts 1 and 2, consider working through Parts 1 and 2 for background on what academic language entails for learners and instructors.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1160">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091820</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1161">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091820</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="568">
+        <prevpageid>562</prevpageid>
+        <nextpageid>563</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435094974</timecreated>
+        <timemodified>1445048511</timemodified>
+        <title>Reflecting on Your Successes as a Professional</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="color: #000000;"&gt;You employ a variety of skills and strategies that contribute to success in your personal and professional life. Complete this&lt;/span&gt; &lt;strong&gt;&lt;a title="Inventory of Personal Skills" href="@@PLUGINFILE@@/M1U1_S16_InvPerSkills_508.docx"&gt;Inventory of Personal Skills&lt;/a&gt;&lt;/strong&gt; &lt;span style="color: #000000;"&gt;and reflect on the questions below:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;After completing the survey of skills, consider…&lt;/span&gt;&lt;/p&gt;
+&lt;ol style="text-align: left;"&gt;
+&lt;li&gt;&lt;span style="color: #000000; font-size: medium;"&gt;When do you use these skills in your personal and professional life?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="color: #000000; font-size: medium;"&gt;How did you acquire these skills?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Which skills do you find adult ESL learners use most readily?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Which of these seem most difficult for adult ESL learners you serve?&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Click on the audio to hear an explanation of why we need to embed these kinds of skills at all levels of instruction in adult ESL from the beginning.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod1_0010.mp3"&gt;ELL_Mod1_0010.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Also view &lt;strong&gt;&lt;a title="Response to Inventory of Skills Task" href="@@PLUGINFILE@@/M1U1_S16_InvPerSkills_508%20r1.pdf"&gt;Inventory of Personal Skills and Strategies for Success&lt;/a&gt; &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="color: #000000;"&gt; No doubt you discovered that you use the skills and strategies in this inventory often without really thinking about it. The skills included in this inventory can fall into different categories. There is &lt;strong&gt;academic language&lt;/strong&gt;, for example, adapting language to a variety of contexts and communicative tasks. You know that you need to address an officer of the law differently than you might a family member. You know that an email to your spouse will be written very differently than a letter to a teacher at school.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000;"&gt;You use &lt;strong&gt;language strategies&lt;/strong&gt;, for example, you read texts differently depending on your purpose; you probably scan the weather page for the high and low to decide how to dress in the morning. When you get to work, you might read an email from your boss about an upcoming structural change in the school very carefully.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000;"&gt;You employ &lt;strong&gt;critical thinking skills&lt;/strong&gt;, for example, you synthesize information from multiple sources. When you need to do a presentation or write something for school or work, you don’t gather information from only one source, do you? When you are making a major purchase, you may do the same thing. Then you analyze, compare, and contrast the information.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;Finally, the inventory included essential skills such as note-taking, planning, and organizing strategies.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;You may have acquired these skills through models from parents, friends, teachers, or co-workers. You may have had explicit instruction in some of these in a study skills class at school, for example, note-taking strategies. You have been in school settings that put a high premium on writing for different purposes and on critical thinking. Whether your adult English language learners readily employ these skills may be largely dependent on their educational backgrounds. We know that acquisition of these academic skills is dependent on experience with formal schooling and those learners with limited formal schooling may take more than ten years of instruction to acquire them. Adult English language learners may have limited opportunities to develop skills like these outside of classes. This is why we need to include them early and often.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000;"&gt;Why are they so important? As we will explore in this unit, we live in a changing economic and work landscape. The nature of jobs has changed over the past century. According to the 2007 State New Economy Index, “Workers who were skilled with their hands and could reliably work in repetitive and sometimes physically demanding jobs were the engine of the old economy. In today’s New Economy, knowledge-based jobs are driving prosperity… positions held by individuals with at least two years of college.” New jobs require extensive use of both oral and written language; they involve working with complex texts; they involve more interactions with co-workers. Incorporating instruction in the types of skills and strategies in the inventory will not only help adult English language learners prepare for those jobs, but also help them to be more engaged language learners and community members. Building academic language, language skills and strategies, and critical thinking means &lt;strong&gt;increased rigor in English language instruction&lt;/strong&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1162">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435094974</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1163">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435094974</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="564">
+        <prevpageid>563</prevpageid>
+        <nextpageid>565</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>0</display>
+        <timecreated>1435096122</timecreated>
+        <timemodified>1446849300</timemodified>
+        <title>The Language Demands of Work</title>
+        <contents>&lt;p&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/woman%20tending%20to%20sick%20child.png" alt="woman taking child's temperature" style="margin: 25px; float: right;" height="264" width="330" /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;strong&gt;To be successful at work, learners need to…&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="color: #000000; font-size: medium;"&gt;read charts, forms, or work instructions.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="color: #000000; font-size: medium;"&gt;interact effectively with co-workers on teams (e.g. ask for clarification, ask others’ opinions).&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Listen to audio:&lt;br /&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod1_0020.mp3"&gt;ELL_Mod1_0020.mp3&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Development of academic language, language strategies, critical thinking, and organizing and note-taking skills will allow students to thrive in all areas of life. At work, adults may need to read charts, forms, and work instructions, which all require the use of different reading strategies. They need language for interacting effectively with co-workers on teams (for example, asking for clarification, or asking others’ opinions).&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1166">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435096122</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1182">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435096122</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="565">
+        <prevpageid>564</prevpageid>
+        <nextpageid>566</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>0</display>
+        <timecreated>1435097251</timecreated>
+        <timemodified>1449606922</timemodified>
+        <title>Language Demands in Post-secondary Education</title>
+        <contents>&lt;p&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/class%20of%20adult%20learners.png" alt="adult learners in a classroom" style="margin: 25px; float: right;" height="250" width="306" /&gt;&lt;span style="font-size: medium;"&gt;To succeed in any training, learners need to…&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;do extensive note-taking.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;ask clarifying questions. &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;employ multiple reading strategies.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;read complex non-fiction texts.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod1_0030.mp3"&gt;ELL_Mod1_0030.mp3&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;In this module, we are not referring to postsecondary education only as completion of a two- or four-year degree. We are referring to &lt;strong&gt;&lt;em&gt;any&lt;/em&gt;&lt;/strong&gt; training beyond high school, as well as work-based certifications or training. To succeed in any postsecondary setting or work-related training, students need to do extensive note-taking, ask clarifying questions, and employ multiple reading strategies. They will need to read and comprehend complex non-fiction texts and write reports or research papers. Adult English language learners can be ill-prepared for this kind of reading and writing due to the fact that in basic literacy curricula, we often focus on short, personal narratives for reading and writing.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1167">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435097251</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1183">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435097251</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="566">
+        <prevpageid>565</prevpageid>
+        <nextpageid>567</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>0</display>
+        <timecreated>1435097691</timecreated>
+        <timemodified>1446849354</timemodified>
+        <title>Language Demands at Home and in the Community</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;img src="@@PLUGINFILE@@/woman%20with%20boys%20arms%20wrapped%20around%20her.png" alt="woman posing with boy" style="margin-left: 25px; margin-right: 25px; float: right;" height="336" width="253" /&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;strong&gt;To thrive at home and in the community, learners need to…&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;&lt;span style="color: #000000; font-size: medium;"&gt;read mail selectively.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="color: #000000; font-size: medium;"&gt;listen and take phone messages.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="color: #000000; font-size: medium;"&gt;assist their children with homework.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="color: #000000; font-size: medium;"&gt;interact with teachers at school conferences.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="color: #000000; font-size: medium;"&gt;attend neighborhood meetings.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="color: #000000; font-size: medium;"&gt;make decisions about services, for example health care.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod1_0040.mp3"&gt;ELL_Mod1_0040.mp3&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;These skills are not &lt;strong&gt;&lt;em&gt;only&lt;/em&gt;&lt;/strong&gt; for work or school readiness, however. At home, adults need to read mail selectively, listen and take notes if they receive important phone messages, or assist their children with homework. To be involved in the community, they may want to attend neighborhood meetings, interact with teachers at school conferences, all of which may require using higher order listening and communication skills in English. They need to make decisions about services in their communities, for example health care, which require print and digital literacy as well as critical thinking skills.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1168">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435097691</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1184">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435097691</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="567">
+        <prevpageid>566</prevpageid>
+        <nextpageid>569</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444179930</timecreated>
+        <timemodified>1445048290</timemodified>
+        <title>Think about Aadan's Needs</title>
+        <contents>&lt;p&gt;&lt;span&gt;Now you will meet Aadan and learn about some of his specific circumstances and needs.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="line-height: 1.231;"&gt;Listen to audio&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Meet Aadan from Somalia&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod1_0050.mp3"&gt;ELL_Mod1_0050.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Aadan came to the United States nine years ago as a refugee when he was 19. Before that, he attended school for only three years in a refugee camp and has minimal literacy skills in his own language. He is married and has four school-aged children. He works as an attendant in a parking garage and attends ELA classes three mornings a week. Due to his limited literacy skills, he has been placed in a beginning-level ELA class. At the same time, he has strong oral skills and is quite confident communicating with teachers and people in his community. His dream is to one day get a high school equivalency.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;img src="@@PLUGINFILE@@/aadan.png" alt="" style="float: right; margin: 5px 15px;" height="457" width="250" /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Think about Aadan’s needs&lt;/strong&gt;: Consider these questions about Aadan’s goals, background, strengths and needs. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;1. What can we infer about about Aadan’s personal and professional goals based on the information provided?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;2. What complex language and skills are required if Aadan one day wants to achieve his goal of getting a high school equivalency diploma?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;3. What are Aadan's strengths? What challenges might he face? What are some ways you can build on his strengths and help him overcome his challenges?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;4. In what ways is Aadan representative of students you serve in your classes or program?&lt;/span&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Now go to &lt;strong&gt;&lt;a title="Analysis of Aadan's Needs" href="@@PLUGINFILE@@/M1U1_S23_Aadan_Somalia_508%20r1.pdf"&gt;An Analysis of Aadan’s Needs&lt;/a&gt;&lt;/strong&gt; and compare it to your own answers on the reflection task.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Listen to Audio:&lt;br /&gt;&lt;strong&gt;A note on your reflection of Aadan's needs&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod1_0060.mp3"&gt;ELL_Mod1_0060.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt; If you are working through this unit with a colleague, think about all of the academic language and critical thinking skills you used when analyzing Aadan’s situation. You needed to read between the lines and make some inferences about his goals and aspirations based on the information provided. In discussing this vignette with a colleague, you no doubt used a lot of rich academic language, for example:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“I think we can infer that Aadan lacks foundational academic skills because of his limited formal schooling.”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;That’s exactly the kind of language adult English language learners need to acquire, so we will be calling attention to those moments in this module when &lt;strong&gt;you&lt;/strong&gt; use complex language and skills.&lt;/p&gt;
+&lt;p&gt;Now that you have reflected on the kinds of skills and strategies you use in your daily life and learned how a student like Aadan needs to acquire those same kinds of skills and strategies, it’s time to move to formal definitions and further examples of academic language, reading and listening strategies, and critical thinking.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1172">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444179930</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1173">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444179930</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="569">
+        <prevpageid>567</prevpageid>
+        <nextpageid>570</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444180999</timecreated>
+        <timemodified>0</timemodified>
+        <title>Three Key Areas</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Considering the academic, career and personal needs of adult ESL learners in today’s world, there are three key areas that we can be intentional about integrating into instruction: Academic language, language strategies, and critical thinking. In doing so, we are providing adult ESL learners with skills for success at school, work, at home and in their communities. &lt;strong&gt;We are making instruction more rigorous&lt;/strong&gt;. What does each of those areas mean exactly?&lt;/span&gt;&lt;/p&gt;
+&lt;table style="width: 85%;" align="center" border="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/wordmap.png" alt="word map with academic words" height="290" width="251" /&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/writing.png" alt="Writing with a pen on paper" height="297" width="251" /&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/gears.png" alt="Side view of a person's head with gears turning inside" height="297" width="214" /&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;span style="font-size: medium;"&gt;Academic Language&lt;/span&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;span style="font-size: medium;"&gt;Language Strategies&lt;/span&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;span style="font-size: medium;"&gt;Critical Thinking&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;You will be presented with information about all three of these topics and will be able to check your understanding.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1174">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444180999</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1175">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444180999</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="563">
+        <prevpageid>568</prevpageid>
+        <nextpageid>564</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435095744</timecreated>
+        <timemodified>1445009706</timemodified>
+        <title>Why is increased rigor so important?</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Take a few minutes to think about the language skills your learners need for success in these contexts. Consider your ideas and then move through the next three pages to compare your ideas.&lt;/span&gt;&lt;/p&gt;
+&lt;table style="width: 90%;" border="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/woman%20tending%20to%20sick%20child.png" alt="woman taking child's temperature" height="120" width="150" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;The language and skills needed for success in most workplaces&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/class%20of%20adult%20learners.png" alt="adult learners in a classroom" height="122" width="150" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;The language and skills needed for success in further education&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/woman%20with%20boys%20arms%20wrapped%20around%20her.png" alt="woman posing with boy" height="122" width="108" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;The language and skills needed for full access to opportunities at home and in communities&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1164">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435095744</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1165">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435095744</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="570">
+        <prevpageid>569</prevpageid>
+        <nextpageid>571</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444181056</timecreated>
+        <timemodified>1449606979</timemodified>
+        <title>Academic Language</title>
+        <contents>&lt;table style="width: 95%;" border="0" cellspacing="10" cellpadding="10" align="center"&gt;&lt;colgroup&gt;&lt;col width="67%" /&gt;&lt;col width="33%" /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="background-color: #cfe7ff;"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Academic language is defined as “… the set of words, grammar, and discourse strategies used to describe complex ideas, higher order thinking processes, and abstract concepts” (Zwiers, 2014, p. 22). Much of what is written on academic language development is in the world of k-12 education. It is considered the language of school, allowing ELLs to access and develop content knowledge along with their mainstream peers. What role does this play in adult ESL? &lt;strong&gt;A big one!&lt;/strong&gt; Academic language should be defined in this context as both academic and professional language; it is language that can be used in work, community and school interactions.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Much of what we teach in adult ESL classes is “social” English. In a typical adult ESL class, we often put more emphasis on basic communication skills in everyday situations than on interacting for academic or professional purposes. In those every-day settings, it's possible to communicate imprecisely or use casual language. A speaker or listener can repair misunderstandings by pointing to something to show what they mean. These are great communication strategies (and don’t stop teaching them)! Will a student get by with informal, social language in a job interview, or when writing a report at work? There is a layer of “academic language” that we can start teaching early.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="background-color: #ffffff;"&gt;&lt;span style="font-size: medium;"&gt;&lt;em&gt;According to Robin Scarcella, “Learning academic English is probably one of the surest, most reliable ways of attaining socioeconomic success in the United States today. This variety of English entails the multiple, complex features of English required for long-term success in public schools, completion of higher education, and employment with opportunity for professional advancement and rewards.” Scarcella, R. (2003)&lt;/em&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1176">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444181056</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1177">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444181056</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="571">
+        <prevpageid>570</prevpageid>
+        <nextpageid>572</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444181103</timecreated>
+        <timemodified>0</timemodified>
+        <title>Language Strategies</title>
+        <contents>&lt;table style="width: 95%;" border="0" cellspacing="10" cellpadding="10" align="center"&gt;&lt;colgroup&gt;&lt;col width="67%" /&gt;&lt;col width="33%" /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="background-color: #cfe7ff;"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Connected to academic language are the actual strategies we employ actively while reading complex texts or listening to extended speech (directions from a boss, a presentation at a child's school, a lecture). We know from the research that skilled readers make use of a variety of strategies, some bottom-up (e.g. decoding words) and many top-down (e.g. using visual cues to aid in comprehension; drawing on prior knowledge). Similarly, skilled listeners listen selectively for particular words or phrases; they monitor their comprehension; and they use clues to infer the meaning of unknown words. These reading and listening strategies should be introduced and practiced long before learners reach advanced levels.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Typical adult ESL curricula do include reading and listening activities. We want to make sure that we pay attention to using more non-fiction texts, longer authentic listening passages, and that we explicitly teach and name strategies that learners can employ on their own outside of our classrooms. Of course there are reading, listening, writing and speaking skills. We will focus on reading and listening to understand complex language in this unit.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="background-color: #ffffff;"&gt;&lt;span style="font-size: medium;"&gt;&lt;em&gt;There is research that indicates that the complexity of text a learner can read is the greatest predictor of success in college and careers (Pimentel, 2013). &lt;/em&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1178">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444181103</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1179">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444181103</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="572">
+        <prevpageid>571</prevpageid>
+        <nextpageid>573</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444181335</timecreated>
+        <timemodified>1445017746</timemodified>
+        <title>Critical Thinking Skills</title>
+        <contents>&lt;table style="width: 95%;" border="0" cellspacing="10" cellpadding="10" align="center"&gt;&lt;colgroup&gt;&lt;col width="67%" /&gt;&lt;col width="33%" /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="background-color: #cfe7ff;"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Critical thinking is the process of questioning and reflection that allows us to understand, evaluate, and solve problems and take informed action. Critical thinking skills are vital for adults to thrive in their communities, in postsecondary education, and at work. Adult ESL learners have plenty of practice with critical thinking skills; most have made complex decisions for themselves and their families about their lives in the United States, their jobs, and their children’s schooling. They need the &lt;strong&gt;language of&lt;/strong&gt; and &lt;strong&gt;practice with&lt;/strong&gt; critical thinking in new contexts. For example, when questioning an assumption in English, we use phrases like these:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;em&gt;That’s true, but I wonder about… &lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;em&gt;Why do you think that is?&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;To synthesize ideas, we might say:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;em&gt;It seems from our discussion that… &lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;em&gt;The main points seem to be…&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;We need to &lt;strong&gt;teach&lt;/strong&gt; learners this language and give them &lt;strong&gt;practice&lt;/strong&gt; with it so that they can put their ideas into words.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;strong&gt;&lt;span size="3" style="font-size: medium;"&gt;Check your understanding of the components of rigorous language with the next task.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="background-color: #ffffff;"&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;em&gt;It is a misconception that adults in ESL classes do not know how to think critically or employ higher order thinking skills. Most adult ESL students have made complex decisions for themselves and their families about their lives in the United States, their jobs, and their children’s schooling, and many speak two or more languages. At the same time, they may have had limited experience with formal schooling or have come from an educational system that does not focus on critical thinking or development of higher order thinking skills. &lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;(Parrish and Johnson, 2010)&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1180">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444181335</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1181">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444181335</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="573">
+        <prevpageid>572</prevpageid>
+        <nextpageid>574</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444703466</timecreated>
+        <timemodified>1446847952</timemodified>
+        <title>Analyzing Inez's Needs</title>
+        <contents>&lt;h2 style="text-align: left;"&gt;&lt;img src="@@PLUGINFILE@@/inez2.png" style="margin: 5px 15px; float: right;" height="384" width="250" alt="Inez" /&gt;Applying What you have Learned&lt;/h2&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Now you will get practice analyzing two more learners, Inez from Ecuador and Carlos from Mexico. This time, draw on examples of academic language, language strategies, and critical thinking that have been presented. Compare their needs to Aadan’s and to learners in your own classes or program.&lt;/span&gt;&lt;/p&gt;
+&lt;h3 style="text-align: left;"&gt;&lt;span style="color: #000000;"&gt;Meet Inez from Ecuador&lt;/span&gt;&lt;/h3&gt;
+&lt;p style="text-align: left;"&gt;Listen to audio&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod1_0070.mp3"&gt;ELL_Mod1_0070.mp3&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Inez has 3 school-aged children. She works in housekeeping at a hotel and is enrolled in a low-intermediate-level ESL class at a volunteer-run program in her community. The program she attends has a largely life-skills curriculum. Inez feels frustrated because people don’t understand her. She has a hard time explaining problems because she can’t express herself well in English. She has trouble communicating with her boss. Her dream is to get a high school equivalency diploma and then to become a nurse.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;What are Inez’s’s goals and what do you think she’ll need in her English class to get there? Go to the reflective task Analyzing Inez’s Needs now.&lt;/span&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;strong&gt;Analyzing Inez’s Needs&lt;/strong&gt;: Answer these questions about Inez’s goals, background, strengths and needs. &lt;strong&gt;Discuss your answers if you are working with other teachers.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;1. What can we infer about about Inez’s personal and professional goals based on the information provided?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;2.  What complex language and skills are required if Inez one day wants to achieve her goal of getting a high school equivalency diploma?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;3 What are Inez's strengths?  What challenges might she face? What are some ways you can build on her strengths and help her overcome his challenges?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;4. In what ways is Inez representative of students you serve in your classes or program?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1185">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444703466</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1186">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444703466</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="574">
+        <prevpageid>573</prevpageid>
+        <nextpageid>575</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444703591</timecreated>
+        <timemodified>0</timemodified>
+        <title>Analyzing Carlos's Needs</title>
+        <contents>&lt;h2 style="text-align: left;"&gt;&lt;img style="margin: 5px 15px; float: right;" src="@@PLUGINFILE@@/carlos2.png" height="434" width="250" alt="Carlos" /&gt;Meet Carlos from Mexico&lt;/h2&gt;
+&lt;p style="text-align: left;"&gt;Listen to audio:&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod1_0080.mp3"&gt;ELL_Mod1_0080.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Carlos was a high school math teacher in his country. Currently, he works in a manufacturing company as he improves his English. Carlos needs to work with his state to see if he meets licensure requirements. He most certainly needs to take some education classes and pass state teacher exams, but he feels like that is a long way off. Right now, he is in an high-intermediate-level ELA class in a large, urban adult education program. He hasn’t scored high enough to be placed in the more advanced college bridge courses, but he thinks that’s what he needs to get ahead.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;What are Carlos’s goals and what do you think he’ll need in his ESL class to get there? &lt;/span&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;strong&gt;Analyzing Carlos’s Needs&lt;/strong&gt;: Answer these questions about Carlos’s goals, background, strengths and needs. &lt;strong&gt;Discuss your answers if you are working with other teachers.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;1. What can we infer about about Carlos’s personal and professional goals based on the information provided?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;2. What complex language and skills are required if Carlos one day wants to achieve his goal of  becoming a math teacher in the United States?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;3. What are Carlos's strengths? What challenges might he face? What are some ways you can build on his strengths and help him overcome his challenges?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;4. In what ways is Carlos representative of students you serve in your classes or program?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1187">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444703591</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1188">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444703591</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="575">
+        <prevpageid>574</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444703820</timecreated>
+        <timemodified>1458684690</timemodified>
+        <title>What do Inez and Carlos need?</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Now click on each image for a full analysis of each vignette and compare what is presented to your own analysis of each.&lt;/span&gt;&lt;/p&gt;
+&lt;table style="width: 50%;" align="center" border="0" cellpadding="10" cellspacing="10"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;a title="Inez Vignette" href="@@PLUGINFILE@@/M1U1_S36_Inez_Ecuador_508.pdf"&gt;&lt;img src="@@PLUGINFILE@@/inez2%20%281%29.png" width="169" height="259" style="margin: 5px 15px;" alt="Inez" /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;a title="Carlos Vignette" href="@@PLUGINFILE@@/M1U1_S36_Carlos_Mexico_508.pdf"&gt;&lt;img src="@@PLUGINFILE@@/carlos2%20%281%29.png" width="150" height="260" alt="carlos" style="margin: 5px 15px;" /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background-color: #19568b; text-align: center;"&gt;
+&lt;p&gt;&lt;span style="color: #ffffff;"&gt;&lt;strong&gt;Inez&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="background-color: #19568b; text-align: center;"&gt;
+&lt;p&gt;&lt;span style="color: #ffffff;"&gt;&lt;strong&gt;Carlos&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44651"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44650"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44532"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44526"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44525"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1189">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444703820</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1190">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444703820</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="146" moduleid="5181" modulename="lesson" contextid="16071">
+  <lesson id="146">
+    <course>137</course>
+    <name>Part 1: What is Academic Language?</name>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1435277003</timemodified>
+    <pages>
+      <page id="604">
+        <prevpageid>0</prevpageid>
+        <nextpageid>605</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091574</timecreated>
+        <timemodified>1438107045</timemodified>
+        <title>A Definition for Academic Language</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/part1.png" width="392" height="282" alt="Decorative image: Part 1: What is it?" style="float: right; margin: 5px 15px;" /&gt;Language used in the classroom and workplace&lt;/span&gt;&lt;/p&gt;
+&lt;ul verdana="" arial="" helvetica="" sans-serif="" font-size:="" 10px="" line-height:="" normal=""&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;The language of text&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;The language of assessments&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;The language of academic success&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;The language of power&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;em verdana="" arial="" helvetica="" sans-serif="" line-height:="" normal=""&gt;Scarcella (2003)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Jeff Zwiers (2014), a leading expert in this area, defines academic language as "... the set of &lt;strong&gt;words&lt;/strong&gt;, &lt;strong&gt;grammar&lt;/strong&gt;, and &lt;strong&gt;discourse strategies&lt;/strong&gt; used to &lt;strong&gt;describe complex ideas, higher-order thinking processes&lt;/strong&gt;, and &lt;strong&gt;abstract concepts&lt;/strong&gt;" (p. 22).&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT2_0020.mp3"&gt;ELL_MOD1_UNIT2_0020.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;What is academic language? Academic language is found in academic texts and classroom settings, but it is so much more and is essential for adult ELLs to advocate for themselves and their families. It allows adult ELLs to gain access to opportunities at work and in their communities. It is the language we use to ask for a raise, when we want a police officer to issue a warning versus a ticket, or when we call a teacher about an issue with our child. We use this language to ask a landlord to make repairs or when we ask for a letter of recommendation from a colleague. We are doing adult ELLs a disservice when we ignore academic and professional language when choosing content, materials, and activities, even at beginning levels.&lt;/p&gt;
+&lt;p&gt;Now let’s compare everyday language to academic language.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1248">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091574</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="605">
+        <prevpageid>604</prevpageid>
+        <nextpageid>606</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091820</timecreated>
+        <timemodified>1439134578</timemodified>
+        <title>Comparing Everyday Language to Academic Language</title>
+        <contents>&lt;table style="width: 80%;" align="center" border="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th scope="col" style="border: 1px solid #19568b; background-color: #19568b;"&gt;&lt;span style="color: #ffffff; font-size: medium;"&gt;Everyday Language&lt;/span&gt;&lt;/th&gt;&lt;th scope="col" style="border: 1px solid #19568b; background-color: #19568b;"&gt;&lt;span style="color: #ffffff; font-size: medium;"&gt;Academic Language&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Less complex&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Accompanied by pictures, facial expressions, and gestures&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Highly contextualized&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Used to build relationships and get things done in less formal settings&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td valign="top"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Complex and abstract&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Sophisticated vocabulary&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Describes complex concepts, higher-order thinking skills, and abstraction&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p style="text-align: center;"&gt;&lt;br /&gt;Zwiers (2014)&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Listen to audio:&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT2_0030.mp3"&gt;ELL_MOD1_UNIT2_0030.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;In speaking, everyday language is the language we use with family, friends, neighbors, or coworkers. We engage in everyday reading and writing tasks when we write grocery lists, read TV listings in the newspaper, send a text message to a friend, or write a note to a family member. Everyday language tends to be less complex and abstract compared with academic language, in both speech and writing. When conversing with someone in everyday language, we draw meaning from facial expressions and gestures. We also use slang and colloquial expressions, or reductions in our speech. We use everyday language to build relationships and get things done in our lives, such as ordering food at a restaurant, inviting a friend for dinner, or making a to-do list.&lt;/p&gt;
+&lt;p&gt;Academic language, on the other hand, tends to be more complex and abstract. Sometimes there are no visuals or context clues to help us understand meaning. If you review a competency-based textbook for adult ELLs, you will see a lot of everyday language in the tasks and texts. Before continuing, let’s see a vivid example of how we use different language in different situations. We also will see that academic language is not just the language of school.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1249">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091820</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1250">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091820</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="606">
+        <prevpageid>605</prevpageid>
+        <nextpageid>607</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435094974</timecreated>
+        <timemodified>1437709677</timemodified>
+        <title>We Use Different "Registers"</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000;"&gt;&lt;img src="@@PLUGINFILE@@/Text_Message.png" width="350" height="359" alt="Phone display with text messages. Message 1: Hey hon, school nurse called -Suzie's sick. Can you pick her up? Message 2: OK. Gotta check with the boss. Message 3. Thanks, babe! Call me after." style="float: right; margin: 5px 15px;" /&gt;&lt;span style="font-size: medium;"&gt;We use different registers in social settings versus academic or professional settings. A register is the way we adjust our language for a particular setting.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;strong&gt;TASK&lt;/strong&gt;: Look at the text message:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;What is the relationship between the participants in this conversation?&lt;/span&gt;&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;How would you describe the register?&lt;/span&gt;&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;What are some features of that register?&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1251">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435094974</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1252">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435094974</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="607">
+        <prevpageid>606</prevpageid>
+        <nextpageid>608</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435095744</timecreated>
+        <timemodified>1437709685</timemodified>
+        <title>Compare Your Answers to These</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;img src="@@PLUGINFILE@@/Text_Message.png" width="350" height="359" alt="Phone display with text messages. Message 1: Hey hon, school nurse called -Suzie's sick. Can you pick her up? Message 2: OK. Gotta check with the boss. Message 3. Thanks, babe! Call me after." style="float: right; margin: 5px 15px;" /&gt;&lt;span style="font-size: medium;"&gt;What is the relationship between the participants in this conversation?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px; text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;A husband and wife&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;How would you describe the register?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px; text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;They are using a very informal register.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;What are some features of that register?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px; text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Colloquial language&lt;/strong&gt; ("Hey, hon, ... Can you pick up?")&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Speech reductions&lt;/strong&gt; ("Gotta ...")&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Now turn to a conversation between the husband and his boss.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1253">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435095744</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1254">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435095744</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="608">
+        <prevpageid>607</prevpageid>
+        <nextpageid>609</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435598568</timecreated>
+        <timemodified>1437709705</timemodified>
+        <title>A Professional Register</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Now listen as James asks his boss for permission to leave.&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;How would you describe the register?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;What are some features of that register?&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;Listen to Audio:&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT2_0040.mp3"&gt;ELL_MOD1_UNIT2_0040.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;[&lt;em&gt;sound of typing&lt;/em&gt;]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;James&lt;/strong&gt;: Good morning, Ms. Foster. Do you have a moment?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ms. Foster&lt;/strong&gt;: Yes, James, just let me finish typing this e-mail. [&lt;em&gt;sound of typing briefly&lt;/em&gt;] OK, what can I do for you?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;James&lt;/strong&gt;: Well, I just got a message that my daughter is sick. I need to pick her up and take her home. May I leave to do that?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ms. Foster&lt;/strong&gt;: Oh, I’m sorry to hear that she’s sick, but we have that important inspection at 2:00. Do you think you could return to the office by then?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;James&lt;/strong&gt;: Absolutely, I’ll be back by 2:00. I know how important that meeting is.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ms. Foster&lt;/strong&gt;: I hope she feels better, and see you this afternoon.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;James&lt;/strong&gt;: Yes, thank you. Good-bye.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ms. Foster&lt;/strong&gt;: See you at 2:00.&lt;/p&gt;
+&lt;p&gt;[&lt;em&gt;sound of typing&lt;/em&gt;]&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1255">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435598568</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1256">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435598568</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="609">
+        <prevpageid>608</prevpageid>
+        <nextpageid>610</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435599772</timecreated>
+        <timemodified>1437709714</timemodified>
+        <title>Now Compare Your Answers</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;How would you describe the register?&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;This time the register is more formal, which we could expect when speaking to a boss rather than texting a spouse.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;What are some features of that register?&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Using titles: "Ms. Foster" instead of a first name.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Using polite requests: "Do you have a moment?; May I leave to do that?"&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Expressing expectations: "Do you think you could return by ...?"&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Providing reasons and assurances: "Absolutely, I'll be back by 2:00."&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1257">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435599772</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1258">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435599772</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="610">
+        <prevpageid>609</prevpageid>
+        <nextpageid>611</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435599972</timecreated>
+        <timemodified>1438107281</timemodified>
+        <title>Academic Language Is on a Continuum</title>
+        <contents>&lt;table align="center" border="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Informal social conversations&lt;/span&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;span style="font-size: medium;"&gt;→&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Informal writing for social purposes&lt;/span&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;span style="font-size: medium;"&gt;→&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Informal writing or discussions in class or at work&lt;/span&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;span style="font-size: medium;"&gt;→&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Structured academic discussions in a school or the workplace&lt;/span&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;span style="font-size: medium;"&gt;→&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;Formal presentations or edited writing&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Ranney (2014)&lt;/p&gt;
+&lt;p&gt;Listen to audio&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT2_0050.mp3"&gt;ELL_MOD1_UNIT2_0050.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;In the first example, we saw very informal social communication, a text between family members; the second example was a more formal conversation that required a different register. Adult ELLs need to recognize these differences and employ different registers in different settings. They need to access increasingly complex texts as well. In this unit, we explore a systematic approach for analyzing the various registers and the level of language complexity that adult ELLs are likely to encounter at work, in further education or training, or in their communities. As you will see in this unit, academic language is on a continuum, and there is language that can be taught at all levels with learners with a variety of personal goals. If you completed Unit 1, you learned about the importance of increasing the rigor of instruction overall, and teaching academic language is just one part of that.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Continue for a brief reminder.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1259">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435599972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1260">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435599972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="611">
+        <prevpageid>610</prevpageid>
+        <nextpageid>612</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435600047</timecreated>
+        <timemodified>1445017035</timemodified>
+        <title>Increasing the Overall Rigor</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;If you did not complete Unit 1 but want to have more background and learn more about the rationale for increasing the rigor of instruction with adult ELLs, which includes greater emphasis on teaching academic language, read the LINCS ELL PRO PROJECT Issue Brief:&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Increasing_Rigor_508.pdf" title="Issue Brief"&gt;&lt;em&gt;&lt;strong&gt;Meeting the Language Needs of Today’s Adult English Language Learner: Issue Brief&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt; (Parrish, 2015)&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;OPTIONAL TASK&lt;/strong&gt;: Record what you think are the most compelling arguments for increasing the rigor of instruction. What are some practices that you could readily include in your classes or program?&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1261">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435600047</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1262">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435600047</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="612">
+        <prevpageid>611</prevpageid>
+        <nextpageid>613</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435600232</timecreated>
+        <timemodified>1445027043</timemodified>
+        <title>Meet Aadan From Somalia</title>
+        <contents>&lt;table border="0" align="right" style="width: 251px;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src="@@PLUGINFILE@@/aadan.png" width="170" height="311" alt="Aadan writing in a notebook" style="margin: 5px 15px; float: right;" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;For learners with limited prior formal schooling, we know it can take up to 10–15 years to develop academic language (Collier, 1989).&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;In Unit 1 of this module, we conducted a thorough analysis of Aadan's needs (&lt;strong&gt;&lt;a href="@@PLUGINFILE@@/M1U2_S18-19_Aadan_508.pdf" title="analysis of Aadan's needs"&gt;analysis of Aadan's Needs&lt;/a&gt;&lt;/strong&gt;) and identified the following needs:&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Support his children's academic achievement.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Read complex work documents.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Earn a high school equivalency degree.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;Listen to audio:&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT2_0060.mp3"&gt;ELL_MOD1_UNIT2_0060.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Perhaps the most compelling reason to work on academic language at all levels of instruction with adult ELLs is the real-world needs that learners face.&lt;/p&gt;
+&lt;p&gt;Aadan came to the United States 9 years ago as a refugee when he was 19 years old. Before that, he attended school for only 3 years in a refugee camp and has minimal literacy skills in his own language. He is married and has four school-aged children. He works as an attendant in a parking garage and attends English language classes three mornings per week. Because of his limited literacy skills, he has been placed in a beginning-level English class. At the same time, he has strong oral skills and is quite confident communicating with teachers and people in his community. His dream is to one day earn a high school equivalency diploma.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1263">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435600232</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1264">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435600232</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="613">
+        <prevpageid>612</prevpageid>
+        <nextpageid>614</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435600313</timecreated>
+        <timemodified>1438108547</timemodified>
+        <title>Aadan's Academic Language Needs</title>
+        <contents>&lt;table border="0" align="right" style="width: 251px;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;img src="@@PLUGINFILE@@/aadan.png" width="250" height="457" alt="Aadan" style="float: right; margin: 5px 15px;" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Learners with prior formal schooling in their first language now need practice with academic language skills in English.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;To meet his dream of earning his high school equivalency degree, Aadan ultimately will need the following kinds of &lt;em&gt;academic language&lt;/em&gt;:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Understand a text's scope and emerging meaning.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Determine the author's purpose, the intended audience, the tone of the text and author, and the text's general context.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Recognize and understand a work's thesis or theme.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Recognize text organization.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Summarize, paraphrase, and synthesize ideas.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;State an opinion about what he has read.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Ongoing task&lt;/strong&gt;: Record ideas for meeting Aadan's needs.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1265">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435600313</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1266">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435600313</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="614">
+        <prevpageid>613</prevpageid>
+        <nextpageid>615</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435600420</timecreated>
+        <timemodified>1445013706</timemodified>
+        <title>Meet Carlos from Mexico</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;img src="@@PLUGINFILE@@/carlos2.png" width="250" height="434" alt="Carlos" style="margin: 5px 15px; float: right;" /&gt;&lt;span style="font-size: medium;"&gt;In Unit 1 of this module, we conducted a thorough analysis of Carlos's needs (&lt;strong&gt;&lt;a href="@@PLUGINFILE@@/M1U2_S20-21_Carlos_508.pdf" title="Analysis of Carlos's Needs"&gt;analysis of Carlos's needs&lt;/a&gt;&lt;/strong&gt;) and identified the following personal and professional goals:&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Personal/Professional Goals&lt;/strong&gt;:&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Return to a job as a mathematics teacher.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Move out of a lower wage job in manufacturing to a job in teaching.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Navigate the licensing processes for teachers in his state.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Academic Goals&lt;/strong&gt;:&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Move up to the advanced college bridge courses.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Enroll in courses needed for teacher licensure to become a mathematics teacher.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Prepare for the state teacher examinations.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;em&gt;Learners with prior formal schooling in their first language now need practice with academic language skills in English.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT2_0080.mp3"&gt;ELL_MOD1_UNIT2_0080.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Carlos was a high school mathematics teacher is in his country. Currently, he works at a manufacturing company as he improves his English. He needs to work with his state to see if he meets licensure requirements. He almost certainly needs to take some education classes and pass the state teacher examinations, but he feels as if that is a long way off. Right now, he is in an high intermediate-level English language class in a large, urban adult education program. He has not scored high enough to be placed in the more advanced college bridge courses, but he thinks that is what he needs to get ahead.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1267">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435600420</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1268">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435600420</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="615">
+        <prevpageid>614</prevpageid>
+        <nextpageid>616</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435600500</timecreated>
+        <timemodified>1438108617</timemodified>
+        <title>Carlos’s Academic Language Needs</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;img src="@@PLUGINFILE@@/carlos2.png" width="250" height="434" alt="Carlos" style="margin: 5px 15px; float: right;" /&gt;&lt;span style="font-size: medium;"&gt;Carlos also needs practice with accessing academic texts, for example, determining an author's purpose, the intended audience, the tone of the text and author, and the text's general context; and recognizing text organization.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Carlos also needs to be developing the following strategies in his current English class:&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Identify and use resources (print, electronic, and human) to learn about the state licensing procedures.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Use appropriate documentation processes for tasks (filing forms, writing e-mails).&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Employ multiple strategies for organizing information (graphic organizers, outlining) to show the relationships between concepts.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;em&gt;Adult ELLs such as Carlos and Aadan need rigorous instruction in academic language in English.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Listen to audio:&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT2_0090.mp3"&gt;ELL_MOD1_UNIT2_0090.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;In addition to the academic skills needed for accessing complex texts outlined for Aadan, Carlos needs to identify and use resources (print, electronic, and human) to learn about the state licensing procedures. No doubt he will need to use appropriate documentation processes for tasks (filing forms, writing e-mails) when pursuing further education or applying for licensure down the road. Be sure to see the LINCS ESL PRO PROJECT Module 2 on developing digital literacy. As he listens to lectures and reads academic materials, Carlos will need to employ multiple strategies for organizing information (graphic organizers, outlining) to show the relationships between concepts.&lt;/p&gt;
+&lt;p&gt;These vignettes highlight the importance of moving beyond basic skills with adult ELLs and including instruction that develops both academic and professional discourse. Let’s look at some other trends in adult education that underscore this on more rigorous instruction in ELA programs. Review Aadan’s vignette as well and note how activities or ideas could be used to support his development of academic language.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1269">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435600500</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1270">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435600500</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="616">
+        <prevpageid>615</prevpageid>
+        <nextpageid>617</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435600621</timecreated>
+        <timemodified>1445027104</timemodified>
+        <title>The Current Landscape of Adult Education in the United States</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/frontpage.png" width="250" height="303" alt="Decorative. Front page of CCRS Pimentel report" style="float: right; margin: 5px 15px;" /&gt;Some current policies are supporting the shift to provide instruction that is more rigorous and academic at all levels of adult ELA programming. Read about the College and Career Readiness Standards for Adult Education (Pimentel, 2013) and the Workforce Investment and Opportunity Act (WIOA).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1271">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435600621</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1272">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435600621</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="617">
+        <prevpageid>616</prevpageid>
+        <nextpageid>618</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>0</display>
+        <timecreated>1435600680</timecreated>
+        <timemodified>1439143164</timemodified>
+        <title>College and Career Readiness Standards for Adult Education</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;College and Career Readiness Standards for Adult Education* represent some key shifts in what curricula should include&lt;/strong&gt;:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Shift 1, Complexity: Regular practice with complex text and its academic language&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Shift 2, Evidence: Reading, writing, and speaking grounded in evidence from text, both literary and informational&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Shift 3, Knowledge: Building knowledge through content-rich nonfiction&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;em&gt;*The College and Career Readiness Standards (CCR) for Adult Education report presents a set of college and career readiness standards that reflect the content most relevant for preparing adult students for success in colleges, technical training programs, work, and citizenship—in the areas of English language arts/literacy and mathematics.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1273">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435600680</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1275">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435600680</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="618">
+        <prevpageid>617</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>0</display>
+        <timecreated>1435600951</timecreated>
+        <timemodified>1446853245</timemodified>
+        <title>Workforce Innovation and Opportunity Act (2013-2014)</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;The &lt;strong&gt;&lt;em&gt;Workforce Innovation and Opportunity Act&lt;/em&gt;&lt;/strong&gt; (2013-2014) emphasizes the need to prepare all adults, including ELLs, to transition to further education, training, and employment in high-demand industries and occupations. Academic language is critical to prepare adult ELLs for the demands of work and further education.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44651"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44650"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44532"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44526"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44525"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker. Then, (2) return to the home page to select your next activity. Activities you have completed will be checked off in your progress tracker&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1274">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435600951</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1276">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435600951</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

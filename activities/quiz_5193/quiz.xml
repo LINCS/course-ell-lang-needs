@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="64" moduleid="5193" modulename="quiz" contextid="16083">
+  <quiz id="64">
+    <name>Unit 3: Pre-Unit Survey (required for instructors)</name>
+    <intro>&lt;p&gt;&lt;span&gt;Before you begin this exploration, complete a short pre-unit survey about your current understanding, practices and beliefs. You will be able to compare your results after you've taken the Post-Unit Survey.&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timelimit>0</timelimit>
+    <overduehandling>autoabandon</overduehandling>
+    <graceperiod>0</graceperiod>
+    <preferredbehaviour>deferredfeedback</preferredbehaviour>
+    <attempts_number>2</attempts_number>
+    <attemptonlast>0</attemptonlast>
+    <grademethod>1</grademethod>
+    <decimalpoints>2</decimalpoints>
+    <questiondecimalpoints>-1</questiondecimalpoints>
+    <reviewattempt>69904</reviewattempt>
+    <reviewcorrectness>0</reviewcorrectness>
+    <reviewmarks>4368</reviewmarks>
+    <reviewspecificfeedback>0</reviewspecificfeedback>
+    <reviewgeneralfeedback>0</reviewgeneralfeedback>
+    <reviewrightanswer>0</reviewrightanswer>
+    <reviewoverallfeedback>4368</reviewoverallfeedback>
+    <questionsperpage>10</questionsperpage>
+    <navmethod>free</navmethod>
+    <shufflequestions>0</shufflequestions>
+    <shuffleanswers>1</shuffleanswers>
+    <questions>1110,1111,1112,1113,1114,0</questions>
+    <sumgrades>5.00000</sumgrades>
+    <grade>5.00000</grade>
+    <timecreated>0</timecreated>
+    <timemodified>1445175763</timemodified>
+    <password></password>
+    <subnet></subnet>
+    <browsersecurity>-</browsersecurity>
+    <delay1>0</delay1>
+    <delay2>0</delay2>
+    <showuserpicture>2</showuserpicture>
+    <showblocks>0</showblocks>
+    <question_instances>
+      <question_instance id="448">
+        <question>1110</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+      <question_instance id="449">
+        <question>1111</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+      <question_instance id="450">
+        <question>1112</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+      <question_instance id="451">
+        <question>1113</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+      <question_instance id="452">
+        <question>1114</question>
+        <grade>1.0000000</grade>
+      </question_instance>
+    </question_instances>
+    <feedbacks>
+      <feedback id="100">
+        <feedbacktext>&lt;p&gt;&lt;span&gt;C&lt;/span&gt;&lt;span&gt;lick &lt;b&gt;ELLLangNeeds &lt;/b&gt;in the &lt;span class="il"&gt;Navigation&lt;/span&gt; pane to the left of the screen or in the breadcrumbs near the top of the screen to select your next activity.&lt;/span&gt;&lt;/p&gt;</feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>0.00000</mingrade>
+        <maxgrade>6.00000</maxgrade>
+      </feedback>
+    </feedbacks>
+    <overrides>
+    </overrides>
+    <grades>
+    </grades>
+    <attempts>
+    </attempts>
+  </quiz>
+</activity>

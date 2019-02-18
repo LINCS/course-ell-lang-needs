@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="141" moduleid="5164" modulename="lesson" contextid="16054">
+  <lesson id="141">
+    <course>137</course>
+    <name>Module 1 Introduction</name>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>0</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1444857728</timemodified>
+    <pages>
+      <page id="548">
+        <prevpageid>0</prevpageid>
+        <nextpageid>558</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444065682</timecreated>
+        <timemodified>1447021118</timemodified>
+        <title>Acknowledgements</title>
+        <contents>&lt;h2&gt;&lt;span&gt;Welcome to Meeting the Language Needs of Today's Adult English Language Learner!&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style="line-height: 1.231;"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="line-height: 1.231;"&gt;Author: Betsy Parrish, Hamline University&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Editors: Mariann Fedele-McLeod, American Institutes for Research Cherise Moore, American Institutes for Research&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This module was prepared with funding from the U.S. Department of Education, Office of Career, Technical, and Adult Education, under contract No. ED-VAE-13-C-0058. The opinions expressed herein do not necessarily reflect the opinions or policies of the U.S. Department of Education. This module is in the public domain and may be reproduced without permission.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Using the buttons at the bottom will present the materials in order. &lt;/em&gt;&lt;em&gt;You can also navigate to the pages in this section by using the &lt;/em&gt;&lt;strong&gt;Lesson menu&lt;/strong&gt;&lt;em&gt; on the left.&lt;/em&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1155">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444065682</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="558">
+        <prevpageid>548</prevpageid>
+        <nextpageid>549</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435193118</timecreated>
+        <timemodified>1446850863</timemodified>
+        <title>Introduction</title>
+        <contents>&lt;div style="background-color: #5fa6ca;"&gt;
+&lt;table style="width: 90%;" align="center" border="0" cellpadding="15" cellspacing="15"&gt;&lt;colgroup&gt;&lt;col width="33%" /&gt;&lt;col width="67%" /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="background-color: #5fa6ca;"&gt;
+&lt;h2&gt;&lt;span style="color: #000000;"&gt;Welcome to &lt;em&gt;Meeting the Language Needs of Today’s Adult English Language Learner&lt;/em&gt;!&lt;/span&gt;&lt;/h2&gt;
+&lt;/td&gt;
+&lt;td style="background-color: #5fa6ca;"&gt;&lt;object height="183" width="99%"&gt;&lt;param name="movie" value="//www.youtube.com/v/WcmK3UA6Upw?hl=en_US&amp;amp;version=3&amp;amp;rel=0" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed src="https://www.youtube.com/v/WcmK3UA6Upw?hl=en_US&amp;amp;version=3&amp;amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" height="315" width="99%" /&gt;&lt;/object&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;i&gt;Choose your pathway by clicking on one of the buttons below.&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1136">
+            <jumpto>549</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435193118</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Instructors</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1137">
+            <jumpto>550</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435193118</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Administrators</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="550">
+        <prevpageid>549</prevpageid>
+        <nextpageid>551</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>0</display>
+        <timecreated>1435193511</timecreated>
+        <timemodified>1437704014</timemodified>
+        <title>Objectives for Administrators</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;For administrators, material developers, and policy makers&lt;/strong&gt;, you should be able to:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Articulate the rationale for and benefits of increasing instructional rigor to meet the language demands adult English language learners face at school, at work, and in their communities;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Identify ways to support instruction to meet the linguistic demands adult English learners face in today's world;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Provide guidance at the program level and to support professional development of teachers in the area of increased rigor in adult ELA instruction.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod1_Intro_0020.mp3"&gt;ELL_Mod1_Intro_0020.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;For administrators, material developers, and policy makers, by completing the readings and activities in this module, you should be able to articulate to others the rationale for and benefits of increasing instructional rigor to meet the language demands adult English language learners face at school, at work, and in their communities. You will leave with concrete ideas and tools for supporting instruction to meet the linguistic demands adult English learners face in today’s world. You should be able to provide guidance at the program level and to support the professional development of teachers in the area of increased rigor in adult ELA instruction. Each unit should take approximately 2 ½ to 3 hours to complete. If you are working through materials with others, you may choose to spend more time on some activities.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;For busy administrators, you might choose to complete only portions of a unit that address an area of particular concern for you. All of the readings and support materials can be found in the Toolkit, so you can make use of only those materials you need. Recent WIOA legislation uses the term Adult English Language Acquisition in place of Adult ESL when referring to programs and instruction. In this module, we use English language acquisition or ELA to refer to instruction and programs that serve English language learners.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1140">
+            <jumpto>558</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435193511</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1141">
+            <jumpto>551</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435193511</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="551">
+        <prevpageid>550</prevpageid>
+        <nextpageid>552</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435193646</timecreated>
+        <timemodified>1437703359</timemodified>
+        <title>Overview of Units</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;table style="width: 95%;" border="0" cellpadding="5" cellspacing="5"&gt;&lt;colgroup&gt;&lt;col width="35%" /&gt;&lt;col width="65%" /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Meeting the Language Needs of Today's Adult English Language Learner&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Unit 1&lt;/strong&gt;: Increasing the Rigor of Adult ELA Instruction&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Unit 2&lt;/strong&gt;: Incorporating Language Strategies for Success at All Levels of Adult English Language Acquisition&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Unit 3&lt;/strong&gt;: Language Strategies for Success at All Levels of Adult English Language Instruction&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Unit 4&lt;/strong&gt;: Incorporating Instruction in Critical Thinking at All Levels of Adult English Language Acquisition&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: medium;"&gt;&lt;object width="99%" height="183"&gt;&lt;param name="movie" value="//www.youtube.com/embed/hS-OF4DLAug?hl=en_US&amp;amp;version=3&amp;amp;rel=0" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed width="100%" height="315" src="https://www.youtube.com/v/hS-OF4DLAug?hl=en_US&amp;amp;version=3&amp;amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" /&gt;&lt;/object&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1142">
+            <jumpto>558</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435193646</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1143">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435193646</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="552">
+        <prevpageid>551</prevpageid>
+        <nextpageid>553</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435193919</timecreated>
+        <timemodified>1447698144</timemodified>
+        <title>Individual Self-Study</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/woman%20and%20laptop.png" alt="woman and laptop" style="float: right; margin: 5px 20px;" height="263" width="198" /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;span style="color: #000000;"&gt;&lt;strong&gt;How to Use this Module&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;This self-access module allows individuals to complete any or all units at their own pace. Each unit should take approximately 2 1/2 to 3 hours to complete, including readings and activities. &lt;span&gt;However, each unit offers many opportunities for deeper learning and access to many resources which would take longer to complete if you choose to access these additional opportunities.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;&lt;span&gt;&lt;span&gt;You can complete the module over time, stopping as often as you’d like.  After a period of inactivity, you will be logged out of the module and will need to login to continue the activities.  Use the checkboxes on the module home page to keep track of the activities you’ve completed. The unit activities are presented in a suggested order of completion.  However, you can complete the unit activities in any order and also return to previously completed activities to review material. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1144">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435193919</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1145">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435193919</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="553">
+        <prevpageid>552</prevpageid>
+        <nextpageid>554</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435194071</timecreated>
+        <timemodified>1447022445</timemodified>
+        <title>Professional Learning Communities/Study Circles</title>
+        <contents>&lt;h2&gt;&lt;img src="@@PLUGINFILE@@/class%20discussion.png" alt="Class discussion" style="float: right; margin: 5px 20px;" height="183" width="291" /&gt;&lt;span style="color: #000000;"&gt;How to Use this Module&lt;/span&gt;&lt;/h2&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="color: #000000;"&gt;A &lt;strong&gt;professional learning community&lt;/strong&gt;, or PLC, is a group of educators that meets regularly, shares expertise, and works collaboratively to improve teaching skills and the academic performance of learners. Shirley Hord, an expert on school leadership, defines professional learning communities this way: "The three words explain the concept: Professionals coming together in a group—a community—to learn." One technique for your PLC is to conduct Study Circles. Similar to PLCs are communities of practice (CoPs) that bring educators from various sites together (even from a distance though online tools) to collaborate around a common vision to improve their practice. &lt;span&gt;Anyone can initiate a study circle, but it is important to collaborate with an instructional leader to support this activity.&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;The module readings, resources, and tasks can be completed between meetings and used for the basis of intentional exploration of the issues addressed in the module.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1146">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435194071</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1147">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435194071</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="554">
+        <prevpageid>553</prevpageid>
+        <nextpageid>555</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435194223</timecreated>
+        <timemodified>1446847899</timemodified>
+        <title>Peer or Small Group Study</title>
+        <contents>&lt;h2&gt;&lt;img src="@@PLUGINFILE@@/peer%20study.png" alt="two women studying off a laptop" style="float: right; margin: 5px 20px;" height="243" width="313" /&gt;&lt;span style="color: #000000;"&gt;How to Use this Module&lt;/span&gt;&lt;/h2&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Find a &lt;strong&gt;peer or small group&lt;/strong&gt; to explore the issues in this module in depth. The module readings, resources, and tasks can be completed between meetings and used for the basis of intentional exploration of the issues addressed in the module.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;The toolkit contains lesson plan checklists and observation tools you could use to give one another feedback and support as you are learning about the topics.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1148">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435194223</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1149">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435194223</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="555">
+        <prevpageid>554</prevpageid>
+        <nextpageid>557</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435194551</timecreated>
+        <timemodified>1445046246</timemodified>
+        <title>Module 1 Toolkit</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;img style="margin: 15px; float: right;" alt="red toolbox" src="@@PLUGINFILE@@/toolbox_image.png" width="351" height="191" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Framework of Essential Skills&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;Here you can find an overview of the essential language and skills presented in Module 1 Units. It includes:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Academic and Professional Language&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Language Strategies&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Critical Thinking&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;&lt;span size="3" style="font-size: medium;"&gt;&lt;span style="line-height: 1.231;"&gt;&lt;a href="@@PLUGINFILE@@/FrameworkEssentialSkills_508.pdf" title="Framework of Essential Skills"&gt;This chart&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt; represents an overview of skills and language strategies adult ELLs need for success at work, at school, and in their communities. Instructors can use it for planning purposes. Administrators can use it for curriculum review, as areas to look for doing observation, and as a guide when planning assessments.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="text-align: left;"&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;Unit 1 Toolkit: Increasing the Rigor in Adult ELA Instruction&lt;/span&gt;&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;Unit 2 Toolkit: Incorporating Strategies for Success at All Levels of Adult English Language Acquisition&lt;/span&gt;&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;Unit 3 Toolkit: &lt;span style="font-size: medium;" size="3"&gt;Language Strategies for Success at All Levels of Adult English Language Acquisition&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;&lt;span style="font-size: medium; line-height: 1.231;"&gt;Unit 4 Toolkit: &lt;span style="font-size: medium;" size="3"&gt;Incorporating Instruction in Critical Thinking at All Levels of Adult English Language Acquisition&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1152">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435194551</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1153">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435194551</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="557">
+        <prevpageid>555</prevpageid>
+        <nextpageid>556</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435194346</timecreated>
+        <timemodified>1447022240</timemodified>
+        <title>Certificate of Completion</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/Certificate.jpg" alt="certificate icon" style="margin: 5px 20px; float: right;" height="150" width="200" /&gt;This module contains four units; however, completion of all units is not required for a certificate to be issued. You will be eligible to receive a Certificate of Completion at the end of each unit, upon conclusion of the required activities.  &lt;span&gt;There are no graded activities or tasks for this module. &lt;/span&gt;Please follow the links at the end of the unit to print your certificate upon completing required activities.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1150">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435194346</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1151">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435194346</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="556">
+        <prevpageid>557</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435195849</timecreated>
+        <timemodified>1446853015</timemodified>
+        <title>Choose your unit now</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;This completes the introduction and overview to Module 1. Once you've completed this section you can select your unit.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44651"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44650"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44526"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44525"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1154">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435195849</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1156">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435195849</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="549">
+        <prevpageid>558</prevpageid>
+        <nextpageid>550</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>0</display>
+        <timecreated>1435193424</timecreated>
+        <timemodified>1437703946</timemodified>
+        <title>Objectives for Instructors</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;For instructors&lt;/strong&gt;, upon completion of this module, you should be able to...&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Articulate the reasons for increasing instructional rigor to meet the language demands adult English language learners face at school, at work, and in their communities;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Identify some ways your current instructional practices are meeting the linguistic demands learners face and identify areas for growth as a teacher of adult English language learners;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Adapt existing materials to incorporate language and learning strategies of greater complexity than is typically found in a survival English curriculum.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Mod1_Intro_0010.mp3"&gt;ELL_Mod1_Intro_0010.mp3&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;We will look at the need for increased rigor in these contexts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The language demands in the realm of work in today’s economy.&lt;/li&gt;
+&lt;li&gt;The language needed for success in any kind of postsecondary education or training.&lt;/li&gt;
+&lt;li&gt;The impact language has on access and opportunities within our communities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For instructors, through readings and reflection, possible discussion with colleagues, interactive tasks, and sample lesson plans, you should recognize the benefits of increasing instructional rigor to meet the language demands adult English language learners face at school, at work, and in their communities; you will be able to identify some ways your current instructional practices are meeting the linguistic demands learners face and identify areas for growth as an English language teaching professional. Throughout the module, you will gain practical strategies and get practice with adapting existing materials to incorporate language and learning strategies of greater complexity than is typically found in a survival English curriculum. Each unit should take around 2 ½ to 3 hours to complete. If you are working through materials with others, you may choose to spend more time on some activities.&lt;/p&gt;
+&lt;p&gt;For busy instructors, you might choose to complete only portions of a unit that address an area of particular concern for you. All of the readings and support materials can be found in the Toolkit, so you can make use of only those materials you need. Recent WIOA legislation uses the term Adult English Language Acquisition in place of Adult ESL when referring to programs and instruction. In this module, we use English language acquisition or ELA to refer to instruction and programs that serve English language learners.&lt;/p&gt;
+&lt;details&gt;&lt;/details&gt;&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1138">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435193424</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1139">
+            <jumpto>551</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435193424</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

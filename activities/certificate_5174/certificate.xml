@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="91" moduleid="5174" modulename="certificate" contextid="16064">
+  <certificate id="91">
+    <name>Unit 1 Certificate for Instructors</name>
+    <intro>&lt;p&gt;Follow the instructions on screen to view or print your certificate.  &lt;/p&gt;
+&lt;p&gt;You have met the requirements for a Certificate of Completion for this unit. Save or print this certificate for your records.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Click &lt;b&gt;ELLLangNeeds &lt;/b&gt;in the Navigation pane to the left of the screen or in the breadcrumbs near the top of the screen to select your next activity.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <emailteachers>0</emailteachers>
+    <emailothers></emailothers>
+    <savecert>1</savecert>
+    <reportcert>0</reportcert>
+    <delivery>0</delivery>
+    <certificatetype>lincs_section</certificatetype>
+    <orientation>L</orientation>
+    <borderstyle>0</borderstyle>
+    <bordercolor>3</bordercolor>
+    <printwmark>0</printwmark>
+    <printdate>2</printdate>
+    <datefmt>1</datefmt>
+    <printnumber>1</printnumber>
+    <printgrade>0</printgrade>
+    <gradefmt>1</gradefmt>
+    <printoutcome>0</printoutcome>
+    <printhours>3</printhours>
+    <printteacher>0</printteacher>
+    <customtext>Meeting Language Needs: Increasing Rigor for ELA</customtext>
+    <printsignature>Cheryl-Keenan.png</printsignature>
+    <printseal>LINCS-Logo-Color-small.png</printseal>
+    <timecreated>1436715300</timecreated>
+    <timemodified>1445184180</timemodified>
+    <issues>
+    </issues>
+  </certificate>
+</activity>

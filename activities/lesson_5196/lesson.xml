@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="152" moduleid="5196" modulename="lesson" contextid="16086">
+  <lesson id="152">
+    <course>137</course>
+    <name>Part 1: The Importance of Language Strategies Instruction</name>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1435277003</timemodified>
+    <pages>
+      <page id="669">
+        <prevpageid>0</prevpageid>
+        <nextpageid>670</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091460</timecreated>
+        <timemodified>1471567292</timemodified>
+        <title>Increasing the Overall Rigor</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;If you did not complete Unit 1 and would like to learn more about the rationale for increasing the rigor of instruction with adult ELLs, which includes greater emphasis on teaching &lt;strong&gt;reading and listening strategies&lt;/strong&gt;, read the LINCS ESL Pro Project Issue Brief: &lt;/span&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="@@PLUGINFILE@@/ELL_Increasing_Rigor_508.pdf" title="Issue Brief"&gt;&lt;em&gt;Meeting the Language Needs of Today’s Adult English Language Learner: Issue Brief&lt;/em&gt;&lt;/a&gt;  (Parrish 2015)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Optional Task&lt;/strong&gt;: Record what you think are the most compelling arguments for increasing the rigor of instruction. What are some practices that you could readily include in your classes or program?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Share your responses to this activity in your Community of Practice, or with your colleagues on the &lt;a href="https://community.lincs.ed.gov/comment/16538#comment-16538" title="ESL Pro Module 1 Unit 3 Discussion Forum"&gt;LINCS discussion forum&lt;/a&gt;.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1373">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="670">
+        <prevpageid>669</prevpageid>
+        <nextpageid>671</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091574</timecreated>
+        <timemodified>1445024810</timemodified>
+        <title>Meet Aadan From Somalia</title>
+        <contents>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/aadan.png" width="250" height="457" alt="" style="float: right; margin: 5px 15px;" /&gt;&lt;span style="font-size: medium;"&gt;In Unit 1 of this module, we conducted a thorough analysis of Aadan's needs (&lt;strong&gt;&lt;a href="@@PLUGINFILE@@/M1U3_S12-13_Aadan_508.pdf" title="Analysis of Aadan's needs"&gt;analysis of Aadan's needs&lt;/a&gt;&lt;/strong&gt;) and identified the following needs:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Support his children's academic achievement.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Read complex work documents.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Earn a high school equivalency degree.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Listen to Audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT3_0020.mp3"&gt;ELL_MOD1_UNIT3_0020.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Let’s begin by meeting Aadan from Somalia.&lt;/p&gt;
+&lt;p&gt;Aadan came to the United States 9 years ago as a refugee when he was 19 years old. Before that, he attended school for only 3 years in a refugee camp and has minimal literacy skills in his own language. He is married and has four school-aged children. He works as an attendant in a parking garage and attends English language classes three mornings per week. Because of his limited literacy skills, he has been placed in a beginning-level English class. At the same time, he has strong oral skills and is quite confident communicating with teachers and people in his community. His dream is to one day earn a high school equivalency diploma.&lt;/p&gt;
+&lt;p&gt;Most likely, Aadan would like to read and comprehend documents sent home from his children’s school. He will want to support their academic achievement in any way that he can. He probably needs to manage complex work documents as well. With his ultimate goal of earning a high school equivalency diploma, he has many complex reading needs. What might those be? Think about those before you continue.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1374">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091574</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1375">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091574</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="671">
+        <prevpageid>670</prevpageid>
+        <nextpageid>672</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091820</timecreated>
+        <timemodified>1444773315</timemodified>
+        <title>What Language Strategies Does Aadan Need?</title>
+        <contents>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/aadan.png" width="250" height="457" alt="" style="float: right; margin: 5px 15px;" /&gt;&lt;span style="font-size: medium;"&gt;To meet his dream of earning his high school equivalency diploma, Aadan ultimately will need to be able to do the following:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Preread and scan academic materials to get a sense of a text's scope and emerging meaning.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Recognize and understand a work's thesis or theme.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Summarize, paraphrase, and synthesize ideas from what he has read.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Evaluate the evidence presented.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;State an opinion about what he has read.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;The burning question&lt;/strong&gt;:&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;How can we start working on these kinds of texts and strategies right now in Aadan's beginning-level English class?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Listen to Audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT3_0030.mp3"&gt;ELL_MOD1_UNIT3_0030.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;The burning question is, “How can we start working on these kinds of texts and strategies right now in Aadan’s beginning-level English class?” One way is to start using simple nonfiction texts early and often. As you go through this unit, notice how using simple graphic organizers while reading and listening can help a learner such as Aadan begin to notice the main idea, or thesis, of a reading and then find supporting details. Notice how using meaningful prereading tasks can help Aadan articulate assumptions about a topic, read to check those assumptions, and continue with discussions on his evolving ideas and opinions.&lt;/p&gt;
+&lt;p&gt;If you completed a learner vignette in Unit 1, please refer back to that vignette to see how what you learn in this unit might help that learner.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1376">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091820</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1377">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091820</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="672">
+        <prevpageid>671</prevpageid>
+        <nextpageid>673</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435094974</timecreated>
+        <timemodified>1445024855</timemodified>
+        <title>Meet Carlos From Mexico</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;img src="@@PLUGINFILE@@/carlos2.png" width="250" height="434" alt="" style="float: right; margin: 5px 15px;" /&gt;&lt;span style="font-size: medium;"&gt;In Unit 1 of this module, we conducted a thorough analysis of Carlos's needs (&lt;strong&gt;&lt;a href="@@PLUGINFILE@@/M1U3_S14-15_Carlos_508.pdf" title="Analysis of Carlos's needs"&gt;analysis of Carlos's needs&lt;/a&gt;&lt;/strong&gt;) and identified the following personal and professional goals:&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Personal/Professional Goals&lt;/strong&gt;:&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Return to a job as a mathematics teacher.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Move out of a lower wage job in manufacturing to a job in teaching.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Navigate the licensing processes for teachers in his state.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Academic Goals&lt;/strong&gt;:&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Move up to the advanced college bridge courses.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Enroll in courses needed for teacher licensure to become a mathematics teacher.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Prepare for the state teacher examinations.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;Listen to audio:&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT3_0040.mp3"&gt;ELL_MOD1_UNIT3_0040.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Now meet Carlos whose situation and background are different.&lt;/p&gt;
+&lt;p&gt;Carlos was a high school mathematics teacher in his country. Currently, he works at a manufacturing company as he improves his English. He needs to work with his state to see if he meets licensure requirements. He almost certainly needs to take some education classes and pass the state teacher examinations, but he feels as if that is a long way off. Right now, he is in a high intermediate-level English language class in a large, urban adult education program. He has not scored high enough to be placed in the more advanced college bridge courses, but he thinks that is what he needs to get ahead.&lt;/p&gt;
+&lt;p&gt;Just like Aadan, Carlos has very clear academic goals. Because of his prior formal schooling and credentials from Mexico, he is further along in his acquisition of academic and work readiness skills necessary for recredentialing in the United States. Let’s turn to his reading and listening needs.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1378">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435094974</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1379">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435094974</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="673">
+        <prevpageid>672</prevpageid>
+        <nextpageid>674</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435095744</timecreated>
+        <timemodified>1444773421</timemodified>
+        <title>What Language Strategies Does Carlos Need?</title>
+        <contents>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/carlos2.png" width="250" height="434" alt="" style="margin: 5px 15px; float: right;" /&gt;&lt;span style="font-size: medium;"&gt;Carlos needs practice with the same reading strategies identified in the analysis of Aadan's needs, but he also needs to be able to do the following:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Identify and use resources (print, electronic, and human).&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Learn about the state licensing procedures.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Complete documentation (filing forms, writing e-mails).&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Employ listening skills appropriate to the content and task at hand (listening for gist, specific information, and signal words).&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Practice note taking while listening.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Employ multiple strategies for organizing information (graphic organizers, outlining).&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Show the relationships between concepts.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;em&gt;Adult ELLs such as Carlos and Aadan need rigorous instruction in higher order reading and listening strategies&lt;/em&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT3_0050.mp3"&gt;ELL_MOD1_UNIT3_0050.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Although Carlos’s prior formal schooling and current academic goals are quite different from Aadan’s, they share the need for instruction that is not focused on only life skills and provides them practice with reading and listening strategies using content-rich materials. Carlos also needs practice managing many different types of documents while listening, listening and note taking during lectures, and practice in accessing information online. Notice how the samples in this unit focus on actively reading or listening while filling in graphic organizers such as those one might encounter at school or work (charts, flowcharts). At the end of the unit, notice how we give learners specific reading or listening tasks to complete while they are seeking information online.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1380">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435095744</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1381">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435095744</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="674">
+        <prevpageid>673</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435598568</timecreated>
+        <timemodified>1446853465</timemodified>
+        <title>Reading More Means Reading Better</title>
+        <contents>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/Reading%20a%20graphic%20novel.png" width="250" height="376" alt="" style="float: right; margin: 5px 15px;" /&gt;&lt;span style="font-size: medium;"&gt;We know that reading high-interest reading texts at the appropriate reading level can lead to better fluency in reading (Blevins, 2005). Therefore, we do not want to discourage teachers from using literacy practices such as the following:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Class book clubs&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Readers workshop or readers theater&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Libraries of simplified readers&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;However&lt;/strong&gt;, we need to complement any literacy practices in the classroom with reading strategies instruction focused on &lt;strong&gt;nonfiction, informational texts&lt;/strong&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;em&gt;Reading high-interest texts that are at the appropriate reading level can lead to better fluency in reading (Blevins, 2005)&lt;/em&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Now you will move on to Part 2 of the unit: &lt;em&gt;Teaching Reading and Listening Strategies With Nonfiction Texts&lt;/em&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44651"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44650"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;span style="line-height: 1.231;"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44526"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44525"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1382">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435598568</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1383">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435598568</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

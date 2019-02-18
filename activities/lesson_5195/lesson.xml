@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="151" moduleid="5195" modulename="lesson" contextid="16085">
+  <lesson id="151">
+    <course>137</course>
+    <name>Unit 3 Overview</name>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1435277003</timemodified>
+    <pages>
+      <page id="664">
+        <prevpageid>0</prevpageid>
+        <nextpageid>665</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1436969777</timecreated>
+        <timemodified>1444773013</timemodified>
+        <title>Language Strategies for Success at All Levels of Adult English Language Acquisition*</title>
+        <contents>&lt;p&gt;&lt;em&gt;&lt;img src="@@PLUGINFILE@@/Student%20discussing%20book%20in%20class.png" width="350" height="545" alt="" style="margin: 5px 15px; float: right;" /&gt;&lt;span style="font-size: medium;"&gt;Research indicates that the complexity of text a learner can read is the greatest predictor of success in college and careers&lt;/span&gt;&lt;/em&gt;&lt;span style="font-size: medium;"&gt; (Pimentel, 2013).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;This unit focuses on the &lt;strong&gt;language strategies&lt;/strong&gt; that adult English language learners (ELLs) can employ for &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;accessing and understanding more complex written texts, both print and digital &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;understanding complex oral language &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;in &lt;em&gt;any&lt;/em&gt; type of class at any level. Content in this unit complements the content in Units 2 and 4, as well as in the other modules in the LINCS ELL Pro Project.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium; color: #a0271d;"&gt;*The Workforce Innovation and Opportunities Act uses the term &lt;em&gt;English language acquisition&lt;/em&gt; (ELA) to describe English language instruction for nonnative English speakers rather than English as a second language (ESL) or English for speakers of other languages (ESOL) terminology.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT3_0010.mp3"&gt;ELL_MOD1_UNIT3_0010.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Welcome to Unit 3, Language Strategies for Success at All Levels of Adult English Language Acquisition. Did you know that the complexity of a text a learner can read is the greatest predictor of success in college and careers? Unit 3 focuses on the language strategies that adult ELLs need to access more complex texts, both print and digital.&lt;/p&gt;
+&lt;p&gt;What about listening? What strategies can adult ELLs employ when listening to a lecture or a presentation at work or when trying to follow complex instructions? These strategies take a long time to acquire, so many of the examples in this unit demonstrate how to embed practice with reading and listening to nonfiction texts early and often with adult ELLs. This unit should take between 2.5 and 3 hours to complete. Let’s get started!&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;em&gt;Using the buttons at the bottom will present the materials in order. &lt;/em&gt;&lt;em&gt;You can also navigate to the pages in this section by using the &lt;/em&gt;&lt;strong&gt;Lesson menu&lt;/strong&gt;&lt;em&gt; on the left.&lt;/em&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1371">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1436969777</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="665">
+        <prevpageid>664</prevpageid>
+        <nextpageid>668</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091460</timecreated>
+        <timemodified>1446851217</timemodified>
+        <title>Adult English Language Learners in Your Classes</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/Learners%20speaking%20in%20class.png" width="350" height="542" alt="" style="margin: 5px 15px; float: right;" /&gt;&lt;span style="font-size: medium;"&gt;Think about the adult ELLs in your classes. Do they do the following?&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Preview a text and read selectively for the information they need?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Determine the main idea of a reading or listening passage and explain how it is supported by key details?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Find details in a passage that support an argument?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Summarize a reading or a listening passage or synthesize information from multiple sources?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Listen to a lecture, take notes, and synthesize their hearing of it with what they have read?&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;These types of strategies are presented in Unit 3.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1363">
+            <jumpto>668</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Instructors</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1370">
+            <jumpto>666</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Administrators</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1372">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="668">
+        <prevpageid>665</prevpageid>
+        <nextpageid>666</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091574</timecreated>
+        <timemodified>1438135840</timemodified>
+        <title>Unit Objectives for Instructors</title>
+        <contents>&lt;p&gt;&lt;em&gt;&lt;span style="font-size: medium;"&gt;Gaps exist between the listening and reading strategies we teach adult ELLs and the skills needed for success in postsecondary education (Johnson &amp;amp; Parrish, 2010).&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;By the end of this unit, you should be able to do the following&lt;/strong&gt;:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Explain why strategies instruction is essential in any adult English language class.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Explain the different purposes for listening and reading.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Explain why using nonfiction and informational texts in reading and listening lessons is so important.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Develop listening and reading lessons that promote higher order listening and reading strategies, synthesize information from multiple sources, and find evidence to support a claim.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Develop lessons using graphic organizers and incorporate note taking and information transfer skills.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1364">
+            <jumpto>665</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091574</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1365">
+            <jumpto>667</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091574</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="667">
+        <prevpageid>666</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435094974</timecreated>
+        <timemodified>1446853454</timemodified>
+        <title>This Unit Has Four Parts</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Part 1&lt;/strong&gt;: The importance of language strategies instruction (for instructors and administrators)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Part 2&lt;/strong&gt;: Teaching reading and listening strategies with nonfiction texts (primarily for instructors)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Part 3&lt;/strong&gt;: Note taking; accessing texts online (primarily for instructors)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Part 4&lt;/strong&gt;: Ideas for administrators&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Various activities are in this unit:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Pre- and post-unit surveys&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Read and reflect&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Lesson analysis&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Video observations&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Task development&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;This chart indicates which activities are suitable for instructors, administrators, or both.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;table style="border: none; border-collapse: collapse;"&gt;&lt;colgroup&gt;&lt;col width="280px" /&gt;&lt;col width="280px" /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr style="height: 26px;"&gt;&lt;th scope="col" style="background-color: #19568b;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 14.6666666666667px; font-family: Arial; color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;For Instructors &lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th scope="col" style="background-color: #19568b;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 14.6666666666667px; font-family: Arial; color: #ffffff; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"&gt;For Administrators&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr style="height: 25px;"&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: none;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 13.333333333333332px; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Pre-unit survey&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: none;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 13.333333333333332px; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Pre-unit survey&lt;span&gt; (required)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 59px;"&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: none;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 13.333333333333332px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Optional: Read and reflect: &lt;/span&gt;&lt;span style="font-size: 13.333333333333332px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Increased Rigor in Adult English Language Instruction:&lt;/span&gt;&lt;span style="font-size: 13.333333333333332px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;&lt;br class="kix-line-break" /&gt;&lt;/span&gt;&lt;span style="font-size: 13.333333333333332px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Meeting the Demands of Today’s World&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: none;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 13.333333333333332px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Optional: Read and reflect: &lt;/span&gt;&lt;span style="font-size: 13.333333333333332px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Increased Rigor in Adult English Language Instruction:&lt;/span&gt;&lt;span style="font-size: 13.333333333333332px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;&lt;br class="kix-line-break" /&gt;&lt;/span&gt;&lt;span style="font-size: 13.333333333333332px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: italic; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Meeting the Demands of Today’s World&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 39px;"&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: none;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 13.333333333333332px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Survey of current practices for teaching reading&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: none;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 39px;"&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: none;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 13.333333333333332px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Video Observation I: Advanced reading lesson&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: none;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 13.333333333333332px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Video Observation I: Advanced reading lesson [optional])&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 25px;"&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: none;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 13.333333333333332px; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Survey of listening practices&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: none;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 39px;"&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: none;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 13.333333333333332px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Video Observation II: Intermediate-advanced listening lesson&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: none;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 13.333333333333332px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Video Observation II: An intermediate-advanced listening lesson (optional)&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 23px;"&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: none;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 13.333333333333332px; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Lesson analysis&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: none;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 13.333333333333332px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Assessing learner needs&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 24px;"&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: none;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 13.333333333333332px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Task development&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: none;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 13.333333333333332px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Read and reflect (Parrish &amp;amp; Johnson, 2010)&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 27px;"&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: none;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 13.333333333333332px; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Post-unit survey&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 13.333333333333332px; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Final Reflection&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 10px; padding-bottom: 5px; padding-left: 10px; border: none;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 13.333333333333332px; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Post-unit survey&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 13.333333333333332px; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Final Reflection&lt;span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Take a pre-unit survey now&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44651"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44650"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44532"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44526"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44525"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1368">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435094974</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1369">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435094974</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="666">
+        <prevpageid>668</prevpageid>
+        <nextpageid>667</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091820</timecreated>
+        <timemodified>1439144622</timemodified>
+        <title>Unit Objectives for Administrators</title>
+        <contents>&lt;table border="0" cellpadding="5" cellspacing="5" align="right" style="background-color: #fff2b5; ; width: 20%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;em&gt;Gaps exist between the listening and reading strategies we teach adult ELLs and the skills needed for success in postsecondary education (Johnson &amp;amp; Parrish, 2010).&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;By the end of this unit, you should be able to do the following&lt;/strong&gt;:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Explain why strategies instruction is essential in any adult English language class.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Explain why the use of nonfiction and informational texts in reading and listening lessons is so important.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Provide support for teachers to work on integrating higher order reading and listening strategies instruction into program curricula.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;This unit provides background and explanations as to why we must help learners access more complex oral and written texts. Although the primary focus in this unit is on classroom practices, the video demonstrations and sample activities illustrate the principles for both instructors and administrators.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1366">
+            <jumpto>665</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091820</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1367">
+            <jumpto>667</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091820</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

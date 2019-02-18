@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inforef>
+  <fileref>
+    <file>
+      <id>82903</id>
+    </file>
+    <file>
+      <id>82904</id>
+    </file>
+    <file>
+      <id>82905</id>
+    </file>
+    <file>
+      <id>82906</id>
+    </file>
+  </fileref>
+  <grade_itemref>
+    <grade_item>
+      <id>1524</id>
+    </grade_item>
+  </grade_itemref>
+  <question_categoryref>
+    <question_category>
+      <id>172</id>
+    </question_category>
+  </question_categoryref>
+</inforef>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inforef>
+  <fileref>
+    <file>
+      <id>83007</id>
+    </file>
+    <file>
+      <id>83008</id>
+    </file>
+    <file>
+      <id>83009</id>
+    </file>
+    <file>
+      <id>83010</id>
+    </file>
+    <file>
+      <id>83011</id>
+    </file>
+    <file>
+      <id>83012</id>
+    </file>
+    <file>
+      <id>83013</id>
+    </file>
+    <file>
+      <id>83014</id>
+    </file>
+    <file>
+      <id>83015</id>
+    </file>
+    <file>
+      <id>83016</id>
+    </file>
+    <file>
+      <id>83017</id>
+    </file>
+  </fileref>
+  <grade_itemref>
+    <grade_item>
+      <id>1533</id>
+    </grade_item>
+  </grade_itemref>
+</inforef>

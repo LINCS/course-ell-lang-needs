@@ -1,0 +1,1472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="160" moduleid="5214" modulename="lesson" contextid="16104">
+  <lesson id="160">
+    <course>137</course>
+    <name>Part 3: Continued</name>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1435277003</timemodified>
+    <pages>
+      <page id="754">
+        <prevpageid>0</prevpageid>
+        <nextpageid>755</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1438178856</timecreated>
+        <timemodified>1444781775</timemodified>
+        <title>Promoting Critical Thinking With Beginning-Level Adult ELLs</title>
+        <contents>&lt;table style="width: 33%;" align="right" border="0" cellpadding="5" cellspacing="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;span style="font-size: medium;"&gt;&lt;object width="560" height="183"&gt;&lt;param name="movie" value="//www.youtube.com/embed/v9XkUD4mHb0?hl=en_US&amp;amp;version=3&amp;amp;rel=0" /&gt;&lt;param name="allowFullScreen" value="true" /&gt;&lt;param name="allowscriptaccess" value="always" /&gt;&lt;embed width="560" height="315" src="https://www.youtube.com/v/v9XkUD4mHb0?hl=en_US&amp;amp;version=3&amp;amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" /&gt;&lt;/object&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;It may not look like critical thinking at first glance . . .&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;but even in this beginning-level lesson on map-reading, this classroom teacher, Carol Margolis, a teacher at More School in St. Paul MN, adds a layer of critical thinking.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Optional Task&lt;/strong&gt;: Print the &lt;a href="@@PLUGINFILE@@/M1U4_%2041_VideoObsBeg_508.docx" title="Video Observation: Beginning Class"&gt;&lt;strong&gt;Video Observation Form&lt;/strong&gt;: &lt;strong&gt;Beginning Class&lt;/strong&gt;&lt;/a&gt; and note the task type and the thinking skills practiced during each stage of the lesson.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1573">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438178856</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="755">
+        <prevpageid>754</prevpageid>
+        <nextpageid>774</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091460</timecreated>
+        <timemodified>1438178881</timemodified>
+        <title>Debriefing the Video</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Components of higher-order thinking in Carol's lesson:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;More complex calendar questions&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Learner-generated quiz questions&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Organizing information to show relationships&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Restructuring as new information is given&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Making decisions based on what learners hear and see&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Identifying, evaluating, and synthesizing information from written and verbal instructions&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1536">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1574">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="774">
+        <prevpageid>755</prevpageid>
+        <nextpageid>756</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091574</timecreated>
+        <timemodified>1457555223</timemodified>
+        <title>Applying Principles to a Longer Reading or Listening Passage</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Carol Numrich, a leading expert in teaching reading to ELLs, makes the connection between the typical stages of a reading lesson and aligns those with critical thinking skills:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Pre-reading: Focus on the the students' world&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Reading: Focus on the text&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Follow-up: Focus beyond the text&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: center;"&gt;&lt;b style="font-weight: normal;"&gt;&lt;b style="font-weight: normal;"&gt; &lt;/b&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;table style="border: none; border-collapse: collapse;"&gt;&lt;colgroup&gt;&lt;col width="329px" /&gt;&lt;col width="329px" /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr style="height: 28px;"&gt;
+&lt;td colspan="2" style="vertical-align: top; padding-top: 5px; padding-right: 0px; padding-bottom: 5px; padding-left: 10px; border: none;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 16px; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Numrich’s Series of Critical Thinking Tasks&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 34px;"&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 0px; padding-bottom: 5px; padding-left: 10px; border: none;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 16px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Stages of a reading or listening lesson&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 0px; padding-bottom: 5px; padding-left: 10px; border: none;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 16px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Critical thinking skills&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 42px;"&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 0px; padding-bottom: 5px; padding-left: 10px; border: none;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Pre-reading: &lt;/span&gt;&lt;span style="font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;&lt;br class="kix-line-break" /&gt;&lt;/span&gt;&lt;span style="font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Focus on the the students’ world&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 0px; padding-bottom: 5px; padding-left: 10px; border: none;"&gt;
+&lt;ul style="margin-top: 0pt; margin-bottom: 0pt;"&gt;
+&lt;li dir="ltr" style="list-style-type: disc; font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Observing&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr" style="list-style-type: disc; font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 3pt; margin-bottom: 3pt;"&gt;&lt;span style="font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Identifying assumptions&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 44px;"&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 0px; padding-bottom: 5px; padding-left: 10px; border: none;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Reading: &lt;/span&gt;&lt;span style="font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;&lt;br class="kix-line-break" /&gt;&lt;/span&gt;&lt;span style="font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Focus on the text&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 0px; padding-bottom: 5px; padding-left: 10px; border: none;"&gt;
+&lt;ul style="margin-top: 0pt; margin-bottom: 0pt;"&gt;
+&lt;li dir="ltr" style="list-style-type: disc; font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Understanding and organizing&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr" style="list-style-type: disc; font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 3pt; margin-bottom: 3pt;"&gt;&lt;span style="font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Interpreting&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 44px;"&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 0px; padding-bottom: 5px; padding-left: 10px; border: none;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Follow-up: &lt;/span&gt;&lt;span style="font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;&lt;br class="kix-line-break" /&gt;&lt;/span&gt;&lt;span style="font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Focus beyond the text&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: top; padding-top: 5px; padding-right: 0px; padding-bottom: 5px; padding-left: 10px; border: none;"&gt;
+&lt;ul style="margin-top: 0pt; margin-bottom: 0pt;"&gt;
+&lt;li dir="ltr" style="list-style-type: disc; font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Inquiring further&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr" style="list-style-type: disc; font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 3pt; margin-bottom: 0pt;"&gt;&lt;span style="font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Analyzing and evaluating&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir="ltr" style="list-style-type: disc; font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;"&gt;
+&lt;p dir="ltr" style="line-height: 1.2; margin-top: 3pt; margin-bottom: 3pt;"&gt;&lt;span style="font-size: 14.666666666666666px; font-family: Arial; color: #000000; background-color: transparent; font-weight: normal; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"&gt;Making decisions&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT4_0170.mp3"&gt;ELL_MOD1_UNIT4_0170.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Carol Numrich, a leading expert in teaching reading to ELLs, makes the connection between the typical stages of a reading lesson and aligns those with critical thinking skills. Her recommendation works equally well in a listening lesson. Unit 3 in this module has an in-depth discussion of reading and listening strategies instruction, but now let’s connect that more explicitly to critical thinking. If you did Unit 3, you may want to review George and Jessica’s reading and listening lessons at New American Horizons to see just how much practice with critical thinking they provided.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1537">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091574</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1538">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091574</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="757">
+        <prevpageid>756</prevpageid>
+        <nextpageid>758</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435095744</timecreated>
+        <timemodified>1457555276</timemodified>
+        <title>Choosing Rich Content</title>
+        <contents>&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Heightens learner interest&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Allows for deeper thinking&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Mirrors topics in academic settings&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b style="font-weight: normal;"&gt;&lt;b style="font-weight: normal;"&gt; &lt;/b&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;table style="border: 1px none #000000; border-collapse: collapse;" cellpadding="5" cellspacing="5" border="1"&gt;&lt;colgroup&gt;&lt;col width="265px" /&gt;&lt;col width="265px" /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="background-color: #19568b;"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;Typical &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;Life-Skills Topics&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="background-color: #19568b;"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;Enrich With Content&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left" valign="middle"&gt;&lt;span style="font-size: medium;"&gt;Places in the community&lt;/span&gt;&lt;/td&gt;
+&lt;td align="left" valign="middle"&gt;&lt;span style="font-size: medium;"&gt;Geography; environmental issues  &lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left" valign="middle"&gt;&lt;span style="font-size: medium;"&gt;Life Experiences&lt;/span&gt;&lt;/td&gt;
+&lt;td align="left" valign="middle"&gt;&lt;span style="font-size: medium;"&gt;History; &lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;current events&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left" valign="middle"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Foods and healthy eating&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td align="left" valign="middle"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Health and wellness; causes of common diseases; mental health issues  &lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left" valign="middle"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="line-height: 1.231;"&gt;Holidays&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td align="left" valign="middle"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Cultural traditions (sociology and anthropology)&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left" valign="middle"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="line-height: 1.231;"&gt;School&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td align="left" valign="middle"&gt;
+&lt;p dir="ltr"&gt;&lt;span style="font-size: medium;"&gt;Educational systems and practices&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT4_0190.mp3"&gt;ELL_MOD1_UNIT4_0190.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Learners like Aadan, Inez, and Carlos have resided in the United States for a long time. Often adult ELA programs focus on topics that could be considered quite basic. Regardless of their language level, learners most likely have interests much like your own. Imagine you were transported to another country and enrolled in a language class. Would you rather learn about holidays or differences regarding deep cultural values and beliefs? When learning about transportation, would you appreciate learning about the benefits of public transportation to the community rather than only learning about how to read a bus schedule? Rich content mirrors content students may encounter in academic settings. This table suggests content you could use to supplement typical topics you might find in your existing curriculum. Let’s see how the theme of parenting can include critical discussion of managing social media in the lives of families.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1541">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435095744</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1542">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435095744</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="758">
+        <prevpageid>757</prevpageid>
+        <nextpageid>759</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435936104</timecreated>
+        <timemodified>1438179556</timemodified>
+        <title>Social Media Pre-activity 1</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Let’s see now the theme of parenting can include critical discussion of managing social media in the lives of families. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Ask learners:&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;What comes to mind when you hear the word "social media"?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Share those ideas with a partner and sort your ideas into categories (any you see).&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Present those to another group; find similarities and differences.&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p id="yui_3_13_0_2_1435859496460_12"&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT4_0200.mp3"&gt;ELL_MOD1_UNIT4_0200.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;What critical thinking skills are promoted in this pre-activity? There’s categorizing, comparing and contrasting, and predicting and analyzing the issue, all in a simple previewing task.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1543">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435936104</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1544">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435936104</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="759">
+        <prevpageid>758</prevpageid>
+        <nextpageid>760</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435936914</timecreated>
+        <timemodified>1438179492</timemodified>
+        <title>Social Media  Activity 2: Possible Benefits and Drawbacks of Social Media for Families</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;What critical thinking skills are promoted in this pre-activity?&lt;/span&gt;&lt;/p&gt;
+&lt;table style="width: 50%;" align="center" border="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Benefits&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Drawbacks&lt;/strong&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;span style="font-size: medium;"&gt;Social Interaction&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;span style="font-size: medium;"&gt;Self-expression&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;span style="font-size: medium;"&gt;Networking&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;span style="font-size: medium;"&gt;Privacy&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;span style="font-size: medium;"&gt;Friends&lt;/span&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Idea adapted from &lt;a target="_blank" title="Breaking News English" href="http://www.breakingnewsenglish.com"&gt;Breaking News English&lt;/a&gt;, a website with reading lessons drawn from current events.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1545">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435936914</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1546">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435936914</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="760">
+        <prevpageid>759</prevpageid>
+        <nextpageid>761</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435936952</timecreated>
+        <timemodified>1438179707</timemodified>
+        <title>Social Media  Activity 3: Investigating the Issue</title>
+        <contents>&lt;table style="width: 50%;" align="right" border="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="height: 50px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="height: 50px; border: 1px solid #000000;"&gt;&lt;strong&gt;Issue/Problem&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="height: 50px; border: 1px solid #000000;"&gt;&lt;strong&gt;Suggested Solutions&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="height: 50px; border: 1px solid #000000;"&gt;&lt;strong&gt;Our Ideas&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="height: 50px; border: 1px solid #000000;"&gt;Video 1&lt;/td&gt;
+&lt;td style="height: 50px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="height: 50px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="height: 50px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="height: 50px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="height: 50px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="height: 50px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="height: 50px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="height: 50px; border: 1px solid #000000;"&gt;Video 2&lt;/td&gt;
+&lt;td style="height: 50px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="height: 50px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="height: 50px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="height: 50px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="height: 50px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="height: 50px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="height: 50px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="height: 50px; border: 1px solid #000000;"&gt;Video 3&lt;/td&gt;
+&lt;td style="height: 50px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="height: 50px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;td style="height: 50px; border: 1px solid #000000;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Now learners visit Commonsense Media and each group is assigned one topic:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Video 1: &lt;a target="_blank" title="Common Sense Media Video 1" href="https://www.commonsensemedia.org/video/modal/4934236"&gt;Three Teen Trends in Social Media&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Video 2: &lt;a target="_blank" title="Common Sense Media Video 2" href="https://www.commonsensemedia.org/video/modal/2098623"&gt;Perspectives on Social Media&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Video 3: &lt;a target="_blank" title="Common Sense Media Video 3" href="https://www.commonsensemedia.org/video/modal/4398691"&gt;Cyber Bullying Prevention Guide for Kids&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Watch the video clips and try the listening task to see how manageable you think this activity would be for students in your classes. What critical thinking skills would learners use in this lesson?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-size: medium;"&gt;Listening Task:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT4_0210.mp3"&gt;ELL_MOD1_UNIT4_0210.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Using a Jigsaw Approach, which is demonstrated in Unit 3, each group is in charge of a different video and topic. The video clips are around 2 minutes long and the concrete listening task makes these authentic videos accessible to adult ELLs. Once everyone has completed their section, they compare with others in the same group and discuss some possible solutions of their own. Finally, they make new groups and present their findings to others in the class. A final assignment could be to identify the big ideas across the three videos and synthesize those in a writing assignment. This example serves to demonstrate what you could do with a number of different issue-related themes: housing, transportation, environmental issues, health, education. Can you think of some others?&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1547">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435936952</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1548">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435936952</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="761">
+        <prevpageid>760</prevpageid>
+        <nextpageid>762</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435937033</timecreated>
+        <timemodified>1444781851</timemodified>
+        <title>Creating a Critical Thinking Mindset: Steps 1 and 2</title>
+        <contents>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/no%20cell%20phones.png" width="250" height="250" alt="" style="float: right; margin: 5px 15px;" /&gt;&lt;span style="font-size: medium;"&gt;This activity from John Hughes, a teacher and textbook author, helps set expectations for the kind of thinking you hope to see in your classes.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Step 1: Write a statement on the board, for example:&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span style="font-size: medium;"&gt;&lt;em&gt;&lt;strong&gt;Cell phones should be prohibited in schools.&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Step 2: Students think of their response to that statement.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;From Hughes, J. (2014)&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT4_0220.mp3"&gt;ELL_MOD1_UNIT4_0220.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;In Part I of this unit, we looked at qualities of critical thinkers, for example, they are curious and they ask questions. They seek evidence to support a claim. In his article, Steps to Critical Thinking, John Hughes proposes an activity for creating a critical thinking mindset. Start by writing a statement on the board about which students may have an opinion. Students think of their response to that statement. Next, show them a list of the statements that follow.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1549">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435937033</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1550">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435937033</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="762">
+        <prevpageid>761</prevpageid>
+        <nextpageid>763</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435937103</timecreated>
+        <timemodified>1444781868</timemodified>
+        <title>Creating a Critical Thinking Mindset: Step 3</title>
+        <contents>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/no%20cell%20phones.png" width="250" height="250" alt="" style="float: right; margin: 5px 15px;" /&gt;&lt;span style="font-size: medium;"&gt;Step 3: Provide the possible answers, and students select the one closest to their own:&lt;/span&gt;&lt;/p&gt;
+&lt;ol type="a"&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;I'm not interested in this topic.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;I agree. It's true.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;I disagree. It's false.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;I'm not sure.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;I agree up to a point, but I also disagree.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;I agree/disagree because ....&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;I agree/disagree for a number of reasons, but I'd also like more evidence.&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Which are the words of a critical thinker?&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT4_0230.mp3"&gt;ELL_MOD1_UNIT4_0230.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Look at these responses and think about or discuss what they show about the mindset of the learner. Once learners choose the closest statement, they learn what it means in terms of critical thinking.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1551">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435937103</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1552">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435937103</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="763">
+        <prevpageid>762</prevpageid>
+        <nextpageid>764</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435944087</timecreated>
+        <timemodified>1438179938</timemodified>
+        <title>Creating a Critical Thinking Mindset: Step 4</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Step 4: Show this key to learners:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;IF YOU SAID . . .&lt;/span&gt;&lt;/p&gt;
+&lt;ol type="a" style="line-height: 2.0;"&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;I'm not interested in this topic.&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;&lt;em&gt;&lt;strong&gt;You don't need to be interested to have an opinion.&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;I agree. It's true.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;I disagree. It's false.&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;&lt;em&gt;&lt;strong&gt;Can you give reasons for your strong opinion?&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;I'm not sure. (formatting issue – don't indent)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;I agree up to a point, but I also disagree.&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;&lt;em&gt;&lt;strong&gt;This is safe, but critical thinkers are active in a discussion.&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;I agree/disagree because ....&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;&lt;em&gt;&lt;strong&gt;Good, you have a reason for your opinion.&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;I agree/disagree for a number of reasons, but I'd also like more evidence.&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Great! You have reasons and you want to know more! That's a critical thinker!&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1553">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435944087</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1554">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435944087</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="764">
+        <prevpageid>763</prevpageid>
+        <nextpageid>765</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435944232</timecreated>
+        <timemodified>1437844629</timemodified>
+        <title>Creating a Critical Thinking Mindset</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;The activity for creating a critical thinking mindset serves to:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Define critical thinking for learners&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Demonstrate what it looks like&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Hold learners responsible for engaging critically&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Revisit with students throughout a course. Let them evaluate their own development as critical thinkers!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT4_0240.mp3"&gt;ELL_MOD1_UNIT4_0240.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;This activity for creating a critical thinking mindset serves to define critical thinking for learners; it also demonstrates what it looks like and, in some ways, holds learners responsible for engaging critically in classroom conversations. This task can be revisited with students throughout a course, and they can evaluate their own development as critical thinkers! Let’s turn to the language needed to clearly express those ideas in English.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1555">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435944232</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1556">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435944232</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="765">
+        <prevpageid>764</prevpageid>
+        <nextpageid>766</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435944281</timecreated>
+        <timemodified>1437844648</timemodified>
+        <title>Fortifying Our Language</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Hand in hand with a critical thinking mindset is interaction.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;em&gt;Learners need to build on their existing ideas and clarify their knowledge when interacting with others. They need to strengthen their ideas&lt;/em&gt; (Zwiers, 2014).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT4_0250.mp3"&gt;ELL_MOD1_UNIT4_0250.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Jeff Zwiers suggests that many common activities do a good job of generating output, for example, jigsaw activities, mingles. or information gap tasks, but do they always lead to real interactions? He says that output often consists of one-way, one-time communication, often not much more than one or two sentences. Interactions, on the other hand, are back-and-forth exchanges of output where learners build on one another’s ideas; they build up and clarify knowledge that wasn’t in their minds before talking. He argues that we need to help learners to bulk-up or fortify learner output.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1557">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435944281</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1558">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435944281</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="766">
+        <prevpageid>765</prevpageid>
+        <nextpageid>767</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435944379</timecreated>
+        <timemodified>1445026657</timemodified>
+        <title>How Can We Fortify Learner Output?</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Opinion Formation Cards&lt;/strong&gt;:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Provide evidence for formulating an opinion&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Allow learners to analyze and refine their opinions&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Fortify output as students add to pre-existing beliefs&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Read the &lt;a href="@@PLUGINFILE@@/M1U4_S55_Zwiers_508.pdf" title="Zwiers Opinion Formation Cards"&gt;&lt;strong&gt;directions and opinion formation cards&lt;/strong&gt;&lt;/a&gt;. What critical thinking skills will this activity promote and how will it fortify learner output? Share ideas with your colleagues.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;em&gt;Children should not be allowed to watch TV.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;A study showed that children who watch TV engage in more violent behaviors.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;A survey showed that children who watched educational shows began to read sooner.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;From &lt;i&gt;Common Core Standards in Diverse Classrooms &lt;/i&gt;Jeff Zwiers, Susan O’Hara, and Robert Pritchard, copyright © 2014, reproduced with permission of Stenhouse Publishers. www.stenhouse.com &lt;/p&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT4_0260.mp3"&gt;ELL_MOD1_UNIT4_0260.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Here’s one example of how to fortify language from the Academic Language Development Network. Sheets of opinion cards are copied on different colors, cut up and distributed. Cards provide different sides of the issue and evidence to support them. Students talk to several students, each time gaining more data and evidence to potentially adjust their opinions.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1559">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435944379</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1560">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435944379</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="767">
+        <prevpageid>766</prevpageid>
+        <nextpageid>768</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435944438</timecreated>
+        <timemodified>1444782330</timemodified>
+        <title>Providing the Supports They Need!</title>
+        <contents>&lt;table class="img-rounded" align="right" border="0" cellpadding="5" cellspacing="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="background-color: #fff2b5;"&gt;
+&lt;p&gt;&lt;strong&gt;Elaborate and Clarify&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;How so?&lt;br /&gt;What do you mean by...&lt;br /&gt;What makes you think that?&lt;br /&gt;Why is that important?&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td style="background-color: #fff2b5;"&gt;
+&lt;p&gt;&lt;strong&gt;Synthesize Conversations&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We can say that...&lt;br /&gt;We all agree that...&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background-color: #fff2b5;"&gt;
+&lt;p&gt;&lt;strong&gt;Paraphrase Ideas&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;It sounds like...&lt;br /&gt;In other words...&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td style="background-color: #fff2b5;"&gt;
+&lt;p&gt;&lt;strong&gt;Build on a Partner's Idea&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I would add that...&lt;br /&gt;I want to add to your idea...&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Challenge a Partner's Idea&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Well, I think that...&lt;br /&gt;Another way to look at it is...&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background-color: #fff2b5;"&gt;
+&lt;p&gt;&lt;strong&gt;Support Ideas with Examples&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An example from my life is...&lt;br /&gt;For example...&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;In their book, &lt;em&gt;Academic Conversations&lt;/em&gt;, Zwiers and Crawford (2011) identify the core communication skills needed to engage in and sustain academic conversations, for example:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Elaborate and Clarify&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Support ideas with examples&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Paraphrase ideas&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Build on and challenge a partner's opinion&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Synthesize conversations&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: xx-small;"&gt;Excerpt used with permission of the author, Susan Finn Miller whose work was adapted with permission from work by Jeff Zwiers, Copyright 2014.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;Visit Unit 1 for more ideas on building academic language learners need for these critical conversations.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT4_0270.mp3"&gt;ELL_MOD1_UNIT4_0270.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;In their book, &lt;em&gt;Academic Conversations&lt;/em&gt;, Zwiers and Crawford (2011) identify the core communication skills needed to engage in critical conversations, for example, they need to elaborate and clarify, support ideas with examples, paraphrase ideas, build on and challenge a partner’s opinion, and synthesize conversations. All of this language goes hand in hand with critical thinking. We need to make these language functions explicit to adult ELLs:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Model the language needed&lt;/li&gt;
+&lt;li&gt;Provide sentence frames&lt;/li&gt;
+&lt;li&gt;Post the phrases on the board/wall&lt;/li&gt;
+&lt;li&gt;Provide academic conversation starters&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1561">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435944438</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1562">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435944438</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="768">
+        <prevpageid>767</prevpageid>
+        <nextpageid>769</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435944914</timecreated>
+        <timemodified>1445026695</timemodified>
+        <title>Language Frames for Starting and Sustaining Discussions</title>
+        <contents>&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/learner%20in%20class.png" width="250" height="388" alt="" style="float: right; margin: 5px 15px;" /&gt;Asking for opinions&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Giving opinions&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Agreeing&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Asking for clarification or more information&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Challenging an Opinion&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Expressing doubt and reservation&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Encouraging&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Emphasizing a point&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Giving examples&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Following up a question&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Hypothesizing&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Interrupting politely&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Summarizing&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;a href="@@PLUGINFILE@@/M1U4_S57_LanguageFrame_508.pdf" title="Language Frames for Discussion"&gt;&lt;strong&gt;Your list of sentence frames&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT4_0280.mp3"&gt;ELL_MOD1_UNIT4_0280.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;This list contains more language for starting those conversations and maintaining them. There are several phrases offered for each language function. Language functions are those social purposes for using language, so you’ll find several different ways we can express an opinion, agree, or disagree in English. Choose phrases that are manageable for the level you serve. Make posters, give sentence starters on flashcards, post them on the board, make them part of oral assessments.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1563">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435944914</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1564">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435944914</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="769">
+        <prevpageid>768</prevpageid>
+        <nextpageid>770</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435944964</timecreated>
+        <timemodified>1445294885</timemodified>
+        <title>Language Frames for Starting and Sustaining Discussions</title>
+        <contents>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/learner%20in%20class.png" width="250" height="388" alt="" style="float: right; margin: 5px 15px;" /&gt;&lt;span style="font-size: medium;"&gt;What to say when you &lt;strong&gt;disagree&lt;/strong&gt;:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Then again, we shouldn't forget...&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;I see it differently, based on...&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;That's a valid point, but I think...&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;I understand the idea of...but I think that...&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;On the other hand...&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;I do agree with the part about...but..&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;True, but what about...&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: x-small;"&gt;Excerpt used with permission of the author, Susan Finn Miller whose work was adapted with permission from work by Jeff Zwiers, Copyright 2014&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="line-height: 1.231;"&gt;Listen to audio:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT4_0290.mp3"&gt;ELL_MOD1_UNIT4_0290.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Drawing on the work of Jeff Zwiers, Susan Finn Miller provides adult ELA educators with Academic Conversation Starters like this one. What to say when… cards. See how much more expressive a student becomes when they move beyond “I think or I feel.” These conversation starters can go hand in hand with any of the activities in this unit.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1565">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435944964</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1566">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435944964</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="770">
+        <prevpageid>769</prevpageid>
+        <nextpageid>771</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435945006</timecreated>
+        <timemodified>1444782172</timemodified>
+        <title>Let’s Review the Principles</title>
+        <contents>&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;&lt;img src="@@PLUGINFILE@@/learner%20in%20class.png" width="250" height="388" alt="" style="float: right; margin: 5px 15px;" /&gt;Critical thinking can and should be practiced at all levels of instruction.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Add critical thinking as a layer to all lessons.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Ask questions that prompt critical thinking.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Teach the language needed to express students' ideas.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT4_0300.mp3"&gt;ELL_MOD1_UNIT4_0300.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Before you complete a final application activity, let’s review some key ideas from Unit 4. Critical thinking can and should be practiced at all levels of instruction. You can do this by adding a layer of critical thinking to existing activities, lessons, and curricula. Create lessons with multiple possible answers or that require a level of analysis. Use graphic organizers to show the relationship between ideas. Ask questions that go beyond recall. Use the Depth of Knowledge wheel as you are planning instruction. Make sure you are moving up to levels 3 and 4 and that you are guiding students toward a critical thinking mindset.&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1567">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435945006</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1568">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435945006</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="771">
+        <prevpageid>770</prevpageid>
+        <nextpageid>772</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1437143754</timecreated>
+        <timemodified>1445026736</timemodified>
+        <title>Application for Teachers</title>
+        <contents>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/learner%20in%20class.png" width="250" height="388" alt="" style="float: right; margin: 5px 15px;" /&gt;&lt;span style="font-size: medium;"&gt;Choose a lesson you currently teach and add a &lt;strong&gt;layer&lt;/strong&gt; of critical thinking. Try to make at least three modifications to an existing lesson. You could do any of the following:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Create questions to prompt critical thinking&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Create a task for applying any critical thinking skills: comparing and contrasting, challenging ideas&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Use a graphic organizer&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Provide necessary language frames&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Share your lesson modification with your colleagues&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;This &lt;a href="@@PLUGINFILE@@/M1U4_S60_%2067_Lesson%20508.docx" title="Lesson Analysis Template"&gt;&lt;strong&gt;lesson analysis template&lt;/strong&gt;&lt;/a&gt; might help you with your planning.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1571">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1437143754</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1572">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1437143754</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="772">
+        <prevpageid>771</prevpageid>
+        <nextpageid>773</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435945050</timecreated>
+        <timemodified>1444609639</timemodified>
+        <title>Revisit Your Concept Map</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Now revisit your concept map of critical thinking that you created at the beginning of the unit. &lt;strong&gt;What, if anything, do you want to add to your concept map based on what you have learned in this unit? &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1569">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435945050</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1570">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435945050</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="773">
+        <prevpageid>772</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444609719</timecreated>
+        <timemodified>1471567898</timemodified>
+        <title>Action Plan (required for instructors)</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;What are three things you will do differently in your instruction as a result of what you worked on in this unit? How will those changes benefit the learners you serve?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Share your responses to this activity in your &lt;/strong&gt;&lt;strong&gt;Community of Practice, or with your colleagues on the &lt;a href="https://community.lincs.ed.gov/comment/16539#comment-16539" title="ESL Pro Module 1 Unit 4 Discussion Forum"&gt;LINCS discussion forum&lt;/a&gt;.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54678"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54677"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54680"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_54682"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_54681"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1575">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444609719</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1576">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444609719</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="756">
+        <prevpageid>774</prevpageid>
+        <nextpageid>757</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435094974</timecreated>
+        <timemodified>1445026602</timemodified>
+        <title>Applying Critical Thinking at Work</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;Ronna Magy and Donna Price* propose a framework for problem solving at work:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Present the problem&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Assign roles&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Provide language supports needed&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: medium;"&gt;Explore options&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;&lt;a href="@@PLUGINFILE@@/M1U4_S45%20Problem_Solving_508.pdf" title="Problem Solving"&gt;Problem Solving at Work&lt;/a&gt; &lt;/strong&gt;(Excerpt from the presentation, "Contextualized Instruction: Problem Solving and Self Evaluation,” used with permission from the author, Ronna Magy.)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;*Ronna Magy is a professional development specialist and author; Donna Price is a vocational ESL specialist and associate professor at San Diego State Community College District.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Listen to audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/ELL_MOD1_UNIT4_0180.mp3"&gt;ELL_MOD1_UNIT4_0180.mp3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Audio transcript&lt;/summary&gt;
+&lt;p&gt;&lt;br /&gt;Ronna Magy and Donna Price propose a framework for problem solving at work, which requires careful analysis and decision making. See how their process scaffolds problem solving in work situations. Look at their materials and decide if any of the scenarios correspond to your learners’ needs. What other scenarios might you write or have learners create themselves?&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1539">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435094974</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1540">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435094974</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

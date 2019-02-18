@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="144" moduleid="5170" modulename="lesson" contextid="16060">
+  <lesson id="144">
+    <course>137</course>
+    <name>Part 3: The Current Landscape of Adult Education in the United States</name>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>100</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timed>0</timed>
+    <maxtime>20</maxtime>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <showhighscores>0</showhighscores>
+    <maxhighscores>10</maxhighscores>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1435277003</timemodified>
+    <pages>
+      <page id="589">
+        <prevpageid>0</prevpageid>
+        <nextpageid>590</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1439139594</timecreated>
+        <timemodified>1446850969</timemodified>
+        <title>Influences of the CCRS</title>
+        <contents>&lt;p&gt;Choose your pathway below.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1223">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1439139594</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Instructors</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1224">
+            <jumpto>598</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1439139594</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Administrators</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="590">
+        <prevpageid>589</prevpageid>
+        <nextpageid>597</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444704509</timecreated>
+        <timemodified>0</timemodified>
+        <title>Influences of the CCRS for Instructors</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;We can’t talk about increasing rigor of instruction in adult ESL without mentioning the &lt;strong&gt;College and Career Readiness Standards&lt;/strong&gt;. These standards serve to raise awareness and understanding of the critical skills and knowledge expected and required for success in colleges, technical training programs, and employment in the 21st century (Pimentel, 2013). The work you are doing in this module complements CCRS implementation that may be going on in your state.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px; text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;em&gt;“The importance of college and career readiness for adult students cannot be overstated. Increasingly, students entering the workforce are discovering that they need critical knowledge and skills that are used on a regular basis. They recognize that pursuing a career pathway that pays enough to support a family and provides genuine potential for advancement hinges on being able to perform the complex tasks identified by the CCRS as critical for postsecondary success. ….It is crucial, then, that adult education programs provide students the opportunity to acquire these skills to pursue their long-term career aspirations and goals.”&lt;/em&gt; (Pimentel, 2013, p. 2).&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1234">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444704509</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1235">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444704509</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="597">
+        <prevpageid>590</prevpageid>
+        <nextpageid>598</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444704569</timecreated>
+        <timemodified>1446848035</timemodified>
+        <title>Key Advances</title>
+        <contents>&lt;h2 style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Key advances prompted by the College and Career Readiness Standards&lt;/span&gt;&lt;/h2&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;These key advances prompted by the College and Career Readiness Standards can serve as foundational principles for our work in this module:&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px; text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;strong&gt;Complexity&lt;/strong&gt;: Regular practice with complex text (and its academic language)&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px; text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;strong&gt;Evidence&lt;/strong&gt;: Reading, writing, and speaking grounded in evidence from text&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px; text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;strong&gt;Knowledge&lt;/strong&gt;: Building knowledge through content-rich nonfiction&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Administrators, take a closer look at &lt;a href="http://lincs.ed.gov/professional-development/resource-collections/profile-521" title="CCRS" target="_blank"&gt;the CCRS&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1236">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444704569</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1237">
+            <jumpto>596</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444704569</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="594">
+        <prevpageid>591</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444435867</timecreated>
+        <timemodified>1471566389</timemodified>
+        <title>Application for Administrators</title>
+        <contents>&lt;h2 style="text-align: left;"&gt;&lt;span style="color: #5fa6ca; font-size: medium;"&gt;&lt;img style="float: right; margin: 15px;" alt="Stick figures standing in elevator" src="@@PLUGINFILE@@/stick%20figures%20in%20elevator%20%281%29.png" width="375" height="282" /&gt;&lt;/span&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;strong&gt;Develop an elevator speech&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;In your role, you  interact with teachers, professional development providers, policy makers, and learners. What would you tell them about the need for increasing the rigor of instruction in adult ESL? Draw on examples from the resources (Parrish and Johnson, Alignment &lt;a href="@@PLUGINFILE@@/M1U1_S43_Survey%20Results_508.pdf" title="Survey Results"&gt;Survey results&lt;/a&gt;, employment data, CCRS intro) and vignettes presented in the unit.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;strong&gt;Try out your speech with two colleagues&lt;/strong&gt;:&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px; text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;What questions did they have and how were you able to respond?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px; text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;What seemed to be the most surprising thing to them?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px; text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;What do you feel confident talking about with regard to increasing the rigor of instruction in adult ESL and what questions do you still have? &lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px; text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;How can you learn more?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px; text-align: left;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;strong&gt;Share your responses to this activity in your Community of Practice, or &lt;a href="https://community.lincs.ed.gov/comment/16536#comment-16536"&gt;share with your colleagues on LINCS here&lt;/a&gt;.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44651"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44650"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44532"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44526"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44525"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1227">
+            <jumpto>593</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444435867</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1228">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444435867</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="595">
+        <prevpageid>592</prevpageid>
+        <nextpageid>596</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444704322</timecreated>
+        <timemodified>0</timemodified>
+        <title>Reading and Reflection</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="color: #000000;"&gt;&lt;strong&gt;Reading and Reflection on CCRS for Administrators&lt;/strong&gt;: While this module is not focused on the CCRS, it is important that administrators (and teachers) see the connections.  This module can give you a head start with thinking about CCRS implementation in adult ESL. To learn more about the rationale for the CCRS in adult in education, read the introduction (pages 1-11) to&lt;/span&gt; &lt;a target="_blank" title="Open College and Career Readiness Standards for Adult Education" href="http://lincs.ed.gov/professional-development/resource-collections/profile-521"&gt;&lt;em&gt;College and Career Readiness Standards for Adult Education&lt;/em&gt;&lt;/a&gt; &lt;span style="color: #000000;"&gt;(Pimentel, 2013) and think about these questions as you read.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;1. Where is your  state currently with regard to the integration of college or career readiness competencies in adult ESL programming, regardless of whether you have begun implementing CCRS?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;2. What have learned from this document that will help you make the case for increased rigor in adult ESL when working with teachers in your program or state?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1232">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444704322</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1233">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444704322</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="591">
+        <prevpageid>593</prevpageid>
+        <nextpageid>594</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444344095</timecreated>
+        <timemodified>1471980852</timemodified>
+        <title>Application for Instructors</title>
+        <contents>&lt;h2 style="text-align: left;"&gt;&lt;span style="color: #8ebb41;"&gt;&lt;img style="margin: 15px; float: right;" alt="" src="@@PLUGINFILE@@/Learners%20in%20a%20classroom%20%281%29.png" width="367" height="244" /&gt;&lt;span style="color: #000000;"&gt;Pulling it All Together in Your Context&lt;/span&gt;&lt;/span&gt;&lt;/h2&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;strong&gt;Part I:&lt;/strong&gt; Create a vignette of one learner, interviewing them if possible. Feel free to use the help of an interpreter if needed:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;em&gt;What is his or her background? What are his or her hopes for the future, at home and with family, in the community, at school or at work?&lt;/em&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Conduct the same analysis for your learner that you did for the vignettes in the unit. &lt;/span&gt;&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;What can we infer about this learner’s personal and professional goals that she or he may not have been able to articulate?&lt;/span&gt;&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;What complex language and skills are required if this learner one day wants to achieve his or her goals? How might this learner’s strengths and challenges impact acquisition of the more complex language and skills presented in the unit?&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;strong&gt;Part II:&lt;/strong&gt; With your own learners in mind, describe what academic language, listening, reading, or critical thinking skills would benefit them and describe how you could incorporate practice with at least 2 of those skills in a lesson with that learner. Draw on examples from the &lt;em&gt;&lt;a href="@@PLUGINFILE@@/M1U1_S37_45_SampLes_508.docx" title="Sample Lesson Enhancements"&gt;Sample Lesson Enhancement&lt;/a&gt;&lt;/em&gt; or &lt;a href="https://lincs.ed.gov/professional-development/resource-collections/profile-418" title="Parrish and Johnson" target="_blank"&gt;&lt;em&gt;Parrish and Johnson&lt;/em&gt; (2010)&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Share your responses to this activity in your Community of Practice, or &lt;a href="https://community.lincs.ed.gov/comment/16536#comment-16536" title="Unit 1 LINCS Discussion"&gt;share with your colleagues on LINCS here.&lt;/a&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Present your vignette, analysis and lesson enhancements to colleagues if you are working in a PLC, study circle or peer/small group.&lt;/span&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44651"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44650"&gt;You have reached the end of this lesson.  You may review any of the content in this lesson using the &lt;b&gt;Lesson Menu&lt;/b&gt; on the left of the screen&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="yiv6737391600MsoNormal" id="yui_3_16_0_1_1444861047032_44526"&gt;&lt;span style="font-size: medium; color: #666699;"&gt;&lt;span id="yui_3_16_0_1_1444861047032_44525"&gt;If you have finished viewing the lesson, (1) click the &lt;b&gt;NEXT &lt;/b&gt;button on this screen to indicate completion in your progress tracker.  Then, (2) return to the home page to select your next activity.  Activities you have completed will be checked off in your progress tracker&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1225">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444344095</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1226">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444344095</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="596">
+        <prevpageid>595</prevpageid>
+        <nextpageid>593</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091460</timecreated>
+        <timemodified>1446501937</timemodified>
+        <title>Workforce Innovation and Opportunity Act</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;The Workforce Innovation and Opportunity Act (2014) emphasizes the need to prepare all adults, including ELLs, to transition to further education, training, and employment in high-demand industries and occupations. Academic language is critical to prepare adult ELLs for the demands of work and further education.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1217">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1220">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091460</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="593">
+        <prevpageid>596</prevpageid>
+        <nextpageid>591</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1435091820</timecreated>
+        <timemodified>1449779965</timemodified>
+        <title>Reviewing the Principles in this Unit</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Each of the Modules has an accompanying Issue Brief. The &lt;strong&gt;Issue Brief&lt;/strong&gt; provides an overview of the principles covered in this unit, and in the module overall.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;strong&gt;OPTIONAL TASK&lt;/strong&gt;: &lt;a href="@@PLUGINFILE@@/ELL_Increasing_Rigor_508.pdf" title="Parrish and Johnson" target="_blank"&gt;Read the Issue Brief&lt;/a&gt; and answer these questions:&lt;/span&gt;&lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;&lt;span style="color: #000000; font-size: medium;"&gt;What more have you learned about the need for increasing the rigor of instruction in this Issue Brief?&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="color: #000000; font-size: medium;"&gt;What are some practices that you could readily include in your classes or program?&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1218">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091820</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1219">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091820</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Instructors</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1229">
+            <jumpto>594</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1435091820</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Administrators</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="598">
+        <prevpageid>597</prevpageid>
+        <nextpageid>592</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1439138818</timecreated>
+        <timemodified>1444704635</timemodified>
+        <title>Influences of the CCRS for Administrators</title>
+        <contents>&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;We can’t talk about increasing rigor of instruction in adult ESL without mentioning the &lt;strong&gt;College and Career Readiness Standards&lt;/strong&gt;. These standards serve to raise awareness and understanding of the critical skills and knowledge expected and required for success in colleges, technical training programs, and employment in the 21st century (Pimentel, 2013). The work you are doing in this module complements CCRS implementation that may be going on in your state.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px; text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;em&gt;“The importance of college and career readiness for adult students cannot be overstated. Increasingly, students entering the workforce are discovering that they need critical knowledge and skills that are used on a regular basis. They recognize that pursuing a career pathway that pays enough to support a family and provides genuine potential for advancement hinges on being able to perform the complex tasks identified by the CCRS as critical for postsecondary success. ….It is crucial, then, that adult education programs provide students the opportunity to acquire these skills to pursue their long-term career aspirations and goals.”&lt;/em&gt; (Pimentel, 2013, p. 2).&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1221">
+            <jumpto>589</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1439138818</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1222">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1439138818</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="592">
+        <prevpageid>598</prevpageid>
+        <nextpageid>595</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1444704249</timecreated>
+        <timemodified>1446848047</timemodified>
+        <title>Key Advances</title>
+        <contents>&lt;h2 style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;Key advances prompted by the College and Career Readiness Standards&lt;/span&gt;&lt;/h2&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;These key advances prompted by the College and Career Readiness Standards can serve as foundational principles for our  work in this module:&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px; text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;strong&gt;Complexity&lt;/strong&gt;: Regular practice with complex text (and its academic language)&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px; text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;strong&gt;Evidence&lt;/strong&gt;: Reading, writing, and speaking grounded in evidence from text&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px; text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;&lt;strong&gt;Knowledge&lt;/strong&gt;: Building knowledge through content-rich nonfiction&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #000000; font-size: medium;"&gt;While this module is not focused on the CCRS, it is important that administrators (and teachers) see the connections. This module can give programs a head start with thinking about CCRS implementation in adult ESL.&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1230">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444704249</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1231">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1444704249</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <highscores>
+    </highscores>
+    <timers>
+    </timers>
+  </lesson>
+</activity>

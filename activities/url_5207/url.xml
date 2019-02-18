@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="135" moduleid="5207" modulename="url" contextid="16097">
+  <url id="135">
+    <name>LINCS Satisfaction Survey (Module 1 Unit 3)</name>
+    <intro>&lt;p&gt;&lt;span&gt;The purpose of this survey is to learn about your experiences in your most recent LINCS training.  This survey is voluntary, but your input is valued and will help us improve the trainings we offer. The survey should take approximately 5 minutes to complete.  Your responses are confidential and we do not use any technical or non-technical means of tracking responses.&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <externalurl>https://www.surveygizmo.com/s3/4543533/ELA-ELLLangNeeds-Module-2-Increasing-Strategies-for-ELA</externalurl>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <parameters>a:0:{}</parameters>
+    <timemodified>1535478558</timemodified>
+  </url>
+</activity>
